@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<mets ID="DSpace_ITEM_10063-1710" OBJID="hdl:10063/1710" TYPE="DSpace ITEM" PROFILE="http://www.dspace.org/schema/aip/mets_aip_1_0.xsd" xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+ <metsHdr LASTMODDATE="2016-08-24T10:33:15">
+  <agent ROLE="CUSTODIAN" TYPE="OTHER" OTHERTYPE="DSpace Archive">
+   <name>10063/0</name>
+  </agent>
+  <agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="DSpace Software">
+   <name>DSpace 1.8.2</name>
+  </agent>
+ </metsHdr>
+ <dmdSec ID="dmdSec_1">
+  <mdWrap MDTYPE="MODS">
+   <xmlData xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-1.xsd"><mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-1.xsd">
+  <mods:name>
+    <mods:role>
+      <mods:roleTerm type="text">advisor</mods:roleTerm>
+    </mods:role>
+    <mods:namePart>Huff, Sid</mods:namePart>
+  </mods:name>
+  <mods:name>
+    <mods:role>
+      <mods:roleTerm type="text">advisor</mods:roleTerm>
+    </mods:role>
+    <mods:namePart>Gorman, Gary</mods:namePart>
+  </mods:name>
+  <mods:name>
+    <mods:role>
+      <mods:roleTerm type="text">author</mods:roleTerm>
+    </mods:role>
+    <mods:namePart>Chawner, Brenda</mods:namePart>
+  </mods:name>
+  <mods:extension>
+    <mods:dateAccessioned encoding="iso8601">2011-07-28T21:18:40Z</mods:dateAccessioned>
+  </mods:extension>
+  <mods:extension>
+    <mods:dateAvailable encoding="iso8601">2011-07-28T21:18:40Z</mods:dateAvailable>
+  </mods:extension>
+  <mods:originInfo>
+    <mods:copyrightDate encoding="iso8601">2011</mods:copyrightDate>
+  </mods:originInfo>
+  <mods:originInfo>
+    <mods:copyrightDate encoding="iso8601">2011</mods:copyrightDate>
+  </mods:originInfo>
+  <mods:originInfo>
+    <mods:dateIssued encoding="iso8601">2011</mods:dateIssued>
+  </mods:originInfo>
+  <mods:identifier type="uri">http://hdl.handle.net/10063/1710</mods:identifier>
+  <mods:abstract>The purpose of this research was to identify factors that affect participants’ satisfaction with their experience of a free/libre open source software (FLOSS) project. The research built on existing models of user satisfaction from the information systems literature, and also incorporated two characteristics of FLOSS projects first identified by Ye, Nakakoji, Yamamoto, and Kishida (2005), product openness and process openness. The central research question it answered was, What factors influence participant satisfaction with a free/libre and open source application software project?&#xD;
+Richard Stallman’s reasons for setting up the GNU project and the Free Software Foundation arose from his frustration at being forced to be a passive user of software used for a Xerox printer. These suggest that being able to be an active participant in a FLOSS project is one factor that should be examined, and therefore the first sub-question this project answers is, What types of contributions do participants make to free/libre and open source software projects?&#xD;
+Several studies have shown that the extent of participation in a FLOSS project varies from individual to individual, and this variation leads to the second sub-question, Do the factors that influence satisfaction vary for different types of participation? If so, in what way?&#xD;
+A preliminary conceptual model of factors affecting participant satisfaction was developed, reflecting the key concepts identified in the literature. The main theoretical goal of this research was to test the model using empirical data.&#xD;
+The research used a sequential, mixed methods approach. The first, qualitative stage involved reviewing documents from selected projects and interviewing a purposive sample of FLOSS project participants. The second, quantitative stage involved an online survey of FLOSS project participants, and the data gathered were used to test the conceptual model.&#xD;
+The results of the first stage showed that participation in FLOSS projects was a more complex construct than previously reported in the literature. Seven distinct categories of activities were identified:&#xD;
+• use;&#xD;
+• interaction with code;&#xD;
+• supporting the community;&#xD;
+• outreach;&#xD;
+• sponsorship;&#xD;
+• management; and&#xD;
+• governance.&#xD;
+Four attributes that modified these categories were also identified: organisational focus, role formality, remuneration, and time commitment.&#xD;
+Data from 154 responses to the online survey were used to test the model using stepwise multiple regression, which determined the effect of each of the variables on overall participant satisfaction. Moderated regression analysis was used to test the effects of three potential moderating variables. The results showed that that perceived system complexity had the largest effect, decreasing satisfaction if respondents perceived that the software was complex, while project openness and perceived developer communication quality accounted for the most variance in satisfaction.&#xD;
+The main theoretical contribution of this research lies in its extension of satisfaction studies to FLOSS communities, showing that  communication and openness are more important than in conventional software projects. Its practical contribution will help people involved in the management and governance of FLOSS projects to identify ways of increasing their participants’ satisfaction, which may in turn encourage them to contribute more.</mods:abstract>
+  <mods:language>
+    <mods:languageTerm authority="rfc3066">en_NZ</mods:languageTerm>
+  </mods:language>
+  <mods:originInfo>
+    <mods:publisher>Victoria University of Wellington</mods:publisher>
+  </mods:originInfo>
+  <mods:subject>
+    <mods:topic>Satisfaction</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Participation</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>FLOSS (Free/libre open source software)</mods:topic>
+  </mods:subject>
+  <mods:titleInfo>
+    <mods:title>Factors Influencing Participant Satisfaction with Free/Libre and Open Source Software Projects</mods:title>
+  </mods:titleInfo>
+  <mods:genre>Text</mods:genre>
+</mods:mods></xmlData>
+  </mdWrap>
+ </dmdSec>
+ <dmdSec ID="dmdSec_2">
+  <mdWrap MDTYPE="OTHER" OTHERMDTYPE="DIM">
+   <xmlData xmlns:dim="http://www.dspace.org/xmlns/dspace/dim"><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" dspaceType="ITEM">
+  <dim:field mdschema="dc" element="contributor" qualifier="advisor" lang="">Huff, Sid</dim:field>
+  <dim:field mdschema="dc" element="contributor" qualifier="advisor" lang="">Gorman, Gary</dim:field>
+  <dim:field mdschema="dc" element="contributor" qualifier="author" lang="">Chawner, Brenda</dim:field>
+  <dim:field mdschema="dc" element="date" qualifier="accessioned" lang="">2011-07-28T21:18:40Z</dim:field>
+  <dim:field mdschema="dc" element="date" qualifier="available" lang="">2011-07-28T21:18:40Z</dim:field>
+  <dim:field mdschema="dc" element="date" qualifier="copyright" lang="">2011</dim:field>
+  <dim:field mdschema="dc" element="date" qualifier="copyright" lang="">2011</dim:field>
+  <dim:field mdschema="dc" element="date" qualifier="issued" lang="">2011</dim:field>
+  <dim:field mdschema="dc" element="identifier" qualifier="uri" lang="">http://hdl.handle.net/10063/1710</dim:field>
+  <dim:field mdschema="dc" element="description" qualifier="abstract" lang="en_NZ">The purpose of this research was to identify factors that affect participants’ satisfaction with their experience of a free/libre open source software (FLOSS) project. The research built on existing models of user satisfaction from the information systems literature, and also incorporated two characteristics of FLOSS projects first identified by Ye, Nakakoji, Yamamoto, and Kishida (2005), product openness and process openness. The central research question it answered was, What factors influence participant satisfaction with a free/libre and open source application software project?&#xD;
+Richard Stallman’s reasons for setting up the GNU project and the Free Software Foundation arose from his frustration at being forced to be a passive user of software used for a Xerox printer. These suggest that being able to be an active participant in a FLOSS project is one factor that should be examined, and therefore the first sub-question this project answers is, What types of contributions do participants make to free/libre and open source software projects?&#xD;
+Several studies have shown that the extent of participation in a FLOSS project varies from individual to individual, and this variation leads to the second sub-question, Do the factors that influence satisfaction vary for different types of participation? If so, in what way?&#xD;
+A preliminary conceptual model of factors affecting participant satisfaction was developed, reflecting the key concepts identified in the literature. The main theoretical goal of this research was to test the model using empirical data.&#xD;
+The research used a sequential, mixed methods approach. The first, qualitative stage involved reviewing documents from selected projects and interviewing a purposive sample of FLOSS project participants. The second, quantitative stage involved an online survey of FLOSS project participants, and the data gathered were used to test the conceptual model.&#xD;
+The results of the first stage showed that participation in FLOSS projects was a more complex construct than previously reported in the literature. Seven distinct categories of activities were identified:&#xD;
+• use;&#xD;
+• interaction with code;&#xD;
+• supporting the community;&#xD;
+• outreach;&#xD;
+• sponsorship;&#xD;
+• management; and&#xD;
+• governance.&#xD;
+Four attributes that modified these categories were also identified: organisational focus, role formality, remuneration, and time commitment.&#xD;
+Data from 154 responses to the online survey were used to test the model using stepwise multiple regression, which determined the effect of each of the variables on overall participant satisfaction. Moderated regression analysis was used to test the effects of three potential moderating variables. The results showed that that perceived system complexity had the largest effect, decreasing satisfaction if respondents perceived that the software was complex, while project openness and perceived developer communication quality accounted for the most variance in satisfaction.&#xD;
+The main theoretical contribution of this research lies in its extension of satisfaction studies to FLOSS communities, showing that  communication and openness are more important than in conventional software projects. Its practical contribution will help people involved in the management and governance of FLOSS projects to identify ways of increasing their participants’ satisfaction, which may in turn encourage them to contribute more.</dim:field>
+  <dim:field mdschema="dc" element="description" qualifier="provenance" lang="en_NZ">Submitted by Christine Farley (christine.farley@vuw.ac.nz) on 2011-07-28T21:18:11Z&#xD;
+No. of bitstreams: 2&#xD;
+form.pdf: 37589 bytes, checksum: b139fcc262845937b92cbeb0f6abd62a (MD5)&#xD;
+thesis.pdf: 4557791 bytes, checksum: 3eb91108d1942aa0b7f0c4ba216d693f (MD5)</dim:field>
+  <dim:field mdschema="dc" element="description" qualifier="provenance" lang="en_NZ">Approved for entry into archive by Christine Farley(christine.farley@vuw.ac.nz) on 2011-07-28T21:18:40Z (GMT) No. of bitstreams: 2&#xD;
+form.pdf: 37589 bytes, checksum: b139fcc262845937b92cbeb0f6abd62a (MD5)&#xD;
+thesis.pdf: 4557791 bytes, checksum: 3eb91108d1942aa0b7f0c4ba216d693f (MD5)</dim:field>
+  <dim:field mdschema="dc" element="description" qualifier="provenance" lang="en_NZ">Made available in DSpace on 2011-07-28T21:18:40Z (GMT). No. of bitstreams: 2&#xD;
+form.pdf: 37589 bytes, checksum: b139fcc262845937b92cbeb0f6abd62a (MD5)&#xD;
+thesis.pdf: 4557791 bytes, checksum: 3eb91108d1942aa0b7f0c4ba216d693f (MD5)</dim:field>
+  <dim:field mdschema="dc" element="language" qualifier="iso" lang="">en_NZ</dim:field>
+  <dim:field mdschema="dc" element="publisher" lang="en_NZ">Victoria University of Wellington</dim:field>
+  <dim:field mdschema="dc" element="subject" lang="en_NZ">Satisfaction</dim:field>
+  <dim:field mdschema="dc" element="subject" lang="en_NZ">Participation</dim:field>
+  <dim:field mdschema="dc" element="subject" lang="en_NZ">FLOSS (Free/libre open source software)</dim:field>
+  <dim:field mdschema="dc" element="title" lang="en_NZ">Factors Influencing Participant Satisfaction with Free/Libre and Open Source Software Projects</dim:field>
+  <dim:field mdschema="dc" element="type" lang="en_NZ">Text</dim:field>
+  <dim:field mdschema="vuwschema" element="contributor" qualifier="unit" lang="en_NZ">School of Information Management</dim:field>
+  <dim:field mdschema="vuwschema" element="subject" qualifier="marsden" lang="en_NZ">280199 Information Systems not Elsewhere Classified</dim:field>
+  <dim:field mdschema="vuwschema" element="type" qualifier="vuw" lang="en_NZ">Awarded Doctoral Thesis</dim:field>
+  <dim:field mdschema="thesis" element="degree" qualifier="discipline" lang="en_NZ">Information Systems</dim:field>
+  <dim:field mdschema="thesis" element="degree" qualifier="grantor" lang="en_NZ">Victoria University of Wellington</dim:field>
+  <dim:field mdschema="thesis" element="degree" qualifier="level" lang="en_NZ">Doctoral</dim:field>
+  <dim:field mdschema="thesis" element="degree" qualifier="name" lang="en_NZ">Doctor of Philosophy</dim:field>
+  <dim:field mdschema="dc" element="rights" qualifier="license" lang="en_NZ">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 New Zealand License.  http://creativecommons.org/licenses/by-sa/3.0/nz/</dim:field>
+</dim:dim></xmlData>
+  </mdWrap>
+ </dmdSec>
+ <dmdSec ID="dmdSec_3">
+  <mdWrap MDTYPE="OTHER" OTHERMDTYPE="QDC">
+   <xmlData xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xml="http://www.w3.org/XML/1998/namespace" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd"><dcterms:advisor xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="">Huff, Sid</dcterms:advisor>
+<dcterms:advisor xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="">Gorman, Gary</dcterms:advisor>
+<dcterms:author xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="">Chawner, Brenda</dcterms:author>
+<dcterms:dateAccepted xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="">2011-07-28T21:18:40Z</dcterms:dateAccepted>
+<dcterms:available xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="">2011-07-28T21:18:40Z</dcterms:available>
+<dcterms:dateCopyrighted xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="">2011</dcterms:dateCopyrighted>
+<dcterms:dateCopyrighted xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="">2011</dcterms:dateCopyrighted>
+<dcterms:issued xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="">2011</dcterms:issued>
+<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" type="dcterms:URI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="">http://hdl.handle.net/10063/1710</dc:identifier>
+<dcterms:abstract xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">The purpose of this research was to identify factors that affect participants’ satisfaction with their experience of a free/libre open source software (FLOSS) project. The research built on existing models of user satisfaction from the information systems literature, and also incorporated two characteristics of FLOSS projects first identified by Ye, Nakakoji, Yamamoto, and Kishida (2005), product openness and process openness. The central research question it answered was, What factors influence participant satisfaction with a free/libre and open source application software project?&#xD;
+Richard Stallman’s reasons for setting up the GNU project and the Free Software Foundation arose from his frustration at being forced to be a passive user of software used for a Xerox printer. These suggest that being able to be an active participant in a FLOSS project is one factor that should be examined, and therefore the first sub-question this project answers is, What types of contributions do participants make to free/libre and open source software projects?&#xD;
+Several studies have shown that the extent of participation in a FLOSS project varies from individual to individual, and this variation leads to the second sub-question, Do the factors that influence satisfaction vary for different types of participation? If so, in what way?&#xD;
+A preliminary conceptual model of factors affecting participant satisfaction was developed, reflecting the key concepts identified in the literature. The main theoretical goal of this research was to test the model using empirical data.&#xD;
+The research used a sequential, mixed methods approach. The first, qualitative stage involved reviewing documents from selected projects and interviewing a purposive sample of FLOSS project participants. The second, quantitative stage involved an online survey of FLOSS project participants, and the data gathered were used to test the conceptual model.&#xD;
+The results of the first stage showed that participation in FLOSS projects was a more complex construct than previously reported in the literature. Seven distinct categories of activities were identified:&#xD;
+• use;&#xD;
+• interaction with code;&#xD;
+• supporting the community;&#xD;
+• outreach;&#xD;
+• sponsorship;&#xD;
+• management; and&#xD;
+• governance.&#xD;
+Four attributes that modified these categories were also identified: organisational focus, role formality, remuneration, and time commitment.&#xD;
+Data from 154 responses to the online survey were used to test the model using stepwise multiple regression, which determined the effect of each of the variables on overall participant satisfaction. Moderated regression analysis was used to test the effects of three potential moderating variables. The results showed that that perceived system complexity had the largest effect, decreasing satisfaction if respondents perceived that the software was complex, while project openness and perceived developer communication quality accounted for the most variance in satisfaction.&#xD;
+The main theoretical contribution of this research lies in its extension of satisfaction studies to FLOSS communities, showing that  communication and openness are more important than in conventional software projects. Its practical contribution will help people involved in the management and governance of FLOSS projects to identify ways of increasing their participants’ satisfaction, which may in turn encourage them to contribute more.</dcterms:abstract>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" type="dcterms:ISO639-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="">en_NZ</dc:language>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">Victoria University of Wellington</dc:publisher>
+<dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">Satisfaction</dc:subject>
+<dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">Participation</dc:subject>
+<dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">FLOSS (Free/libre open source software)</dc:subject>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">Factors Influencing Participant Satisfaction with Free/Libre and Open Source Software Projects</dc:title>
+<dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">Text</dc:type>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" type="LOCAL-UNIT" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">School of Information Management</dc:publisher>
+<dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" type="MARSDEN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">280199 Information Systems not Elsewhere Classified</dc:subject>
+<dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" type="LOCAL-TYPE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">Awarded Doctoral Thesis</dc:type>
+<dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" type="THESIS-DEGREE-DISIPLINE" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">Information Systems</dc:subject>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/" type="THESIS-DEGREE-GRANTOR" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">Victoria University of Wellington</dc:publisher>
+<dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" type="THESIS-DEGREE-LEVEL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">Doctoral</dc:type>
+<dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" type="THESIS-DEGREE-NAME" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd" xml:lang="en_NZ">Doctor of Philosophy</dc:type></xmlData>
+  </mdWrap>
+ </dmdSec>
+ <amdSec ID="amd_4">
+  <rightsMD ID="rightsMD_7">
+   <mdRef LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_9560" MDTYPE="OTHER" OTHERMDTYPE="DSpaceDepositLicense" MIMETYPE="text/plain"/>
+  </rightsMD>
+  <rightsMD ID="rightsMD_10">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRIGHTS">
+    <xmlData xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xsi:schemaLocation="http://cosimo.stanford.edu/sdr/metsrights/ http://cosimo.stanford.edu/sdr/metsrights.xsd"><rights:RightsDeclarationMD xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" RIGHTSCATEGORY="LICENSED">
+  <rights:Context CONTEXTCLASS="GENERAL PUBLIC">
+    <rights:Permissions DISCOVER="true" DISPLAY="true" MODIFY="false" DELETE="false" />
+  </rights:Context>
+</rights:RightsDeclarationMD></xmlData>
+   </mdWrap>
+  </rightsMD>
+  <sourceMD ID="sourceMD_11">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="AIP-TECHMD">
+    <xmlData xmlns:dim="http://www.dspace.org/xmlns/dspace/dim"><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" dspaceType="ITEM">
+  <dim:field mdschema="dc" element="creator">christine.farley@vuw.ac.nz</dim:field>
+  <dim:field mdschema="dc" element="identifier" qualifier="uri">hdl:10063/1710</dim:field>
+  <dim:field mdschema="dc" element="relation" qualifier="isPartOf">hdl:10063/32</dim:field>
+  <dim:field mdschema="dc" element="relation" qualifier="isReferencedBy">hdl:10063/235</dim:field>
+</dim:dim></xmlData>
+   </mdWrap>
+  </sourceMD>
+ </amdSec>
+ <amdSec ID="amd_14">
+  <rightsMD ID="rightsMD_20">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRIGHTS">
+    <xmlData xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xsi:schemaLocation="http://cosimo.stanford.edu/sdr/metsrights/ http://cosimo.stanford.edu/sdr/metsrights.xsd"><rights:RightsDeclarationMD xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" RIGHTSCATEGORY="LICENSED">
+  <rights:Context CONTEXTCLASS="GENERAL PUBLIC">
+    <rights:Permissions DISCOVER="true" DISPLAY="true" MODIFY="false" DELETE="false" />
+  </rights:Context>
+</rights:RightsDeclarationMD></xmlData>
+   </mdWrap>
+  </rightsMD>
+ </amdSec>
+ <amdSec ID="amd_22">
+  <techMD ID="techMD_23">
+   <mdWrap MDTYPE="PREMIS">
+    <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd"><premis:premis xmlns:premis="http://www.loc.gov/standards/premis">
+  <premis:object>
+    <premis:objectIdentifier>
+      <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+      <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/5/form.pdf.txt</premis:objectIdentifierValue>
+    </premis:objectIdentifier>
+    <premis:objectCategory>File</premis:objectCategory>
+    <premis:objectCharacteristics>
+      <premis:fixity>
+        <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+        <premis:messageDigest>68b329da9893e34099c7d8ad5cb9c940</premis:messageDigest>
+      </premis:fixity>
+      <premis:size>1</premis:size>
+      <premis:format>
+        <premis:formatDesignation>
+          <premis:formatName>text/plain</premis:formatName>
+        </premis:formatDesignation>
+      </premis:format>
+    </premis:objectCharacteristics>
+    <premis:originalName>form.pdf.txt</premis:originalName>
+  </premis:object>
+</premis:premis></xmlData>
+   </mdWrap>
+  </techMD>
+  <rightsMD ID="rightsMD_28">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRIGHTS">
+    <xmlData xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xsi:schemaLocation="http://cosimo.stanford.edu/sdr/metsrights/ http://cosimo.stanford.edu/sdr/metsrights.xsd"><rights:RightsDeclarationMD xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" RIGHTSCATEGORY="LICENSED">
+  <rights:Context CONTEXTCLASS="REPOSITORY MGR">
+    <rights:Permissions DISCOVER="true" DISPLAY="true" MODIFY="false" DELETE="false" />
+  </rights:Context>
+</rights:RightsDeclarationMD></xmlData>
+   </mdWrap>
+  </rightsMD>
+  <sourceMD ID="sourceMD_29">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="AIP-TECHMD">
+    <xmlData xmlns:dim="http://www.dspace.org/xmlns/dspace/dim"><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" dspaceType="BITSTREAM">
+  <dim:field mdschema="dc" element="title">form.pdf.txt</dim:field>
+  <dim:field mdschema="dc" element="title" qualifier="alternative">Written by FormatFilter org.dspace.app.mediafilter.PDFFilter on 2011-08-18T14:36:46Z (GMT).</dim:field>
+  <dim:field mdschema="dc" element="description">Extracted text</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="medium">Text</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="mimetype">text/plain</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+</dim:dim></xmlData>
+   </mdWrap>
+  </sourceMD>
+ </amdSec>
+ <amdSec ID="amd_30">
+  <techMD ID="techMD_31">
+   <mdWrap MDTYPE="PREMIS">
+    <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd"><premis:premis xmlns:premis="http://www.loc.gov/standards/premis">
+  <premis:object>
+    <premis:objectIdentifier>
+      <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+      <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/6/thesis.pdf.txt</premis:objectIdentifierValue>
+    </premis:objectIdentifier>
+    <premis:objectCategory>File</premis:objectCategory>
+    <premis:objectCharacteristics>
+      <premis:fixity>
+        <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+        <premis:messageDigest>56656ecfd8dea1cd0e66591cfe3469e8</premis:messageDigest>
+      </premis:fixity>
+      <premis:size>674245</premis:size>
+      <premis:format>
+        <premis:formatDesignation>
+          <premis:formatName>text/plain</premis:formatName>
+        </premis:formatDesignation>
+      </premis:format>
+    </premis:objectCharacteristics>
+    <premis:originalName>thesis.pdf.txt</premis:originalName>
+  </premis:object>
+</premis:premis></xmlData>
+   </mdWrap>
+  </techMD>
+  <rightsMD ID="rightsMD_36">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRIGHTS">
+    <xmlData xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xsi:schemaLocation="http://cosimo.stanford.edu/sdr/metsrights/ http://cosimo.stanford.edu/sdr/metsrights.xsd"><rights:RightsDeclarationMD xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" RIGHTSCATEGORY="LICENSED">
+  <rights:Context CONTEXTCLASS="GENERAL PUBLIC">
+    <rights:Permissions DISCOVER="true" DISPLAY="true" MODIFY="false" DELETE="false" />
+  </rights:Context>
+</rights:RightsDeclarationMD></xmlData>
+   </mdWrap>
+  </rightsMD>
+  <sourceMD ID="sourceMD_37">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="AIP-TECHMD">
+    <xmlData xmlns:dim="http://www.dspace.org/xmlns/dspace/dim"><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" dspaceType="BITSTREAM">
+  <dim:field mdschema="dc" element="title">thesis.pdf.txt</dim:field>
+  <dim:field mdschema="dc" element="title" qualifier="alternative">Written by FormatFilter org.dspace.app.mediafilter.PDFFilter on 2012-09-07T15:34:51Z (GMT).</dim:field>
+  <dim:field mdschema="dc" element="description">Extracted text</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="medium">Text</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="mimetype">text/plain</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+</dim:dim></xmlData>
+   </mdWrap>
+  </sourceMD>
+ </amdSec>
+ <amdSec ID="amd_38">
+  <rightsMD ID="rightsMD_44">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRIGHTS">
+    <xmlData xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xsi:schemaLocation="http://cosimo.stanford.edu/sdr/metsrights/ http://cosimo.stanford.edu/sdr/metsrights.xsd"><rights:RightsDeclarationMD xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" RIGHTSCATEGORY="LICENSED">
+  <rights:Context CONTEXTCLASS="GENERAL PUBLIC">
+    <rights:Permissions DISCOVER="true" DISPLAY="true" MODIFY="false" DELETE="false" />
+  </rights:Context>
+</rights:RightsDeclarationMD></xmlData>
+   </mdWrap>
+  </rightsMD>
+ </amdSec>
+ <amdSec ID="amd_47">
+  <techMD ID="techMD_48">
+   <mdWrap MDTYPE="PREMIS">
+    <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd"><premis:premis xmlns:premis="http://www.loc.gov/standards/premis">
+  <premis:object>
+    <premis:objectIdentifier>
+      <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+      <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/1/form.pdf</premis:objectIdentifierValue>
+    </premis:objectIdentifier>
+    <premis:objectCategory>File</premis:objectCategory>
+    <premis:objectCharacteristics>
+      <premis:fixity>
+        <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+        <premis:messageDigest>b139fcc262845937b92cbeb0f6abd62a</premis:messageDigest>
+      </premis:fixity>
+      <premis:size>37589</premis:size>
+      <premis:format>
+        <premis:formatDesignation>
+          <premis:formatName>application/pdf</premis:formatName>
+        </premis:formatDesignation>
+      </premis:format>
+    </premis:objectCharacteristics>
+    <premis:originalName>form.pdf</premis:originalName>
+  </premis:object>
+</premis:premis></xmlData>
+   </mdWrap>
+  </techMD>
+  <rightsMD ID="rightsMD_53">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRIGHTS">
+    <xmlData xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xsi:schemaLocation="http://cosimo.stanford.edu/sdr/metsrights/ http://cosimo.stanford.edu/sdr/metsrights.xsd"><rights:RightsDeclarationMD xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" RIGHTSCATEGORY="LICENSED">
+  <rights:Context CONTEXTCLASS="REPOSITORY MGR">
+    <rights:Permissions DISCOVER="true" DISPLAY="true" MODIFY="false" DELETE="false" />
+  </rights:Context>
+</rights:RightsDeclarationMD></xmlData>
+   </mdWrap>
+  </rightsMD>
+  <sourceMD ID="sourceMD_54">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="AIP-TECHMD">
+    <xmlData xmlns:dim="http://www.dspace.org/xmlns/dspace/dim"><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" dspaceType="BITSTREAM">
+  <dim:field mdschema="dc" element="title">form.pdf</dim:field>
+  <dim:field mdschema="dc" element="title" qualifier="alternative">form.pdf</dim:field>
+  <dim:field mdschema="dc" element="description">Permission Form (Admin)</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="medium">Adobe PDF</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="mimetype">application/pdf</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+</dim:dim></xmlData>
+   </mdWrap>
+  </sourceMD>
+ </amdSec>
+ <amdSec ID="amd_56">
+  <techMD ID="techMD_57">
+   <mdWrap MDTYPE="PREMIS">
+    <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd"><premis:premis xmlns:premis="http://www.loc.gov/standards/premis">
+  <premis:object>
+    <premis:objectIdentifier>
+      <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+      <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/4/thesis.pdf</premis:objectIdentifierValue>
+    </premis:objectIdentifier>
+    <premis:objectCategory>File</premis:objectCategory>
+    <premis:objectCharacteristics>
+      <premis:fixity>
+        <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+        <premis:messageDigest>f713307137017c14f4d2aa5b27a3334c</premis:messageDigest>
+      </premis:fixity>
+      <premis:size>4512560</premis:size>
+      <premis:format>
+        <premis:formatDesignation>
+          <premis:formatName>application/pdf</premis:formatName>
+        </premis:formatDesignation>
+      </premis:format>
+    </premis:objectCharacteristics>
+    <premis:originalName>thesis.pdf</premis:originalName>
+  </premis:object>
+</premis:premis></xmlData>
+   </mdWrap>
+  </techMD>
+  <rightsMD ID="rightsMD_62">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRIGHTS">
+    <xmlData xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xsi:schemaLocation="http://cosimo.stanford.edu/sdr/metsrights/ http://cosimo.stanford.edu/sdr/metsrights.xsd"><rights:RightsDeclarationMD xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" RIGHTSCATEGORY="LICENSED">
+  <rights:Context CONTEXTCLASS="GENERAL PUBLIC">
+    <rights:Permissions DISCOVER="true" DISPLAY="true" MODIFY="false" DELETE="false" />
+  </rights:Context>
+</rights:RightsDeclarationMD></xmlData>
+   </mdWrap>
+  </rightsMD>
+  <sourceMD ID="sourceMD_63">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="AIP-TECHMD">
+    <xmlData xmlns:dim="http://www.dspace.org/xmlns/dspace/dim"><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" dspaceType="BITSTREAM">
+  <dim:field mdschema="dc" element="title">thesis.pdf</dim:field>
+  <dim:field mdschema="dc" element="title" qualifier="alternative">thesis.pdf</dim:field>
+  <dim:field mdschema="dc" element="description">Thesis</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="medium">Adobe PDF</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="mimetype">application/pdf</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+</dim:dim></xmlData>
+   </mdWrap>
+  </sourceMD>
+ </amdSec>
+ <amdSec ID="amd_64">
+  <rightsMD ID="rightsMD_70">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRIGHTS">
+    <xmlData xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xsi:schemaLocation="http://cosimo.stanford.edu/sdr/metsrights/ http://cosimo.stanford.edu/sdr/metsrights.xsd"><rights:RightsDeclarationMD xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" RIGHTSCATEGORY="LICENSED">
+  <rights:Context CONTEXTCLASS="GENERAL PUBLIC">
+    <rights:Permissions DISCOVER="true" DISPLAY="true" MODIFY="false" DELETE="false" />
+  </rights:Context>
+</rights:RightsDeclarationMD></xmlData>
+   </mdWrap>
+  </rightsMD>
+ </amdSec>
+ <amdSec ID="amd_72">
+  <techMD ID="techMD_73">
+   <mdWrap MDTYPE="PREMIS">
+    <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd"><premis:premis xmlns:premis="http://www.loc.gov/standards/premis">
+  <premis:object>
+    <premis:objectIdentifier>
+      <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+      <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/3/license.txt</premis:objectIdentifierValue>
+    </premis:objectIdentifier>
+    <premis:objectCategory>File</premis:objectCategory>
+    <premis:objectCharacteristics>
+      <premis:fixity>
+        <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+        <premis:messageDigest>52a10f51205b72f1ef90f1cdfd93bc6f</premis:messageDigest>
+      </premis:fixity>
+      <premis:size>2162</premis:size>
+      <premis:format>
+        <premis:formatDesignation>
+          <premis:formatName>text/plain</premis:formatName>
+        </premis:formatDesignation>
+      </premis:format>
+    </premis:objectCharacteristics>
+    <premis:originalName>license.txt</premis:originalName>
+  </premis:object>
+</premis:premis></xmlData>
+   </mdWrap>
+  </techMD>
+  <rightsMD ID="rightsMD_78">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRIGHTS">
+    <xmlData xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xsi:schemaLocation="http://cosimo.stanford.edu/sdr/metsrights/ http://cosimo.stanford.edu/sdr/metsrights.xsd"><rights:RightsDeclarationMD xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" RIGHTSCATEGORY="LICENSED">
+  <rights:Context CONTEXTCLASS="GENERAL PUBLIC">
+    <rights:Permissions DISCOVER="true" DISPLAY="true" MODIFY="false" DELETE="false" />
+  </rights:Context>
+</rights:RightsDeclarationMD></xmlData>
+   </mdWrap>
+  </rightsMD>
+  <sourceMD ID="sourceMD_79">
+   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="AIP-TECHMD">
+    <xmlData xmlns:dim="http://www.dspace.org/xmlns/dspace/dim"><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" dspaceType="BITSTREAM">
+  <dim:field mdschema="dc" element="title">license.txt</dim:field>
+  <dim:field mdschema="dc" element="title" qualifier="alternative">Written by org.dspace.content.LicenseUtils</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="medium">License</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="mimetype">text/plain</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+  <dim:field mdschema="dc" element="format" qualifier="internal">true</dim:field>
+</dim:dim></xmlData>
+   </mdWrap>
+  </sourceMD>
+ </amdSec>
+ <fileSec>
+  <fileGrp ADMID="amd_14" USE="TEXT">
+   <file ID="bitstream_5" MIMETYPE="text/plain" SEQ="5" SIZE="1" CHECKSUM="68b329da9893e34099c7d8ad5cb9c940" CHECKSUMTYPE="MD5" ADMID="amd_22" GROUPID="GROUP_bitstream_1">
+    <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_9732.txt"/>
+   </file>
+   <file ID="bitstream_6" MIMETYPE="text/plain" SEQ="6" SIZE="674245" CHECKSUM="56656ecfd8dea1cd0e66591cfe3469e8" CHECKSUMTYPE="MD5" ADMID="amd_30" GROUPID="GROUP_bitstream_4">
+    <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_13079.txt"/>
+   </file>
+  </fileGrp>
+  <fileGrp ADMID="amd_38" USE="ORIGINAL">
+   <file ID="bitstream_1" MIMETYPE="application/pdf" SEQ="1" SIZE="37589" CHECKSUM="b139fcc262845937b92cbeb0f6abd62a" CHECKSUMTYPE="MD5" ADMID="amd_47" GROUPID="GROUP_bitstream_1">
+    <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_9558.pdf"/>
+   </file>
+   <file ID="bitstream_4" MIMETYPE="application/pdf" SEQ="4" SIZE="4512560" CHECKSUM="f713307137017c14f4d2aa5b27a3334c" CHECKSUMTYPE="MD5" ADMID="amd_56" GROUPID="GROUP_bitstream_4">
+    <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_9583.pdf"/>
+   </file>
+  </fileGrp>
+  <fileGrp ADMID="amd_64" USE="LICENSE">
+   <file ID="bitstream_3" MIMETYPE="text/plain" SEQ="3" SIZE="2162" CHECKSUM="52a10f51205b72f1ef90f1cdfd93bc6f" CHECKSUMTYPE="MD5" ADMID="amd_72" GROUPID="GROUP_bitstream_3">
+    <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_9560"/>
+   </file>
+  </fileGrp>
+ </fileSec>
+ <structMap ID="struct_12" LABEL="DSpace Object" TYPE="LOGICAL">
+  <div ID="div_13" DMDID="dmdSec_2 dmdSec_1 dmdSec_3" ADMID="amd_4" TYPE="DSpace Object Contents">
+   <div ID="div_46" TYPE="DSpace BITSTREAM">
+    <fptr FILEID="bitstream_1"/>
+   </div>
+   <div ID="div_55" TYPE="DSpace BITSTREAM">
+    <fptr FILEID="bitstream_4"/>
+   </div>
+  </div>
+ </structMap>
+ <structMap ID="struct_80" LABEL="Parent" TYPE="LOGICAL">
+  <div ID="div_81" LABEL="Parent of this DSpace Object" TYPE="AIP Parent Link">
+   <mptr ID="mptr_82" LOCTYPE="HANDLE" xlink:type="simple" xlink:href="10063/32"/>
+  </div>
+ </structMap>
+</mets>

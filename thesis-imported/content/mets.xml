@@ -1,0 +1,770 @@
+<mets:mets xmlns:locmets="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <mets:dmdSec ID="ie-dmd">
+    <mets:mdWrap MDTYPE="DC">
+      <mets:xmlData>
+        <dc:record>
+          <dc:contributor>Huff, Sid</dc:contributor>
+          <dc:contributor>Gorman, Gary</dc:contributor>
+          <dc:creator>Chawner, Brenda</dc:creator>
+          <dcterms:dateAccepted>2011-07-28T21:18:40Z</dcterms:dateAccepted>
+          <dcterms:available>2011-07-28T21:18:40Z</dcterms:available>
+          <dcterms:dateCopyrighted>2011</dcterms:dateCopyrighted>
+          <dcterms:dateCopyrighted>2011</dcterms:dateCopyrighted>
+          <dcterms:issued>2011</dcterms:issued>
+          <dc:identifier xsi:type="dcterms:URI">http://hdl.handle.net/10063/1710</dc:identifier>
+          <dc:identifier xsi:type="dcterms:URI">http://researcharchive.vuw.ac.nz/handle/10063/1710</dc:identifier>
+          <dc:identifier xsi:type="dcterms:URI">http://dx.doi.org/10063/1710</dc:identifier>
+          <dcterms:abstract xml:lang="en-NZ">The purpose of this research was to identify factors that affect participants’ satisfaction with their experience of a free/libre open source software (FLOSS) project. The research built on existing models of user satisfaction from the information systems literature, and also incorporated two characteristics of FLOSS projects first identified by Ye, Nakakoji, Yamamoto, and Kishida (2005), product openness and process openness. The central research question it answered was, What factors influence participant satisfaction with a free/libre and open source application software project?&#13;
+Richard Stallman’s reasons for setting up the GNU project and the Free Software Foundation arose from his frustration at being forced to be a passive user of software used for a Xerox printer. These suggest that being able to be an active participant in a FLOSS project is one factor that should be examined, and therefore the first sub-question this project answers is, What types of contributions do participants make to free/libre and open source software projects?&#13;
+Several studies have shown that the extent of participation in a FLOSS project varies from individual to individual, and this variation leads to the second sub-question, Do the factors that influence satisfaction vary for different types of participation? If so, in what way?&#13;
+A preliminary conceptual model of factors affecting participant satisfaction was developed, reflecting the key concepts identified in the literature. The main theoretical goal of this research was to test the model using empirical data.&#13;
+The research used a sequential, mixed methods approach. The first, qualitative stage involved reviewing documents from selected projects and interviewing a purposive sample of FLOSS project participants. The second, quantitative stage involved an online survey of FLOSS project participants, and the data gathered were used to test the conceptual model.&#13;
+The results of the first stage showed that participation in FLOSS projects was a more complex construct than previously reported in the literature. Seven distinct categories of activities were identified:&#13;
+• use;&#13;
+• interaction with code;&#13;
+• supporting the community;&#13;
+• outreach;&#13;
+• sponsorship;&#13;
+• management; and&#13;
+• governance.&#13;
+Four attributes that modified these categories were also identified: organisational focus, role formality, remuneration, and time commitment.&#13;
+Data from 154 responses to the online survey were used to test the model using stepwise multiple regression, which determined the effect of each of the variables on overall participant satisfaction. Moderated regression analysis was used to test the effects of three potential moderating variables. The results showed that that perceived system complexity had the largest effect, decreasing satisfaction if respondents perceived that the software was complex, while project openness and perceived developer communication quality accounted for the most variance in satisfaction.&#13;
+The main theoretical contribution of this research lies in its extension of satisfaction studies to FLOSS communities, showing that  communication and openness are more important than in conventional software projects. Its practical contribution will help people involved in the management and governance of FLOSS projects to identify ways of increasing their participants’ satisfaction, which may in turn encourage them to contribute more.</dcterms:abstract>
+          <dc:language>en-NZ</dc:language>
+          <dc:language xsi:type="dcterms:ISO639-2">en-NZ</dc:language>
+          <dc:publisher xml:lang="en-NZ">Victoria University of Wellington</dc:publisher>
+          <dcterms:isPartOf xsi:type="dcterms:URI">hdl:10063/32</dcterms:isPartOf>
+          <dcterms:isPartOf>ResearchArchive/School of Information Management</dcterms:isPartOf>
+          <dcterms:isPartOf>ResearchArchive/Victoria Library Papers and Theses/Awarded Doctoral Thesis</dcterms:isPartOf>
+          <dcterms:isReferencedBy>hdl:10063/235</dcterms:isReferencedBy>
+          <dcterms:license xml:lang="en-NZ">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 New Zealand License.  http://creativecommons.org/licenses/by-sa/3.0/nz/</dcterms:license>
+          <dc:subject xml:lang="en-NZ">Satisfaction</dc:subject>
+          <dc:subject xml:lang="en-NZ">Participation</dc:subject>
+          <dc:subject xml:lang="en-NZ">FLOSS (Free/libre open source software)</dc:subject>
+          <dc:type xml:lang="en-NZ">Text</dc:type>
+          <dc:title>Factors Influencing Participant Satisfaction with Free/Libre and Open Source Software Projects</dc:title>
+          <dc:title xml:lang="en-NZ">Factors Influencing Participant Satisfaction with Free/Libre and Open Source Software Projects</dc:title>
+          <vuwschema:contributor-unit xml:lang="en-NZ">School of Information Management</vuwschema:contributor-unit>
+          <vuwschema:type-vuw xml:lang="en-NZ">Awarded Doctoral Thesis</vuwschema:type-vuw>
+          <dc:subject xsi:type="dcterms:MARSDEN" xml:lang="en-NZ">280199 Information Systems not Elsewhere Classified</dc:subject>
+          <thesis:degree-grantor xml:lang="en-NZ">Victoria University of Wellington</thesis:degree-grantor>
+          <thesis:degree-discipline xml:lang="en-NZ">Information Systems</thesis:degree-discipline>
+          <thesis:degree-level xml:lang="en-NZ">Doctoral</thesis:degree-level>
+          <thesis:degree-name xml:lang="en-NZ">Doctor of Philosophy</thesis:degree-name>
+        </dc:record>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="amd_22-dmd">
+    <mets:mdWrap MDTYPE="DC">
+      <mets:xmlData>
+        <dc:record>
+          <dc:description type="filename">form.pdf.txt</dc:description>
+          <dc:description>Extracted text</dc:description>
+          <dc:identifier type="dcterms:URI">http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/5/form.pdf.txt</dc:identifier>
+          <dc:format type="dcterms:mimeType">text/plain</dc:format>
+          <dcterms:hasFormat type="dcterms:mimeType">text/plain</dcterms:hasFormat>
+        </dc:record>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="amd_30-dmd">
+    <mets:mdWrap MDTYPE="DC">
+      <mets:xmlData>
+        <dc:record>
+          <dc:description type="filename">thesis.pdf.txt</dc:description>
+          <dc:description>Extracted text</dc:description>
+          <dc:identifier type="dcterms:URI">http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/6/thesis.pdf.txt</dc:identifier>
+          <dc:format type="dcterms:mimeType">text/plain</dc:format>
+          <dcterms:hasFormat type="dcterms:mimeType">text/plain</dcterms:hasFormat>
+        </dc:record>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="amd_47-dmd">
+    <mets:mdWrap MDTYPE="DC">
+      <mets:xmlData>
+        <dc:record>
+          <dc:description type="filename">form.pdf</dc:description>
+          <dc:description>Permission Form (Admin)</dc:description>
+          <dc:identifier type="dcterms:URI">http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/1/form.pdf</dc:identifier>
+          <dc:format type="dcterms:mimeType">application/pdf</dc:format>
+          <dcterms:hasFormat type="dcterms:mimeType">application/pdf</dcterms:hasFormat>
+        </dc:record>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="amd_56-dmd">
+    <mets:mdWrap MDTYPE="DC">
+      <mets:xmlData>
+        <dc:record>
+          <dc:description type="filename">thesis.pdf</dc:description>
+          <dc:description>Thesis</dc:description>
+          <dc:identifier type="dcterms:URI">http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/4/thesis.pdf</dc:identifier>
+          <dc:format type="dcterms:mimeType">application/pdf</dc:format>
+          <dcterms:hasFormat type="dcterms:mimeType">application/pdf</dcterms:hasFormat>
+        </dc:record>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="rep1-amd">
+    <mets:techMD ID="rep1-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="generalRepCharacteristics">
+              <dnx:record>
+                <dnx:key id="preservationType">PRESERVATION_MASTER</dnx:key>
+                <dnx:key id="representationEntityType">PDF</dnx:key>
+                <dnx:key id="usageType">VIEW</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="rep1-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="accessRightsPolicy">
+              <dnx:record>
+                <dnx:key id="policyId">1063</dnx:key>
+                <dnx:key id="policyParameters"/>
+                <dnx:key id="policyDescription">Admin access only (content)</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:amdSec ID="rep4-amd">
+    <mets:techMD ID="rep4-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="generalRepCharacteristics">
+              <dnx:record>
+                <dnx:key id="preservationType">ENTITY_DOCUMENTATION</dnx:key>
+                <dnx:key id="representationEntityType">PDF</dnx:key>
+                <dnx:key id="usageType">VIEW</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="rep4-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="accessRightsPolicy">
+              <dnx:record>
+                <dnx:key id="policyId">1062</dnx:key>
+                <dnx:key id="policyParameters"/>
+                <dnx:key id="policyDescription">Admin access only (Forms)</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:amdSec ID="rep5-amd">
+    <mets:techMD ID="rep5-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="generalRepCharacteristics">
+              <dnx:record>
+                <dnx:key id="preservationType">PDF_EXTRACTED_TEXT</dnx:key>
+                <dnx:key id="usageType">VIEW</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="rep5-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="accessRightsPolicy">
+              <dnx:record>
+                <dnx:key id="policyId">1063</dnx:key>
+                <dnx:key id="policyParameters"/>
+                <dnx:key id="policyDescription">Admin access only (content)</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:amdSec ID="rep6-amd">
+    <mets:techMD ID="rep6-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="generalRepCharacteristics">
+              <dnx:record>
+                <dnx:key id="preservationType">DERIVATIVE_COPY</dnx:key>
+                <dnx:key id="representationEntityType">PDF</dnx:key>
+                <dnx:key id="usageType">VIEW</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="rep6-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="accessRightsPolicy">
+              <dnx:record>
+                <dnx:key id="policyId">AR_EVERYONE</dnx:key>
+                <dnx:key id="policyParameters"/>
+                <dnx:key id="policyDescription">No restrictions</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:amdSec ID="amd_47">
+    <mets:techMD ID="amd_47-techmd">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="fileFixity">
+              <dnx:record>
+                <dnx:key id="fixityType">MD5</dnx:key>
+                <dnx:key id="fixityValue">b139fcc262845937b92cbeb0f6abd62a</dnx:key>
+                <dnx:key id="fileMimeType">application/pdf</dnx:key>
+                <dnx:key id="label">form.pdf</dnx:key>
+                <dnx:key id="fileOriginalName">form.pdf</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+  </mets:amdSec>
+  <mets:amdSec ID="amd_56">
+    <mets:techMD ID="amd_56-techmd">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="fileFixity">
+              <dnx:record>
+                <dnx:key id="fixityType">MD5</dnx:key>
+                <dnx:key id="fixityValue">f713307137017c14f4d2aa5b27a3334c</dnx:key>
+                <dnx:key id="fileMimeType">application/pdf</dnx:key>
+                <dnx:key id="label">thesis.pdf</dnx:key>
+                <dnx:key id="fileOriginalName">thesis.pdf</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+  </mets:amdSec>
+  <mets:amdSec ID="amd_22">
+    <mets:techMD ID="amd_22-techmd">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="fileFixity">
+              <dnx:record>
+                <dnx:key id="fixityType">MD5</dnx:key>
+                <dnx:key id="fixityValue">68b329da9893e34099c7d8ad5cb9c940</dnx:key>
+                <dnx:key id="fileMimeType">text/plain</dnx:key>
+                <dnx:key id="label">form.pdf.txt</dnx:key>
+                <dnx:key id="fileOriginalName">form.pdf.txt</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+  </mets:amdSec>
+  <mets:amdSec ID="amd_30">
+    <mets:techMD ID="amd_30-techmd">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="fileFixity">
+              <dnx:record>
+                <dnx:key id="fixityType">MD5</dnx:key>
+                <dnx:key id="fixityValue">56656ecfd8dea1cd0e66591cfe3469e8</dnx:key>
+                <dnx:key id="fileMimeType">text/plain</dnx:key>
+                <dnx:key id="label">thesis.pdf.txt</dnx:key>
+                <dnx:key id="fileOriginalName">thesis.pdf.txt</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+  </mets:amdSec>
+  <mets:amdSec ID="ie-amd">
+    <mets:techMD ID="ie-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="generalIECharacteristics">
+              <dnx:record>
+                <dnx:key id="IEEntityType">DoctoralThesis</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="ie-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx:dnx>
+            <dnx:section id="accessRightsPolicy">
+              <dnx:record>
+                <dnx:key id="policyId">AR_EVERYONE</dnx:key>
+                <dnx:key id="policyParameters"/>
+                <dnx:key id="policyDescription">No restrictions</dnx:key>
+              </dnx:record>
+            </dnx:section>
+          </dnx:dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:sourceMD ID="ie-amd-source-MODS-1">
+      <mets:mdWrap MDTYPE="MODS">
+        <mets:xmlData>
+          <mods:mods>
+            <mods:name>
+              <mods:role>
+                <mods:roleTerm type="text">advisor</mods:roleTerm>
+              </mods:role>
+              <mods:namePart>Huff, Sid</mods:namePart>
+            </mods:name>
+            <mods:name>
+              <mods:role>
+                <mods:roleTerm type="text">advisor</mods:roleTerm>
+              </mods:role>
+              <mods:namePart>Gorman, Gary</mods:namePart>
+            </mods:name>
+            <mods:name>
+              <mods:role>
+                <mods:roleTerm type="text">author</mods:roleTerm>
+              </mods:role>
+              <mods:namePart>Chawner, Brenda</mods:namePart>
+            </mods:name>
+            <mods:extension>
+              <mods:dateAccessioned encoding="iso8601">2011-07-28T21:18:40Z</mods:dateAccessioned>
+            </mods:extension>
+            <mods:extension>
+              <mods:dateAvailable encoding="iso8601">2011-07-28T21:18:40Z</mods:dateAvailable>
+            </mods:extension>
+            <mods:originInfo>
+              <mods:copyrightDate encoding="iso8601">2011</mods:copyrightDate>
+            </mods:originInfo>
+            <mods:originInfo>
+              <mods:copyrightDate encoding="iso8601">2011</mods:copyrightDate>
+            </mods:originInfo>
+            <mods:originInfo>
+              <mods:dateIssued encoding="iso8601">2011</mods:dateIssued>
+            </mods:originInfo>
+            <mods:identifier type="uri">http://hdl.handle.net/10063/1710</mods:identifier>
+            <mods:abstract>The purpose of this research was to identify factors that affect participants’ satisfaction with their experience of a free/libre open source software (FLOSS) project. The research built on existing models of user satisfaction from the information systems literature, and also incorporated two characteristics of FLOSS projects first identified by Ye, Nakakoji, Yamamoto, and Kishida (2005), product openness and process openness. The central research question it answered was, What factors influence participant satisfaction with a free/libre and open source application software project?&#13;
+Richard Stallman’s reasons for setting up the GNU project and the Free Software Foundation arose from his frustration at being forced to be a passive user of software used for a Xerox printer. These suggest that being able to be an active participant in a FLOSS project is one factor that should be examined, and therefore the first sub-question this project answers is, What types of contributions do participants make to free/libre and open source software projects?&#13;
+Several studies have shown that the extent of participation in a FLOSS project varies from individual to individual, and this variation leads to the second sub-question, Do the factors that influence satisfaction vary for different types of participation? If so, in what way?&#13;
+A preliminary conceptual model of factors affecting participant satisfaction was developed, reflecting the key concepts identified in the literature. The main theoretical goal of this research was to test the model using empirical data.&#13;
+The research used a sequential, mixed methods approach. The first, qualitative stage involved reviewing documents from selected projects and interviewing a purposive sample of FLOSS project participants. The second, quantitative stage involved an online survey of FLOSS project participants, and the data gathered were used to test the conceptual model.&#13;
+The results of the first stage showed that participation in FLOSS projects was a more complex construct than previously reported in the literature. Seven distinct categories of activities were identified:&#13;
+• use;&#13;
+• interaction with code;&#13;
+• supporting the community;&#13;
+• outreach;&#13;
+• sponsorship;&#13;
+• management; and&#13;
+• governance.&#13;
+Four attributes that modified these categories were also identified: organisational focus, role formality, remuneration, and time commitment.&#13;
+Data from 154 responses to the online survey were used to test the model using stepwise multiple regression, which determined the effect of each of the variables on overall participant satisfaction. Moderated regression analysis was used to test the effects of three potential moderating variables. The results showed that that perceived system complexity had the largest effect, decreasing satisfaction if respondents perceived that the software was complex, while project openness and perceived developer communication quality accounted for the most variance in satisfaction.&#13;
+The main theoretical contribution of this research lies in its extension of satisfaction studies to FLOSS communities, showing that  communication and openness are more important than in conventional software projects. Its practical contribution will help people involved in the management and governance of FLOSS projects to identify ways of increasing their participants’ satisfaction, which may in turn encourage them to contribute more.</mods:abstract>
+            <mods:language>
+              <mods:languageTerm authority="rfc3066">en_NZ</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+              <mods:publisher>Victoria University of Wellington</mods:publisher>
+            </mods:originInfo>
+            <mods:subject>
+              <mods:topic>Satisfaction</mods:topic>
+            </mods:subject>
+            <mods:subject>
+              <mods:topic>Participation</mods:topic>
+            </mods:subject>
+            <mods:subject>
+              <mods:topic>FLOSS (Free/libre open source software)</mods:topic>
+            </mods:subject>
+            <mods:titleInfo>
+              <mods:title>Factors Influencing Participant Satisfaction with Free/Libre and Open Source Software Projects</mods:title>
+            </mods:titleInfo>
+            <mods:genre>Text</mods:genre>
+          </mods:mods>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:sourceMD ID="ie-amd-source-MARC">
+      <mets:mdWrap MDTYPE="MARC">
+        <mets:xmlData>
+<!-- searched for 'http://researcharchive.vuw.ac.nz/handle/10063/1710'    -->
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01295cam a2200277 a 4500</marc:leader>
+    <marc:controlfield tag="001">9917718864002386</marc:controlfield>
+    <marc:controlfield tag="005">20150116122846.0</marc:controlfield>
+    <marc:controlfield tag="006">m     o  d |      </marc:controlfield>
+    <marc:controlfield tag="007">cr |n|||||||||</marc:controlfield>
+    <marc:controlfield tag="008">110728s2011    nz a     bm   000 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(NZ-WeVUL)1771886-Victoriadb</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">WU</marc:subfield>
+      <marc:subfield code="c">WU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chawner, Brenda.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Factors influencing participant satisfaction with free/libre and open source software projects :</marc:subfield>
+      <marc:subfield code="b">a thesis submitted to the Victoria University of Wellington in fulfilment of the requirements for the degree of Doctor of Philosophy in Information Systems /</marc:subfield>
+      <marc:subfield code="c">by Brenda Chawner.</marc:subfield>
+      <marc:subfield code="h">[electronic resource]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="c">2011.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvi, 303 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">30 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1=" " ind2=" ">
+      <marc:subfield code="a">Thesis (Ph.D.)--Victoria University of Wellington, 2011.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="588" ind1=" " ind2=" ">
+      <marc:subfield code="a">Description based on print version record.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Human-computer interaction</marc:subfield>
+      <marc:subfield code="x">Evaluation.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Open source software</marc:subfield>
+      <marc:subfield code="x">Public opinion.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Open source software.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Satisfaction</marc:subfield>
+      <marc:subfield code="x">Testing.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="776" ind1="0" ind2="8">
+      <marc:subfield code="i">Print version:</marc:subfield>
+      <marc:subfield code="w">9913434974002386</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1=" " ind2="0">
+      <marc:subfield code="a">Theses.</marc:subfield>
+      <marc:subfield code="p">Information Systems.</marc:subfield>
+      <marc:subfield code="p">Ph.D. (Victoria University of Wellington) ;</marc:subfield>
+      <marc:subfield code="v">24.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2=" ">
+      <marc:subfield code="u">http://researcharchive.vuw.ac.nz/handle/10063/1710</marc:subfield>
+      <marc:subfield code="z">ResearchArchive@ Victoria e-thesis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="957" ind1=" " ind2=" ">
+      <marc:subfield code="m">vuwegrab</marc:subfield>
+      <marc:subfield code="d">2015-01-16</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:sourceMD ID="ie-amd-source-PREMIS">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="premis">
+        <mets:xmlData>
+          <premis:premis>
+            <premis:object>
+              <premis:objectIdentifier>
+                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/5/form.pdf.txt</premis:objectIdentifierValue>
+              </premis:objectIdentifier>
+              <premis:objectCategory>File</premis:objectCategory>
+              <premis:objectCharacteristics>
+                <premis:fixity>
+                  <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                  <premis:messageDigest>68b329da9893e34099c7d8ad5cb9c940</premis:messageDigest>
+                </premis:fixity>
+                <premis:size>1</premis:size>
+                <premis:format>
+                  <premis:formatDesignation>
+                    <premis:formatName>text/plain</premis:formatName>
+                  </premis:formatDesignation>
+                </premis:format>
+              </premis:objectCharacteristics>
+              <premis:originalName>form.pdf.txt</premis:originalName>
+            </premis:object>
+            <premis:object>
+              <premis:objectIdentifier>
+                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/6/thesis.pdf.txt</premis:objectIdentifierValue>
+              </premis:objectIdentifier>
+              <premis:objectCategory>File</premis:objectCategory>
+              <premis:objectCharacteristics>
+                <premis:fixity>
+                  <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                  <premis:messageDigest>56656ecfd8dea1cd0e66591cfe3469e8</premis:messageDigest>
+                </premis:fixity>
+                <premis:size>674245</premis:size>
+                <premis:format>
+                  <premis:formatDesignation>
+                    <premis:formatName>text/plain</premis:formatName>
+                  </premis:formatDesignation>
+                </premis:format>
+              </premis:objectCharacteristics>
+              <premis:originalName>thesis.pdf.txt</premis:originalName>
+            </premis:object>
+            <premis:object>
+              <premis:objectIdentifier>
+                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/1/form.pdf</premis:objectIdentifierValue>
+              </premis:objectIdentifier>
+              <premis:objectCategory>File</premis:objectCategory>
+              <premis:objectCharacteristics>
+                <premis:fixity>
+                  <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                  <premis:messageDigest>b139fcc262845937b92cbeb0f6abd62a</premis:messageDigest>
+                </premis:fixity>
+                <premis:size>37589</premis:size>
+                <premis:format>
+                  <premis:formatDesignation>
+                    <premis:formatName>application/pdf</premis:formatName>
+                  </premis:formatDesignation>
+                </premis:format>
+              </premis:objectCharacteristics>
+              <premis:originalName>form.pdf</premis:originalName>
+            </premis:object>
+            <premis:object>
+              <premis:objectIdentifier>
+                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/4/thesis.pdf</premis:objectIdentifierValue>
+              </premis:objectIdentifier>
+              <premis:objectCategory>File</premis:objectCategory>
+              <premis:objectCharacteristics>
+                <premis:fixity>
+                  <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                  <premis:messageDigest>f713307137017c14f4d2aa5b27a3334c</premis:messageDigest>
+                </premis:fixity>
+                <premis:size>4512560</premis:size>
+                <premis:format>
+                  <premis:formatDesignation>
+                    <premis:formatName>application/pdf</premis:formatName>
+                  </premis:formatDesignation>
+                </premis:format>
+              </premis:objectCharacteristics>
+              <premis:originalName>thesis.pdf</premis:originalName>
+            </premis:object>
+            <premis:object>
+              <premis:objectIdentifier>
+                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/3/license.txt</premis:objectIdentifierValue>
+              </premis:objectIdentifier>
+              <premis:objectCategory>File</premis:objectCategory>
+              <premis:objectCharacteristics>
+                <premis:fixity>
+                  <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                  <premis:messageDigest>52a10f51205b72f1ef90f1cdfd93bc6f</premis:messageDigest>
+                </premis:fixity>
+                <premis:size>2162</premis:size>
+                <premis:format>
+                  <premis:formatDesignation>
+                    <premis:formatName>text/plain</premis:formatName>
+                  </premis:formatDesignation>
+                </premis:format>
+              </premis:objectCharacteristics>
+              <premis:originalName>license.txt</premis:originalName>
+            </premis:object>
+          </premis:premis>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:sourceMD ID="ie-amd-source-DIM">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dim">
+        <mets:xmlData>
+          <dim:dim>
+            <dim:field mdschema="dc" element="contributor" qualifier="advisor" lang="">Huff, Sid</dim:field>
+            <dim:field mdschema="dc" element="contributor" qualifier="advisor" lang="">Gorman, Gary</dim:field>
+            <dim:field mdschema="dc" element="contributor" qualifier="author" lang="">Chawner, Brenda</dim:field>
+            <dim:field mdschema="dc" element="date" qualifier="accessioned" lang="">2011-07-28T21:18:40Z</dim:field>
+            <dim:field mdschema="dc" element="date" qualifier="available" lang="">2011-07-28T21:18:40Z</dim:field>
+            <dim:field mdschema="dc" element="date" qualifier="copyright" lang="">2011</dim:field>
+            <dim:field mdschema="dc" element="date" qualifier="copyright" lang="">2011</dim:field>
+            <dim:field mdschema="dc" element="date" qualifier="issued" lang="">2011</dim:field>
+            <dim:field mdschema="dc" element="identifier" qualifier="uri" lang="">http://hdl.handle.net/10063/1710</dim:field>
+            <dim:field mdschema="dc" element="description" qualifier="abstract" lang="en_NZ">The purpose of this research was to identify factors that affect participants’ satisfaction with their experience of a free/libre open source software (FLOSS) project. The research built on existing models of user satisfaction from the information systems literature, and also incorporated two characteristics of FLOSS projects first identified by Ye, Nakakoji, Yamamoto, and Kishida (2005), product openness and process openness. The central research question it answered was, What factors influence participant satisfaction with a free/libre and open source application software project?&#13;
+Richard Stallman’s reasons for setting up the GNU project and the Free Software Foundation arose from his frustration at being forced to be a passive user of software used for a Xerox printer. These suggest that being able to be an active participant in a FLOSS project is one factor that should be examined, and therefore the first sub-question this project answers is, What types of contributions do participants make to free/libre and open source software projects?&#13;
+Several studies have shown that the extent of participation in a FLOSS project varies from individual to individual, and this variation leads to the second sub-question, Do the factors that influence satisfaction vary for different types of participation? If so, in what way?&#13;
+A preliminary conceptual model of factors affecting participant satisfaction was developed, reflecting the key concepts identified in the literature. The main theoretical goal of this research was to test the model using empirical data.&#13;
+The research used a sequential, mixed methods approach. The first, qualitative stage involved reviewing documents from selected projects and interviewing a purposive sample of FLOSS project participants. The second, quantitative stage involved an online survey of FLOSS project participants, and the data gathered were used to test the conceptual model.&#13;
+The results of the first stage showed that participation in FLOSS projects was a more complex construct than previously reported in the literature. Seven distinct categories of activities were identified:&#13;
+• use;&#13;
+• interaction with code;&#13;
+• supporting the community;&#13;
+• outreach;&#13;
+• sponsorship;&#13;
+• management; and&#13;
+• governance.&#13;
+Four attributes that modified these categories were also identified: organisational focus, role formality, remuneration, and time commitment.&#13;
+Data from 154 responses to the online survey were used to test the model using stepwise multiple regression, which determined the effect of each of the variables on overall participant satisfaction. Moderated regression analysis was used to test the effects of three potential moderating variables. The results showed that that perceived system complexity had the largest effect, decreasing satisfaction if respondents perceived that the software was complex, while project openness and perceived developer communication quality accounted for the most variance in satisfaction.&#13;
+The main theoretical contribution of this research lies in its extension of satisfaction studies to FLOSS communities, showing that  communication and openness are more important than in conventional software projects. Its practical contribution will help people involved in the management and governance of FLOSS projects to identify ways of increasing their participants’ satisfaction, which may in turn encourage them to contribute more.</dim:field>
+            <dim:field mdschema="dc" element="description" qualifier="provenance" lang="en_NZ">Submitted by Christine Farley (christine.farley@vuw.ac.nz) on 2011-07-28T21:18:11Z&#13;
+No. of bitstreams: 2&#13;
+form.pdf: 37589 bytes, checksum: b139fcc262845937b92cbeb0f6abd62a (MD5)&#13;
+thesis.pdf: 4557791 bytes, checksum: 3eb91108d1942aa0b7f0c4ba216d693f (MD5)</dim:field>
+            <dim:field mdschema="dc" element="description" qualifier="provenance" lang="en_NZ">Approved for entry into archive by Christine Farley(christine.farley@vuw.ac.nz) on 2011-07-28T21:18:40Z (GMT) No. of bitstreams: 2&#13;
+form.pdf: 37589 bytes, checksum: b139fcc262845937b92cbeb0f6abd62a (MD5)&#13;
+thesis.pdf: 4557791 bytes, checksum: 3eb91108d1942aa0b7f0c4ba216d693f (MD5)</dim:field>
+            <dim:field mdschema="dc" element="description" qualifier="provenance" lang="en_NZ">Made available in DSpace on 2011-07-28T21:18:40Z (GMT). No. of bitstreams: 2&#13;
+form.pdf: 37589 bytes, checksum: b139fcc262845937b92cbeb0f6abd62a (MD5)&#13;
+thesis.pdf: 4557791 bytes, checksum: 3eb91108d1942aa0b7f0c4ba216d693f (MD5)</dim:field>
+            <dim:field mdschema="dc" element="language" qualifier="iso" lang="">en_NZ</dim:field>
+            <dim:field mdschema="dc" element="publisher" lang="en_NZ">Victoria University of Wellington</dim:field>
+            <dim:field mdschema="dc" element="subject" lang="en_NZ">Satisfaction</dim:field>
+            <dim:field mdschema="dc" element="subject" lang="en_NZ">Participation</dim:field>
+            <dim:field mdschema="dc" element="subject" lang="en_NZ">FLOSS (Free/libre open source software)</dim:field>
+            <dim:field mdschema="dc" element="title" lang="en_NZ">Factors Influencing Participant Satisfaction with Free/Libre and Open Source Software Projects</dim:field>
+            <dim:field mdschema="dc" element="type" lang="en_NZ">Text</dim:field>
+            <dim:field mdschema="vuwschema" element="contributor" qualifier="unit" lang="en_NZ">School of Information Management</dim:field>
+            <dim:field mdschema="vuwschema" element="subject" qualifier="marsden" lang="en_NZ">280199 Information Systems not Elsewhere Classified</dim:field>
+            <dim:field mdschema="vuwschema" element="type" qualifier="vuw" lang="en_NZ">Awarded Doctoral Thesis</dim:field>
+            <dim:field mdschema="thesis" element="degree" qualifier="discipline" lang="en_NZ">Information Systems</dim:field>
+            <dim:field mdschema="thesis" element="degree" qualifier="grantor" lang="en_NZ">Victoria University of Wellington</dim:field>
+            <dim:field mdschema="thesis" element="degree" qualifier="level" lang="en_NZ">Doctoral</dim:field>
+            <dim:field mdschema="thesis" element="degree" qualifier="name" lang="en_NZ">Doctor of Philosophy</dim:field>
+            <dim:field mdschema="dc" element="rights" qualifier="license" lang="en_NZ">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 New Zealand License.  http://creativecommons.org/licenses/by-sa/3.0/nz/</dim:field>
+            <dim:field mdschema="dc" element="creator">christine.farley@vuw.ac.nz</dim:field>
+            <dim:field mdschema="dc" element="identifier" qualifier="uri">hdl:10063/1710</dim:field>
+            <dim:field mdschema="dc" element="relation" qualifier="isPartOf">hdl:10063/32</dim:field>
+            <dim:field mdschema="dc" element="relation" qualifier="isReferencedBy">hdl:10063/235</dim:field>
+            <dim:field mdschema="dc" element="title">form.pdf.txt</dim:field>
+            <dim:field mdschema="dc" element="title" qualifier="alternative">Written by FormatFilter org.dspace.app.mediafilter.PDFFilter on 2011-08-18T14:36:46Z (GMT).</dim:field>
+            <dim:field mdschema="dc" element="description">Extracted text</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="medium">Text</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="mimetype">text/plain</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+            <dim:field mdschema="dc" element="title">thesis.pdf.txt</dim:field>
+            <dim:field mdschema="dc" element="title" qualifier="alternative">Written by FormatFilter org.dspace.app.mediafilter.PDFFilter on 2012-09-07T15:34:51Z (GMT).</dim:field>
+            <dim:field mdschema="dc" element="description">Extracted text</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="medium">Text</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="mimetype">text/plain</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+            <dim:field mdschema="dc" element="title">form.pdf</dim:field>
+            <dim:field mdschema="dc" element="title" qualifier="alternative">form.pdf</dim:field>
+            <dim:field mdschema="dc" element="description">Permission Form (Admin)</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="medium">Adobe PDF</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="mimetype">application/pdf</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+            <dim:field mdschema="dc" element="title">thesis.pdf</dim:field>
+            <dim:field mdschema="dc" element="title" qualifier="alternative">thesis.pdf</dim:field>
+            <dim:field mdschema="dc" element="description">Thesis</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="medium">Adobe PDF</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="mimetype">application/pdf</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+            <dim:field mdschema="dc" element="title">license.txt</dim:field>
+            <dim:field mdschema="dc" element="title" qualifier="alternative">Written by org.dspace.content.LicenseUtils</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="medium">License</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="mimetype">text/plain</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="internal">true</dim:field>
+          </dim:dim>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:digiprovMD ID="ie-amd-digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx/>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="VIEW" ID="rep1" ADMID="rep1-amd">
+      <mets:file ID="bitstream_4" MIMETYPE="application/pdf" ADMID="amd_56" DMDID="amd_56-dmd">
+        <mets:FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_9583.pdf"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="VIEW" ID="rep4" ADMID="rep4-amd">
+      <mets:file ID="bitstream_1" MIMETYPE="application/pdf" ADMID="amd_47" DMDID="amd_47-dmd">
+        <mets:FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_9558.pdf"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="VIEW" ID="rep5" ADMID="rep5-amd">
+      <mets:file ID="bitstream_5-extracted" MIMETYPE="text/plain" ADMID="amd_22">
+        <mets:FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_9732.txt"/>
+      </mets:file>
+      <mets:file ID="bitstream_6-extracted" MIMETYPE="text/plain" ADMID="amd_30">
+        <mets:FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_13079.txt"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="VIEW" ID="rep6" ADMID="rep6-amd">
+      <mets:file ID="bitstream_4-1" MIMETYPE="application/pdf" ADMID="amd_56">
+        <mets:FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_9583.pdf"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap ID="rep1-1" TYPE="logical">
+    <mets:div LABEL="PRESERVATION MASTER">
+      <mets:div TYPE="FILE" LABEL="thesis.pdf">
+        <mets:fptr FILEID="bitstream_4"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structMap ID="rep4-1" TYPE="logical">
+    <mets:div LABEL="PERMISSION FORM">
+      <mets:div TYPE="FILE" LABEL="form.pdf">
+        <mets:fptr FILEID="bitstream_1"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structMap ID="rep5-1" TYPE="logical">
+    <mets:div LABEL="EXTRACTED TEXT">
+      <mets:div TYPE="FILE" LABEL="form.pdf.txt">
+        <mets:fptr FILEID="bitstream_5-extracted"/>
+      </mets:div>
+      <mets:div TYPE="FILE" LABEL="thesis.pdf.txt">
+        <mets:fptr FILEID="bitstream_6-extracted"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structMap ID="rep6-1" TYPE="logical">
+    <mets:div LABEL="FULL TEXT">
+      <mets:div TYPE="FILE" LABEL="thesis.pdf">
+        <mets:fptr FILEID="bitstream_4-1"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>
