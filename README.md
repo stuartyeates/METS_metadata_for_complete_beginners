@@ -2,7 +2,7 @@
 Materials for the a talk at at NDF 2017 by Stuart Yeates and Max Sullivan. See http://www.ndf.org.nz/2017-workshops#mets
 
 ##  edmcook
-This is a SIP containing the NZETC version of "The 'Sure to Rise' Cookery Book" (a New Zealand cultural iron) originally published to the web at http://nzetc.victoria.ac.nz/tm/scholarly/tei-EdmCook.html 
+This is a SIP containing the NZETC TEI version of "The 'Sure to Rise' Cookery Book" (a New Zealand cultural iron) originally published to the web at http://nzetc.victoria.ac.nz/tm/scholarly/tei-EdmCook.html 
 
 ### edmcook-original
 This is the SIP which we created for importing into Rosetta. The script was based on XSLT and bash. 
