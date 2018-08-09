@@ -1,0 +1,2951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 nzetc-p5.xsd" xml:id="EdmCook" xml:lang="en">
+  <teiHeader>
+    <fileDesc xml:id="fileDesc-0001">
+      <titleStmt>
+        <title type="marc245">
+          <name key="name-101724" type="work">The 'Sure to Rise' Cookery Book</name>
+        </title>
+        <title type="gmd">[electronic resource]</title>
+        <title type="sort">Sure to Rise Cookery Book</title>
+        <respStmt xml:id="respStmt-0001">
+          <resp>Creation of machine-readable version</resp>
+          <name type="person" key="name-141366">Samantha Callaghan</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0002">
+          <resp>Creation of digital images</resp>
+          <name type="person" key="name-141366">Samantha Callaghan</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0003">
+          <resp>Conversion to TEI.2-conformant markup</resp>
+          <name type="person" key="name-141366">Samantha Callaghan</name>
+        </respStmt>
+      </titleStmt>
+      <extent>ca. 94 kilobytes</extent>
+      <publicationStmt>
+        <publisher>
+          <name key="name-121602" type="organisation">New Zealand Electronic Text Centre</name>
+        </publisher>
+        <pubPlace><name key="name-008844" type="place">Wellington</name>, New Zealand</pubPlace>
+        <idno type="etc">Modern English</idno>
+        <availability status="unknown">
+          <p>Publicly accessible</p>
+          <p n="public">URL: http://www.nzetc.org/collections.html</p>
+          <p>copyright <date when="2006">2006</date>, by Victoria University of Wellington</p>
+        </availability>
+        <date when="2006">2006</date>
+      <idno type="vuw-bbid">1008604</idno></publicationStmt>
+      <notesStmt xml:id="notesStmt-0001">
+        <note xml:id="note-0001">Illustrations have been included from the original source.</note>
+        <note xml:id="page-images">
+          <list>
+            <head>page images</head>
+            <item>
+              <figure xml:id="EdmCookFCo">
+                <graphic url="EdmCookFCo.jpg" mimeType="image/jpeg" xml:id="EdmCookFCo-g"/>
+              </figure>
+              <figure xml:id="EdmCook001">
+                <graphic url="EdmCook001.jpg" mimeType="image/jpeg" xml:id="EdmCook001-g"/>
+              </figure>
+              <figure xml:id="EdmCook002">
+                <graphic url="EdmCook002.jpg" mimeType="image/jpeg" xml:id="EdmCook002-g"/>
+              </figure>
+              <figure xml:id="EdmCook003">
+                <graphic url="EdmCook003.jpg" mimeType="image/jpeg" xml:id="EdmCook003-g"/>
+              </figure>
+              <figure xml:id="EdmCook004">
+                <graphic url="EdmCook004.jpg" mimeType="image/jpeg" xml:id="EdmCook004-g"/>
+              </figure>
+              <figure xml:id="EdmCook005">
+                <graphic url="EdmCook005.jpg" mimeType="image/jpeg" xml:id="EdmCook005-g"/>
+              </figure>
+              <figure xml:id="EdmCook006">
+                <graphic url="EdmCook006.jpg" mimeType="image/jpeg" xml:id="EdmCook006-g"/>
+              </figure>
+              <figure xml:id="EdmCook007">
+                <graphic url="EdmCook007.jpg" mimeType="image/jpeg" xml:id="EdmCook007-g"/>
+              </figure>
+              <figure xml:id="EdmCook008">
+                <graphic url="EdmCook008.jpg" mimeType="image/jpeg" xml:id="EdmCook008-g"/>
+              </figure>
+              <figure xml:id="EdmCook009">
+                <graphic url="EdmCook009.jpg" mimeType="image/jpeg" xml:id="EdmCook009-g"/>
+              </figure>
+              <figure xml:id="EdmCook010">
+                <graphic url="EdmCook010.jpg" mimeType="image/jpeg" xml:id="EdmCook010-g"/>
+              </figure>
+              <figure xml:id="EdmCook011">
+                <graphic url="EdmCook011.jpg" mimeType="image/jpeg" xml:id="EdmCook011-g"/>
+              </figure>
+              <figure xml:id="EdmCook012">
+                <graphic url="EdmCook012.jpg" mimeType="image/jpeg" xml:id="EdmCook012-g"/>
+              </figure>
+              <figure xml:id="EdmCook013">
+                <graphic url="EdmCook013.jpg" mimeType="image/jpeg" xml:id="EdmCook013-g"/>
+              </figure>
+              <figure xml:id="EdmCook014">
+                <graphic url="EdmCook014.jpg" mimeType="image/jpeg" xml:id="EdmCook014-g"/>
+              </figure>
+              <figure xml:id="EdmCook015">
+                <graphic url="EdmCook015.jpg" mimeType="image/jpeg" xml:id="EdmCook015-g"/>
+              </figure>
+              <figure xml:id="EdmCook016">
+                <graphic url="EdmCook016.jpg" mimeType="image/jpeg" xml:id="EdmCook016-g"/>
+              </figure>
+              <figure xml:id="EdmCook017">
+                <graphic url="EdmCook017.jpg" mimeType="image/jpeg" xml:id="EdmCook017-g"/>
+              </figure>
+              <figure xml:id="EdmCook018">
+                <graphic url="EdmCook018.jpg" mimeType="image/jpeg" xml:id="EdmCook018-g"/>
+              </figure>
+              <figure xml:id="EdmCook019">
+                <graphic url="EdmCook019.jpg" mimeType="image/jpeg" xml:id="EdmCook019-g"/>
+              </figure>
+              <figure xml:id="EdmCook020">
+                <graphic url="EdmCook020.jpg" mimeType="image/jpeg" xml:id="EdmCook020-g"/>
+              </figure>
+              <figure xml:id="EdmCook021">
+                <graphic url="EdmCook021.jpg" mimeType="image/jpeg" xml:id="EdmCook021-g"/>
+              </figure>
+              <figure xml:id="EdmCook022">
+                <graphic url="EdmCook022.jpg" mimeType="image/jpeg" xml:id="EdmCook022-g"/>
+              </figure>
+              <figure xml:id="EdmCook023">
+                <graphic url="EdmCook023.jpg" mimeType="image/jpeg" xml:id="EdmCook023-g"/>
+              </figure>
+              <figure xml:id="EdmCook024">
+                <graphic url="EdmCook024.jpg" mimeType="image/jpeg" xml:id="EdmCook024-g"/>
+              </figure>
+              <figure xml:id="EdmCookP001a">
+                <graphic url="EdmCookP001a.jpg" mimeType="image/jpeg" xml:id="EdmCookP001a-g"/>
+              </figure>
+              <figure xml:id="EdmCook027">
+                <graphic url="EdmCook027.jpg" mimeType="image/jpeg" xml:id="EdmCook027-g"/>
+              </figure>
+              <figure xml:id="EdmCook028">
+                <graphic url="EdmCook028.jpg" mimeType="image/jpeg" xml:id="EdmCook028-g"/>
+              </figure>
+              <figure xml:id="EdmCook029">
+                <graphic url="EdmCook029.jpg" mimeType="image/jpeg" xml:id="EdmCook029-g"/>
+              </figure>
+              <figure xml:id="EdmCook030">
+                <graphic url="EdmCook030.jpg" mimeType="image/jpeg" xml:id="EdmCook030-g"/>
+              </figure>
+              <figure xml:id="EdmCook031">
+                <graphic url="EdmCook031.jpg" mimeType="image/jpeg" xml:id="EdmCook031-g"/>
+              </figure>
+              <figure xml:id="EdmCook032">
+                <graphic url="EdmCook032.jpg" mimeType="image/jpeg" xml:id="EdmCook032-g"/>
+              </figure>
+              <figure xml:id="EdmCook033">
+                <graphic url="EdmCook033.jpg" mimeType="image/jpeg" xml:id="EdmCook033-g"/>
+              </figure>
+              <figure xml:id="EdmCook034">
+                <graphic url="EdmCook034.jpg" mimeType="image/jpeg" xml:id="EdmCook034-g"/>
+              </figure>
+              <figure xml:id="EdmCook035">
+                <graphic url="EdmCook035.jpg" mimeType="image/jpeg" xml:id="EdmCook035-g"/>
+              </figure>
+              <figure xml:id="EdmCook036">
+                <graphic url="EdmCook036.jpg" mimeType="image/jpeg" xml:id="EdmCook036-g"/>
+              </figure>
+              <figure xml:id="EdmCook037">
+                <graphic url="EdmCook037.jpg" mimeType="image/jpeg" xml:id="EdmCook037-g"/>
+              </figure>
+              <figure xml:id="EdmCook038">
+                <graphic url="EdmCook038.jpg" mimeType="image/jpeg" xml:id="EdmCook038-g"/>
+              </figure>
+              <figure xml:id="EdmCook039">
+                <graphic url="EdmCook039.jpg" mimeType="image/jpeg" xml:id="EdmCook039-g"/>
+              </figure>
+              <figure xml:id="EdmCook040">
+                <graphic url="EdmCook040.jpg" mimeType="image/jpeg" xml:id="EdmCook040-g"/>
+              </figure>
+              <figure xml:id="EdmCook041">
+                <graphic url="EdmCook041.jpg" mimeType="image/jpeg" xml:id="EdmCook041-g"/>
+              </figure>
+              <figure xml:id="EdmCook042">
+                <graphic url="EdmCook042.jpg" mimeType="image/jpeg" xml:id="EdmCook042-g"/>
+              </figure>
+              <figure xml:id="EdmCook043">
+                <graphic url="EdmCook043.jpg" mimeType="image/jpeg" xml:id="EdmCook043-g"/>
+              </figure>
+              <figure xml:id="EdmCook044">
+                <graphic url="EdmCook044.jpg" mimeType="image/jpeg" xml:id="EdmCook044-g"/>
+              </figure>
+              <figure xml:id="EdmCook045">
+                <graphic url="EdmCook045.jpg" mimeType="image/jpeg" xml:id="EdmCook045-g"/>
+              </figure>
+              <figure xml:id="EdmCook046">
+                <graphic url="EdmCook046.jpg" mimeType="image/jpeg" xml:id="EdmCook046-g"/>
+              </figure>
+              <figure xml:id="EdmCook047">
+                <graphic url="EdmCook047.jpg" mimeType="image/jpeg" xml:id="EdmCook047-g"/>
+              </figure>
+              <figure xml:id="EdmCook048">
+                <graphic url="EdmCook048.jpg" mimeType="image/jpeg" xml:id="EdmCook048-g"/>
+              </figure>
+              <figure xml:id="EdmCook049">
+                <graphic url="EdmCook049.jpg" mimeType="image/jpeg" xml:id="EdmCook049-g"/>
+              </figure>
+              <figure xml:id="EdmCook050">
+                <graphic url="EdmCook050.jpg" mimeType="image/jpeg" xml:id="EdmCook050-g"/>
+              </figure>
+              <figure xml:id="EdmCookBCo">
+                <graphic url="EdmCookBCo.jpg" mimeType="image/jpeg" xml:id="EdmCookBCo-g"/>
+              </figure>
+            </item>
+          </list>
+        </note>
+      </notesStmt>
+      <sourceDesc xml:id="sourceDesc-0001">
+        <biblFull>
+          <titleStmt>
+            <title>
+              <name key="name-101724" type="work">The “Sure to Rise” Cookery Book</name>
+            </title>
+          </titleStmt>
+          <editionStmt>
+            <p>Third Edition</p>
+          </editionStmt>
+          <extent>50 pages</extent>
+          <publicationStmt>
+            <publisher>
+              <name key="name-101725" type="person">T. J. Edmonds</name>
+            </publisher>
+            <pubPlace>
+              <name key="name-007584" type="place">Christchurch</name>
+            </pubPlace>
+            <date when="1914">1914</date>
+            <idno type="callno">Source copy consulted: Copy in private corporate collection of Goodman Fielder Ltd</idno>
+          </publicationStmt>
+        </biblFull>
+      <bibl><title>
+              <name key="name-101724" type="work">The “Sure to Rise” Cookery Book</name>
+            </title></bibl></sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>All unambiguous end-of-line hyphens have been removed and
+		        the trailing part of a word has been joined to the preceding
+		        line, except in the case of those words that break over a
+		        page.</p>
+        <p xml:id="ETC">Some keywords in the header are a local Electronic
+		          Text Centre scheme to aid in establishing analytical
+		          groupings.</p>
+      </editorialDecl>
+      <refsDecl>
+        <p/>
+      </refsDecl>
+      <classDecl>
+        <taxonomy xml:id="nzetc-subjects">
+          <bibl>NZETC Subject Headings</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc xml:id="profileDesc-0001">
+      <creation>
+        <date when="1914">1914</date>
+      </creation>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="http://www.nzetc.org/nzetc-subjects">
+          <list>
+            <item>
+              <rs key="subject-000009" type="subject">Science and Natural History</rs>
+            </item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc xml:id="revisionDesc-0001">
+      <change xml:id="change-0001"><date when="2007-01-29">29 January 2007</date><label>corrector</label><name type="person" key="name-141366">Samantha Callaghan</name>Created links directly to recipes (Puff Pastry and Custard) used in other recipes, corrected a spelling mistake and removed corresp tags in page breaks so that page images no longer display.</change>
+      <change xml:id="change-0002"><date when="2007-10-05">5 October 2007</date><label>corrector</label><name type="person" key="name-141366">Samantha Callaghan</name>Edited links in text contents page so that they link to each recipe directly rather than to the pagebreak preceding it. Corrected one spelling mistake ('writh' to 'with')</change>
+      <change n="quickProof"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Text-proofing of a sample of the text</change>
+      <change n="teiMarkup"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Conversion to TEI.2-conformat markup</change>
+      <change n="scriptedMarkup"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Adding scripted markup</change>
+      <change n="encodingDesc"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Addition of encodingDesc</change>
+      <change n="addBibls"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Addition of bibls</change>
+      <change n="assembleImages"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Assembled all images</change>
+      <change n="derivativeCreation"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Creation of derivative images</change>
+      <change n="teiValidation"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Validation of TEI</change>
+      <change n="nameValidation"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Validation of names</change>
+      <change n="utf8Conversion"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Conversion to Unicode (utf-8)</change>
+      <change n="makeProduction"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Promotion to production</change>
+      <change n="drmAddition"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Addition of text to access control</change>
+      <change n="harvestTopicMap"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Harvest into Topic Map</change>
+      <change n="browserCheck"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Checking of text using browser</change>
+      <change n="corpusAddition"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Addition of text to corpus</change>
+      <change n="catalogueAddition"><date when="2007-08-07T21:17:54">21:17:54, Tuesday 7 August 2007</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Addition of text to Library Catalogue<!-- BBID=1008604 --></change>
+      <change n="live"><date when="2008-09-23T14:47:15">14:47:15, Tuesday 23 September 2008</date><label>editorial</label><name type="organisation" key="name-121602">NZETC</name>Make text available on NZETC website</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="t1">
+    <front xml:id="t1-front1">
+      <div type="covers" xml:id="t1-front-d1">
+        <p>
+          <figure xml:id="t1-front1-d1-x2-fig1">
+            <graphic url="EdmCookFCo.jpg" mimeType="image/jpeg" xml:id="t1-front1-d1-x2-fig1-g"/>
+            <figDesc>Front Cover</figDesc>
+          </figure>
+        </p>
+        <p>
+          <figure xml:id="t1-front1-d1-x3-fig1">
+            <graphic url="EdmCookBCo.jpg" mimeType="image/jpeg" xml:id="t1-front1-d1-x3-fig1-g"/>
+            <figDesc>Back Cover</figDesc>
+          </figure>
+        </p>
+      </div>
+      <pb corresp="#EdmCook001" xml:id="n1"/>
+      <div type="advert" xml:id="t1-front-d2">
+        <p>
+          <figure xml:id="t1-front1-d2-x1-fig1">
+            <graphic url="EdmCook001.jpg" mimeType="image/jpeg" xml:id="t1-front1-d2-x1-fig1-g"/>
+            <figDesc>Advertisement</figDesc>
+          </figure>
+        </p>
+      </div>
+      <pb xml:id="n2" corresp="#EdmCook002"/>
+      <titlePage xml:id="t1-front-d3">
+        <docTitle>
+          <titlePart type="main">
+            <name key="name-101724" type="work"><hi rend="c">The<lb/>
+						“Sure</hi> to <hi rend="c">Rise”<lb/>
+						Cookery<lb/>
+						Book</hi>
+						</name>
+          </titlePart>
+        </docTitle>
+        <docImprint rend="center">
+				Is Especially Compiled, and contains<lb/>
+				<hi rend="c"><hi rend="i">Useful Everyday Recipes,</hi></hi><lb/>
+				also, <hi rend="c"><hi rend="i">Cooking Hints</hi></hi>.<lb/>
+				<hi rend="i"><hi rend="lsc">Third Edition</hi> of</hi> 150,000<lb/>         
+				<hi rend="c">Post Free</hi> <hi rend="i"><hi rend="lsc">To Any Address</hi></hi><lb/>
+					<publisher><sic>Pubilshed</sic> by<lb/>
+						<name key="name-101725" type="person"><hi rend="c">T. J. Edmonds</hi></name>,<lb/>
+						<hi rend="c">Baking Powder Manufacturer,</hi>
+					</publisher><lb/>
+					<pubPlace><hi rend="c"><name key="name-007584" type="place">Christchurch</name></hi></pubPlace><lb/>
+					<hi rend="sc">Christchurch, N.Z.:<lb/>
+					Printed by the Christchurch Press Company Limited.</hi><lb/>
+					<docDate><date when="1914">1914.</date></docDate>
+				</docImprint>
+      </titlePage>
+      <pb xml:id="n3" corresp="#EdmCook003"/>
+      <div type="advert" xml:id="t1-front-d4">
+        <p>
+          <figure xml:id="t1-front1-d3-x1-fig1">
+            <graphic url="EdmCook003.jpg" mimeType="image/jpeg" xml:id="t1-front1-d3-x1-fig1-g"/>
+            <figDesc>Advertisement</figDesc>
+          </figure>
+        </p>
+      </div>
+      <pb corresp="#EdmCook004" xml:id="n4" n="3"/>
+      <div type="contents" xml:id="t1-front-d5">
+        <head>
+          <hi rend="c">Contents.</hi>
+        </head>
+        <p>
+          <table rows="42" cols="4">
+            <row>
+              <cell/>
+              <cell>
+                <hi rend="c">Page</hi>
+              </cell>
+              <cell/>
+              <cell>
+                <hi rend="c">Page</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="b">
+                  <hi rend="c">Scones.</hi>
+                </hi>
+              </cell>
+              <cell/>
+              <cell>
+                <hi rend="b">
+                  <hi rend="c">Pastry.</hi>
+                </hi>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>Preserved Ginger Scones</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d1">5</ref>
+              </cell>
+              <cell>Mince Pies</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d37">17</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Cinnamon Scones</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d2">5</ref>
+              </cell>
+              <cell>Mince Meat</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d38">17</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Girdle Scones</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d3">5</ref>
+              </cell>
+              <cell>Marmalade Cheese Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d39">17</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Yorkshire Tea Scones</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d4">6</ref>
+              </cell>
+              <cell>Plain Puff Pastry</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d40">18</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Scotch Scones</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d5">6</ref>
+              </cell>
+              <cell>Short Pastry</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d41">18</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Carraway Biscuits</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d6">6</ref>
+              </cell>
+              <cell>Yorkshire Cheese Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d42">18</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Brown Scones</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d7">7</ref>
+              </cell>
+              <cell>Apple Sandwich</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d43">19</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Sultana Scones</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d8">7</ref>
+              </cell>
+              <cell>A Good Pie Crust</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d44">19</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Plain Scones</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d9">7</ref>
+              </cell>
+              <cell>Cornish Pastry</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d45">19</ref>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+              <cell>Testimonials</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d46">20</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="b"><hi rend="c">Bread</hi> and <hi rend="c">Rolls</hi></hi>
+              </cell>
+              <cell/>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>Coffee Rolls</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d10">8</ref>
+              </cell>
+              <cell>
+                <hi rend="b"><hi rend="c">Cakes</hi> and <hi rend="c">Buns.</hi></hi>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>Milk Rolls</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d11">8</ref>
+              </cell>
+              <cell>English Queen Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d47">21</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Date Rolls</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d12">8</ref>
+              </cell>
+              <cell>Raspberry Delights</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d48">21</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Cottage Loaf</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d13">9</ref>
+              </cell>
+              <cell>Chelsea Buns</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d49">21</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Aerated Bread</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d14">9</ref>
+              </cell>
+              <cell>Almond Fingers</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d50">22</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Brown Bread</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d15">9</ref>
+              </cell>
+              <cell>Rich Plum Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d51">22</ref>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+              <cell>Buffalo Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d52">22</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="b">
+                  <hi rend="c">Puddings.</hi>
+                </hi>
+              </cell>
+              <cell/>
+              <cell>Small Cakes, without Eggs</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d53">23</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Rice Pudding, without Eggs</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d16">10</ref>
+              </cell>
+              <cell>Elsie's Fingers</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d54">23</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Sago Puddings, without Eggs</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d17">10</ref>
+              </cell>
+              <cell>Pikelets</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d55">23</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Yorkshire Pudding</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d18">10</ref>
+              </cell>
+              <cell/>
+              <cell/>
+            </row>
+            <row>
+              <cell>Bread and Butter Pudding<lb/>
+								without Eggs</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d19">11</ref>
+              </cell>
+              <cell>Factory</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d56">24 &amp; 25</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Raspberry Pudding</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d20">11</ref>
+              </cell>
+              <cell>Rene's Kisses</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d57">26</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Date Pudding</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d21">11</ref>
+              </cell>
+              <cell>Sponge Sandwich</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d58">26</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Rita's Apple Pudding</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d22">12</ref>
+              </cell>
+              <cell>Sponge Roll</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d59">26</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Fruit Pudding</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d23">12</ref>
+              </cell>
+              <cell>Christmas Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d60">27</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>American Pudding</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d24">12</ref>
+              </cell>
+              <cell>Express Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d61">27</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Dominion Pudding</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d25">13</ref>
+              </cell>
+              <cell>New Zealand Buns</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d62">27</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Beef Steak Pudding</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d26">13</ref>
+              </cell>
+              <cell>Sponge Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d63">28</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Cocoanut Custard</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d27">13</ref>
+              </cell>
+              <cell>Rock Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d64">28</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Suet Dumplings</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d28">14</ref>
+              </cell>
+              <cell>Children's Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d65">28</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Apple Dumplings</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d29">14</ref>
+              </cell>
+              <cell>Shortbread</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d66">29</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Rolled French Pudding</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d30">14</ref>
+              </cell>
+              <cell>Fruit Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d67">29</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Baked Jam Roll</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d31">15</ref>
+              </cell>
+              <cell>Rice Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d68">29</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Hendy Pudding</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d32">15</ref>
+              </cell>
+              <cell>Sunbeam Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d69">30</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Baked Apple Dumplings</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d33">15</ref>
+              </cell>
+              <cell>Pancakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d70">30</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Christmas Plum Pudding</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d34">16</ref>
+              </cell>
+              <cell>Grated Nut Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d71">30</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Doughnuts</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d35">16</ref>
+              </cell>
+              <cell>Afternoon Tea Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d72">31</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>“ Love in a ——— ”</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d36">16</ref>
+              </cell>
+              <cell>Rice Cakes, without eggs</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d73">31</ref>
+              </cell>
+            </row>
+          </table>
+        </p>
+        <pb corresp="#EdmCook005" xml:id="n5" n="4"/>
+        <p>
+          <table rows="28" cols="4">
+            <head>
+              <hi rend="c">Contents</hi>
+              <hi rend="i">Continued.</hi>
+            </head>
+            <row>
+              <cell/>
+              <cell>
+                <hi rend="c">Page</hi>
+              </cell>
+              <cell/>
+              <cell>
+                <hi rend="c">Page</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>Walnut Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d74">31</ref>
+              </cell>
+              <cell>
+                <hi rend="b">
+                  <hi rend="c">Miscellaneous.</hi>
+                </hi>
+              </cell>
+              <cell/>
+            </row>
+            <row>
+              <cell>A Good Plain Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d76">32</ref>
+              </cell>
+              <cell>Delicious Triﬂe</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d100">41</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Chocolate Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d77">32</ref>
+              </cell>
+              <cell>Egg Drink, without Eggs</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d101">41</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Ginger Snaps</cell>
+              <cell>
+                <ref target="#n32">32</ref>
+              </cell>
+              <cell>To Make a Custard</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d102">41</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Madeira Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d79">33</ref>
+              </cell>
+              <cell>Pear Ginger</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d103">41</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Date Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d80">33</ref>
+              </cell>
+              <cell>Lemon Honey</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d104">42</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Pyramids</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d81">34</ref>
+              </cell>
+              <cell>Lemon Sponge</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d105">42</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Picnic Dainties</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d82">34</ref>
+              </cell>
+              <cell>Edmonds' Custards, with<lb/>
+								Stewed Fruits</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d106">42</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Seed Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d83">34</ref>
+              </cell>
+              <cell>Pineapple Jelly</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d107">43</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Ginger Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d84">34</ref>
+              </cell>
+              <cell>Fig and Banana Salad</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d108">43</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Victoria Sandwich</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d85">35</ref>
+              </cell>
+              <cell>Baked Pears</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d108">43</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Sultana Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d86">35</ref>
+              </cell>
+              <cell>Tomato and Macaroni</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d110">44</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Girdle Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d87">35</ref>
+              </cell>
+              <cell>Tomato Soup</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d111">44</ref>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+              <cell>Apple Sauce</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d115">44</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Growth in Sales</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d88">36</ref>
+              </cell>
+              <cell>White Sauce</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d112">44</ref>
+              </cell>
+            </row>
+            <row>
+              <cell/>
+              <cell/>
+              <cell>Tomato Sauce, No. 1</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d113">45</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Lemon Tea Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d89">37</ref>
+              </cell>
+              <cell>Tomato Sauce, No. 2</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d114">45</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Tea Cakes, without Eggs</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d90">37</ref>
+              </cell>
+              <cell>Easy Breakfast or Tea Dish</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d116">45</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Tennis Buns</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d91">37</ref>
+              </cell>
+              <cell>Salad Dressing</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d117">46</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>“ Egg Powder ” Rock Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d92">38</ref>
+              </cell>
+              <cell>Apple Chutney</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d118">46</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Small Cocoanut Cakes</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d93">38</ref>
+              </cell>
+              <cell>Tomato Sausage</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d119">46</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Excellent for Suppers</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d94">38</ref>
+              </cell>
+              <cell>Vegetarian Roast</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d120">47</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Coffee Cake</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d96">39</ref>
+              </cell>
+              <cell>Savoury Omelet</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d121">47</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Bath Buns</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d97">39</ref>
+              </cell>
+              <cell>Ham or Tongue Omelet</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d122">47</ref>
+              </cell>
+            </row>
+            <row>
+              <cell>Cocoanut Delicacies</cell>
+              <cell>
+                <ref target="#t1-body1-d1-d99">40</ref>
+              </cell>
+              <cell>Cooking Hints</cell>
+              <cell>
+                <ref target="#t1-back-d1">48</ref>
+              </cell>
+            </row>
+          </table>
+        </p>
+        <lg type="free">
+          <l>
+            <hi rend="b">
+              <hi rend="c">Did You Read Opening Remarks</hi>
+            </hi>
+          </l>
+          <l>
+            <hi rend="b">
+              <hi rend="c">Inside the</hi>
+            </hi>
+          </l>
+          <l>
+            <hi rend="b">
+              <hi rend="c">Front Cover Of This Book.</hi>
+            </hi>
+          </l>
+        </lg>
+      </div>
+    </front>
+    <pb corresp="#EdmCook006" xml:id="n6" n="5"/>
+    <body xml:id="t1-body1">
+      <head>
+        <hi rend="c">Recipes</hi>
+      </head>
+      <div xml:id="t1-body1-d1-d1">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Preserved Ginger Scones.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ lb. ﬂour (one breakfast cup)</item>
+          <item>1 oz. butter</item>
+          <item>¼ teaspoon salt</item>
+          <item>¼ teaspoon sugar</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+          <item>Preserved Ginger</item>
+          <item>Milk and water to mix</item>
+        </list>
+        <p>Sift baking powder and salt with ﬂour, rub in butter, mix to a stiff dough, turn out on board, cut in two equal parts, roll out, spread one-half with thinly-cut ginger, place the other half on top, cut in squares, brush over the milk, and bake in quick oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d2">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Cinnamon Scones.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 lb ﬂour</item>
+          <item>3 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>2 ozs. butter        (moderate)</item>
+          <item>1 egg</item>
+          <item>2 teaspoonfuls ground cinnamon</item>
+          <item>Milk to mix, sugar to taste, salt to taste</item>
+        </list>
+        <p>Make a light scone mixture, roll out quickly, sprinkle over the cinnamon, fold in three, roll lightly to required thickness, cut into shape, and bake in quick oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d3">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Girdle Scones.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>3 level breakfast cups ﬂour</item>
+          <item>3 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>Salt to taste</item>
+        </list>
+        <p>Mix with large cup of milk and water, divide dough into half, roll out, and cut 4 scones from each. Cook on hot girdle.</p>
+      </div>
+      <pb corresp="#EdmCook007" xml:id="n7" n="6"/>
+      <div xml:id="t1-body1-d1-d4">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Yorkshire Tea Scones.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>¾ lb. ﬂour (or 1 ½ large cups)</item>
+          <item>1 oz. butter (or a tablespoonful)</item>
+          <item>1 desertspoonful sugar</item>
+          <item>½ cup milk</item>
+          <item>2 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>1 egg</item>
+        </list>
+        <p>Put butter into a saucepan, when dissolved put in the milk, and make warm; place sugar in a basin, and pour on the warm milk. Then place ﬂour in mixing bowl, and mix in Edmonds' Baking Powder, make a well in centre, and drop in the egg, then pour on milk and mix well. The paste should be thin, roll and cut into shapes, place on hot ﬂoured oven shelf, and bake in hot oven 10 minutes.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d5">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Scotch Scones.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 breakfast cups ﬂour</item>
+          <item>2 heaped teaspoons Edmonds' Baking Powder</item>
+          <item>2 ozs. butter</item>
+          <item>1 cup milk</item>
+          <item>Salt to taste</item>
+        </list>
+        <p>Mix ﬂour and baking powder, then rub in 2 ozs butter, half a pint milk, mix quickly, roll and cut into shapes, bake in hot oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d6">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Carraway Biscuits.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1½ lbs. of ﬂour</item>
+          <item>½ lb. butter</item>
+          <item>¾ lb. Sugar</item>
+          <item>2 eggs</item>
+          <item>2 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>2 ozs. currants</item>
+          <item>2 ozs. candied peel</item>
+          <item>1 teaspoonful carraway seeds</item>
+          <item>Little milk</item>
+        </list>
+        <p>Rub the butter into the ﬂour, add the sugar, baking powder, cleaned currants, carraway seeds, and finely-chopped candied peel. Mix to a stiff paste with the well-beaten eggs, and a little milk. Roll out on a ﬂoured board, cut into shapes, and bake in quick oven.</p>
+      </div>
+      <pb corresp="#EdmCook008" xml:id="n8" n="7"/>
+      <div xml:id="t1-body1-d1-d7">
+        <head>
+          <hi rend="c">
+            <hi rend="b">“ Up-To-Date ” Brown Scones.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 breakfastcups of wheatmeal</item>
+          <item>1 breakfastcup plain ﬂour</item>
+          <item>3 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>3 ozs. butter (or lard)</item>
+          <item>2 heaped dessertspoonfuls sugar</item>
+          <item>1 egg</item>
+          <item>Large cup milk. Salt to taste</item>
+        </list>
+        <p>Mix the wheatmeal, ﬂour, sugar and Edmonds' Baking Powder, then rub in butter (or lard), beat the egg and milk together, and make into stiff dough. Roll and cut into shapes, place on hot ﬂoured oven shelf, and bake in quick oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d8">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Sultana Scones.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 breakfastcups ﬂour</item>
+          <item>3 moderate teaspoonfuls Edmonds' Baking Powder</item>
+          <item>2 tablespoonfuls butter</item>
+          <item>2 dessertspoonfuls sugar</item>
+          <item>1 egg, half pint milk, salt to taste</item>
+          <item>1 oz. sultanas or currants</item>
+        </list>
+        <p>Rub the butter (or lard) into the ﬂour, and add the sugar, sultanas, and baking powder. Beat the egg, and add the milk to it, then mix all together to a wet dough Roll out on ﬂoured board; cut into shapes, and bake in moderate oven 20 minutes.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d9">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Plain Scones.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup ﬂour (piled up)</item>
+          <item>1½ teaspoons Edmonds' Baking Powder</item>
+          <item>1 oz. butter (or lard)</item>
+          <item>1 teaspoon sugar</item>
+          <item>1 egg</item>
+        </list>
+        <p>Rub butter (or lard) into ﬂour, then add other dry ingredients, beat egg with little water, mix all into dough. Bake as usual, quick oven. If made without the egg, use milk in place of water.</p>
+      </div>
+      <pb corresp="#EdmCook009" xml:id="n9" n="8"/>
+      <div xml:id="t1-body1-d1-d10">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Coffee Rolls.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>3 breakfast cups ﬂour</item>
+          <item>2 tablespoonfuls butter</item>
+          <item>3 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>½ pint milk, or more if needed.</item>
+          <item>1 tablespoonful sugar</item>
+        </list>
+        <p>Mix baking powder and ﬂour together. Beat butter and sugar to a cream; add egg (beaten), then milk, shape dough oblong, and cut. Make dough same consistency as for scones.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d11">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Milk Rolls.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 breakfastcups ﬂour</item>
+          <item>2 tablespoonfuls butter</item>
+          <item>1 breakfastcup milk</item>
+          <item>2 heaped teaspoons Edmonds' Baking Powder</item>
+        </list>
+        <p>Mix into a stiff dough, roll into oblong shape, cut into pieces, brush over with milk, and bake about 20 minutes.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d12">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Date Rolls.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 lb. ﬂour (or 2 breakfast cups)</item>
+          <item>4 ozs. sugar</item>
+          <item>2 eggs</item>
+          <item>4 ozs. butter</item>
+          <item>2 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>½ lb. dates or sultanas chopped</item>
+          <item>Milk to mix, salt a pinch, cinnamon</item>
+        </list>
+        <p>Rub butter into ﬂour, add all dry ingredients, beat egg till frothy, mix all together to a stiff paste, turn out on a board, form into a roll, and cut in equal parts, put on cold, greased, and ﬂoured oven tray, and put in quick oven; when nearly done brush over with hot water, and sprinkle liberally with cinnamon and sugar; return to oven to dry.</p>
+      </div>
+      <pb corresp="#EdmCook010" xml:id="n10" n="9"/>
+      <div xml:id="t1-body1-d1-d13">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Cottage Loaf.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 lbs. ﬂour</item>
+          <item>2 moderate dessertspoonfuls of Edmonds' Prize Baking Powder</item>
+          <item>½ teaspoonful salt</item>
+          <item>1 pint milk</item>
+        </list>
+        <p>Mix the baking powder and salt thoroughly with the ﬂour, and work into light dough with milk. Bake in quick oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d14">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Aerated Bread.</hi>
+          </hi>
+        </head>
+        <p>To every cup of ﬂour add a heaped teaspoonful of Edmonds' Prize Baking Powder, with a pinch of salt, thoroughly mix while in a dry state, then pour on gradually about half pint of cold water or milk; mix quickly but thoroughly into dough of the usual consistence. Do not knead it more than necessary to mix it perfectly. Make into small loaves, and place immediately in quick oven. (When fully risen open door to let out the steam just a second).</p>
+      </div>
+      <div xml:id="t1-body1-d1-d15">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Brown Bread.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 breakfastcups of wheatmeal</item>
+          <item>1 small cup ﬂour</item>
+          <item>1 teaspoon sugar</item>
+          <item>2 heaped teaspoons Edmonds' Baking Powder</item>
+          <item>1 small teaspoon salt</item>
+          <item>1 tablespoonful butter</item>
+          <item>1 breakfastcup milk and water</item>
+        </list>
+        <p>Mix all the ingredients with the milk and water into dough, turn out and ﬂatten with hand, inch thick, cut four lines across the top, and prick with fork. Bake about 20 minutes.</p>
+      </div>
+      <pb corresp="#EdmCook011" xml:id="n11" n="10"/>
+      <div xml:id="t1-body1-d1-d16">
+        <head>
+          <hi rend="b"><hi rend="c">Rice Pudding</hi> (Without Eggs).</hi>
+        </head>
+        <p>Stir sufficient rice in boiling water, let boil quarter of an hour, then drain water off, stirring into the boiled rice a cupful of milk and dessertspoonful of sugar. Make a custard (see direction for <ref target="#t1-body1-d1-d102">Custard</ref>, page <ref target="#n41">41</ref>), put the rice into a dish, mix thoroughly with the custard while hot. Grate nutmeg on top; bake as usual.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d17">
+        <head>
+          <hi rend="b"><hi rend="c">Sago Pudding</hi> (Without Eggs).</hi>
+        </head>
+        <p>Stir sufficient sago in boiling water, let boil 15 minutes, then drain water off, stir into the sago a cupful of milk and dessertspoonful sugar; make custard (see direction for <ref target="#t1-body1-d1-d102">Custard</ref>, page <ref target="#n41">41</ref>), pour the stewed sago into a dish, mix well with the custard while hot. Grate nutmeg on top; bake as usual.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d18">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Yorkshire Pudding.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 heaped breakfast cup flour</item>
+          <item>1 pint milk, good measure</item>
+          <item>½ teaspoon salt</item>
+          <item>3 eggs</item>
+          <item>1 tablespoon dripping</item>
+        </list>
+        <p>Sift flour into a basin, sprinkle salt over it, and make a hole in the middle. Break each egg separately, and stir gradually in, add sufficient milk with wooden spoon until thick batter, then add and mix remainder of milk, and allow the batter to stand for half-an-hour. Place the dripping into a baking dish, make quite hot, and pour in batter; bake slowly for half-hour. A layer of raisins put in bottom of tin before pouring in batter makes a nice raisin Batter Pudding; try this.</p>
+      </div>
+      <pb corresp="#EdmCook012" xml:id="n12" n="11"/>
+      <div xml:id="t1-body1-d1-d19">
+        <head>
+          <hi rend="b"><hi rend="c">Bread and Butter Pudding</hi> (Without Eggs).</hi>
+        </head>
+        <p>Slice sufficient white or brown bread (stale) to fill a good-sized pie dish, and spread each slice thinly with butter. Grease the dish, then lay in the slices, sprinkling some currants, sultanas, and sliced candied peel between each layer, adding a little sugar and spice also. Then moisten the bread with a cup of milk. Prepare a pint custard (see direction for <ref target="#t1-body1-d1-d102">Custard</ref>, page <ref target="#n41">41</ref>), and pour over while hot, grate nutmeg on; bake as usual.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d20">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Raspberry Pudding.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>¼ lb. butter</item>
+          <item>¼ cupful sugar</item>
+          <item>2 eggs</item>
+          <item>1 teaspoonful Edmonds' Baking Powder</item>
+          <item>2 tablespoonfuls raspberry jam</item>
+          <item>1 breakfastcup flour</item>
+        </list>
+        <p><hi rend="sc">Mode</hi>.—Beat butter and sugar to a cream, add eggs (well beaten), then the flour, baking powder and jam; put into a buttered basin, and steam 2½ hours.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d21">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Date Pudding.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>3 ozs. butter</item>
+          <item>6 ozs. flour</item>
+          <item>2 or 3 eggs</item>
+          <item>1 small teaspoon Edmonds' Baking Powder</item>
+          <item>4 ozs. sugar</item>
+          <item>4 ozs. dates</item>
+          <item>3 tablespoons milk</item>
+          <item>1 teaspoon lemon juice</item>
+        </list>
+        <p><hi rend="sc">Mode</hi>.—Beat butter and sugar to a cream, add eggs, and beat well. Then add milk, dates (chopped up fine), lemon juice, and last sift in the flour and baking powder mixed. Steam 2 hours in a buttered mould.</p>
+      </div>
+      <pb corresp="#EdmCook013" xml:id="n13" n="12"/>
+      <div xml:id="t1-body1-d1-d22">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Rita's Apple Pudding.</hi>
+          </hi>
+        </head>
+        <p>Mix thoroughly a teaspoon of Edmonds' Baking Powder with a breakfastcup of ﬂour. Beat 2 eggs well, add 1 gill of milk, and a tablespoon of butter, beat all together 15 minutes. Place 2 inches of stewed apples (sweetened) in a pie dish. Pour in batter, and bake in quick oven; serve hot.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d23">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Fruit Pudding.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 small cup sugar</item>
+          <item>2 breakfastcups ﬂour</item>
+          <item>1 tablespoonful butter</item>
+          <item>2 eggs</item>
+          <item>2 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>¾ cup milk (or more)</item>
+        </list>
+        <p>Beat butter and sugar to a cream, add eggs (beaten) and milk. Mix ﬂour and baking powder together., and add to mixture. Grease two small dishes, fill half full of fresh fruit, pour over the batter; bake 1 hour.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d24">
+        <head>
+          <hi rend="c">
+            <hi rend="b">American Pudding.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>4 apples</item>
+          <item>½ pint milk</item>
+          <item>2 eggs</item>
+          <item>1 tablespoon ﬂour</item>
+          <item>½ nutmeg</item>
+          <item>1 tablespoon minced suet</item>
+          <item>½ teaspoon Edmonds' Baking Powder</item>
+          <item>Sugar, sweeten to taste</item>
+        </list>
+        <p>Core and halve the apples, beat eggs, add ﬂour, baking powder and milk. Grease a pie dish; lay the apples in (cut part down), pour the mixture over, then sprinkle in the minced suet, and grate nutmeg on top. Bake moderate half-hour.</p>
+      </div>
+      <pb corresp="#EdmCook014" xml:id="n14" n="13"/>
+      <div xml:id="t1-body1-d1-d25">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Dominion Pudding.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup ﬂour</item>
+          <item>½ breakfastcup sugar</item>
+          <item>1 tablespoonful butter</item>
+          <item>1 egg</item>
+          <item>½ cupful sweet milk</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+        </list>
+        <p>Rub butter into ﬂour and Edmonds' Baking Powder , add sugar, beat egg and milk together, and mix all into batter. Place some raisins at bottom of mould or basin, pour batter over, and steam for 1¼ hours.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d26">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Beef Steak Pudding.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ lb. bread crumbs</item>
+          <item>½ lb. ﬂour</item>
+          <item>1 teaspoonful Edmonds' Baking Powder</item>
+          <item>1 lb. of steak</item>
+          <item>½ lb. suet</item>
+          <item>3 kidneys</item>
+          <item>Seasoning</item>
+        </list>
+        <p>Mix crumbs, ﬂour, suet, salt to taste, and baking powder, with enough cold water to make stiff paste. Roll out and line a basin, leaving a small hole at the bottom of paste. Cut steak up and dredge with ﬂour. Cut kidney small; add pepper and seasoning; cover with a thick layer of paste, and boil about 3 hours.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d27">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Cocoanut Custard.</hi>
+          </hi>
+        </head>
+        <p>Put small teacupful of desiccated cocoanut in pie-dish, then make a pint custard of 2 eggs, and pint of milk, with two dessertspoonfuls sugar. Pour over cocoanut, and bake as usual.</p>
+      </div>
+      <pb corresp="#EdmCook015" xml:id="n15" n="14"/>
+      <div xml:id="t1-body1-d1-d28">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Suet Dumplings.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 teacupful ﬂour</item>
+          <item>2  tablespoonfuls chopped suet</item>
+          <item>Cold water</item>
+          <item>pepper and salt to taste</item>
+          <item>½ teaspoon Edmonds' Baking Powder</item>
+          <item>1 dessertspoonful chopped parsley</item>
+        </list>
+        <p>Mix all the dry ingredients, rubbing suet into the ﬂour, and make all into stiff paste with cold water. Cut and roll into balls, covering the outsides with ﬂour, which prevents breaking. When ready, drop them into the stew, which must be boiling slowly, and cook for half-hour longer.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d29">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Apple Dumplings.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>3 ozs. ﬂour</item>
+          <item>½ teaspoon Edmonds' Baking Powder</item>
+          <item>3 apples</item>
+          <item>3 ozs. suet</item>
+          <item>3 ozs. breadcrumbs</item>
+          <item>¼ teaspoon salt</item>
+          <item>3 dessertspoonfuls sugar</item>
+        </list>
+        <p>Prepare the apples, make a paste of ﬂour, suet, breadcrumbs, add baking powder, salt, and water to mix. Place a piece of paste round each apple, put dessertspoonful sugar in each, then cover the top. Put dumplings loose into pan of boiling water, when they come to surface give them ½ hour.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d30">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Rolled French Pudding.</hi>
+          </hi>
+        </head>
+        <p>Roll out a nice suet crust as for rolly poly, scatter over some chopped figs, dates, apple or lemon juice, finely chopped candied peel, breadcrumbs, golden syrup, ground ginger, and nutmeg, little pieces of butter here and there, roll up secure ends, tie in cloth, and boil about 2 hours; put pudding into boiling water.</p>
+      </div>
+      <pb corresp="#EdmCook016" xml:id="n16" n="15"/>
+      <div xml:id="t1-body1-d1-d31">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Baked Jam Roll.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ lb. ﬂour</item>
+          <item>4 ozs. dripping (or lard or butter)</item>
+          <item>Salt a little</item>
+          <item>½ teaspoon Edmonds' Baking Powder</item>
+          <item>½ teaspoon Sugar (fine)</item>
+          <item>Water to mix</item>
+        </list>
+        <p>Beat butter (or dripping) to a cream, add all other ingredients, and sufficient water to make a dough, roll out into shape, and spread with apricot or raspberry jam, sliced apples, plums, or any fruit desired could be substituted for jam. Put in a baking dish; bake in moderate oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d32">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Hendy Pudding.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 cup suet (chopped)</item>
+          <item>2 breakfastcups ﬂour</item>
+          <item>¼ breakfastcup sugar</item>
+          <item>2 teaspoons Edmonds' Baking Powder (heaped)</item>
+          <item>Jam, water to mix</item>
+        </list>
+        <p>Mix all dry ingredients with water to a stiff dough, which divide into three, place alternately in greased basin a layer of dough, then jam, steam 3 hours. Serve with sweet or jam sauce.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d33">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Baked Apple Dumplings.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 lb. ﬂour (or 2 breakfastcups)</item>
+          <item>½ lb. butter (or dripping)</item>
+          <item>½ teaspoon Edmonds' Baking Powder</item>
+          <item>Water to mix</item>
+        </list>
+        <p>Pare and core the apples, fill cavity with sugar and nutmeg, roll each separately in paste, put in baking dish, and quarter cover with hot water containing half cup sugar, one ounce of butter, one tablespoonful of Golden Syrup. Baste frequently, allow three-quarters of an hour to bake, try with skewer; serve with custard or cream.</p>
+      </div>
+      <pb corresp="#EdmCook017" xml:id="n17" n="16"/>
+      <div xml:id="t1-body1-d1-d34">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Christmas Plum Pudding.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>¾ lb. ﬂour (or 1 ½ breakfastcups)</item>
+          <item>2 heaped teaspoonfuls Edmonds' Baking Powder</item>
+          <item>2 ozs. stale bread crumbs</item>
+          <item>1½ lb. suet</item>
+          <item>2 lbs. raisins</item>
+          <item>1 lb. currants</item>
+          <item>6 eggs</item>
+          <item>10 ozs. sugar (brown)</item>
+          <item>¼ lb. almonds</item>
+          <item>½ lb. mixed candied peel</item>
+          <item>Salt and spice to taste</item>
+        </list>
+        <p>Mix ingredients well together, and add 6 eggs well beaten, and three-quarters of a pint of milk; divide into two, and boil 8 hours, or four, and boil 6 hours.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d35">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Doughnuts.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>3½ breakfastcups ﬂour</item>
+          <item>1 breakfastcup sugar</item>
+          <item>½ breakfastcup butter</item>
+          <item>4 eggs</item>
+          <item>1 cup milk</item>
+          <item>3 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>½ teaspoonful salt</item>
+        </list>
+        <p>Beat sugar and eggs together in a separate basin, rub butter into ﬂour, add salt and baking powder, mix well, then mix ﬂour with the eggs and sugar, roll out, cut into rounds, and fry in hot lard; serve hot.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d36">
+        <head>
+          <hi rend="c">
+            <hi rend="b">“ Love in a ——— ”</hi>
+          </hi>
+        </head>
+        <lg type="free">
+          <l>“ Do you love me ? ” said the cup to the custard.</l>
+          <l>“ I'm just brimming up in you,” replied the custard.</l>
+          <l>“ You sweet thing,” answered the cup.</l>
+          <l>“ Delightful.”</l>
+        </lg>
+        <p><hi rend="sc">A Golden Rule</hi>.—Hold fast to that which is good.</p>
+      </div>
+      <pb corresp="#EdmCook018" xml:id="n18" n="17"/>
+      <div xml:id="t1-body1-d1-d37">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Mince Pies.</hi>
+          </hi>
+        </head>
+        <p><hi rend="sc">Ingredients</hi>.—Mince meat, a sufficiency, and puff or short paste Recipes (see page <ref target="#t1-body1-d1-d40">18</ref>).</p>
+        <p>Roll out the paste to a suitable thickness, line with it the patty pans, previously well buttered; put in each sufficient mince meat, make lids of paste, cover over, press lightly at the edges, neatly trim round with a knife, and bake in a moderately quick oven. When done, sprinkle with powdered white sugar.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d38">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Mince Meat.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 lbs. apples (pared and cored)</item>
+          <item>2 lbs. raisins (stoned)</item>
+          <item>2 lbs. currants</item>
+          <item>2 lbs. suet (chopped fine)</item>
+          <item>¾ lb. mixed candied peel (chopped)</item>
+          <item>½ lb. sugar</item>
+          <item>½ pint brandy (or 1 breakfast cup)</item>
+          <item>¼ pint sherry (or ½ breakfastcup)</item>
+          <item>1 small nutmeg (grated)</item>
+          <item>1 dessertspoonful powdered cinnamon</item>
+          <item>1 dessertspoonful salt</item>
+          <item>The juice of two small oranges</item>
+          <item>The juice of two small lemons</item>
+          <item>The peel of one each grated</item>
+        </list>
+        <p>Put apples and raisins through mincer, then mix with all other ingredients well together, put into jars, with piece of paper on top dipped in brandy, then cover.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d39">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Marmalade Cheese Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 tablespoonfuls marmalade</item>
+          <item>2 eggs</item>
+          <item>2 ozs. butter</item>
+        </list>
+        <p>Melt the butter, beat the eggs, and add to marmalade. Line patty pans with <ref target="#t1-body1-d1-d40">puff paste</ref> (see recipe page <ref target="#n19">18</ref>), pour in the mixture, and bake in a quick oven.</p>
+      </div>
+      <pb corresp="#EdmCook019" xml:id="n19" n="18"/>
+      <div xml:id="t1-body1-d1-d40">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Plain Puff Pastry.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ lb. ﬂour</item>
+          <item>7 ozs. butter</item>
+          <item>½ teaspoonful Edmonds' Baking Powder</item>
+          <item>Water to mix</item>
+        </list>
+        <p><hi rend="sc">Mode</hi>.—Place the ﬂour on a pastry-board with the butter, chop the butter into the ﬂour with a knife, then put into a basin, add baking powder, and sufficient water to make a soft dough. Roll out several times.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d41">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Short Pastry.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup ﬂour, pinch salt</item>
+          <item>4 ozs. butter or lard</item>
+          <item>½ teaspoonful Edmonds' Baking Powder</item>
+          <item>Water to mix</item>
+        </list>
+        <p><hi rend="sc">Mode</hi>.—Rub the butter into the ﬂour, add salt, baking powder, and water a little at a time to make a firm dough. Roll out to required thickness.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d42">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Yorkshire Cheese Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 teacup curds</item>
+          <item>1 oz. butter</item>
+          <item>1 oz. sugar</item>
+          <item>1 egg</item>
+          <item>1 tablespoon currants</item>
+        </list>
+        <p><hi rend="sc">Mode</hi>.—Cream butter and sugar, mix with the curds, mix all ingredients together. Fill patty-pans, lined with pastry.</p>
+        <p>To prepare the curd, boil 2 quarts of milk, and as it rises pour in either ½ pint of vinegar or buttermilk to turn it to curds. Draw the pan to side of the fire, let it stand 5 minutes, then strain through a sieve.</p>
+        <p>Pastry requires a hot oven; if it contains baking powder—must be baked at once.</p>
+      </div>
+      <pb corresp="#EdmCook020" xml:id="n20" n="19"/>
+      <div xml:id="t1-body1-d1-d43">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Apple Sandwich.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ lb. butter</item>
+          <item>1 lb. ﬂour</item>
+          <item>2 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>Mince 2 or 3 apples</item>
+          <item>1 cupful clean currants</item>
+          <item>1 piece of peel</item>
+          <item>1 dessertspoon cinnamon</item>
+          <item>1 lemon</item>
+          <item>1 egg</item>
+          <item>2 tablespoons sugar</item>
+        </list>
+        <p><hi rend="sc">Mode</hi>.—Rub butter into ﬂour, then add baking powder, make into a firm dough with water. Roll out to required thickness; mince all other ingredients together, and mix in egg last. Place mince between pastry, and bake.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d44">
+        <head>
+          <hi rend="c">
+            <hi rend="b">A Good Pie Crust.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>4 breakfastcups ﬂour</item>
+          <item>2 heaped teaspoonfuls Edmonds' Baking Powder</item>
+          <item>1 level teaspoon salt</item>
+          <item>1 lb. butter (lard or dripping may be used)</item>
+        </list>
+        <p>Mix well together, then add 2 cups of water, and roll out. This makes light paste for pies, tarts, custard, etc.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d45">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Cornish Pasty.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>¼ lb. pastry</item>
+          <item>1 teacupful raw potato</item>
+          <item>1 teacupful raw meat</item>
+          <item>A small piece of onion chopped fine</item>
+          <item>½ teaspoonful salt</item>
+          <item>¼ teaspoonful pepper</item>
+          <item>3 tablespoonfuls cold water or gravy</item>
+        </list>
+        <p>Mix all ingredients together on a plate, roll pastry into an oval shape, put the mixture on the paste, wet the edges on the top, and prick well. Brush over a little egg or milk, and bake in a hot oven for about half-an-hour.</p>
+      </div>
+      <pb corresp="#EdmCook021" xml:id="n21" n="20"/>
+      <div xml:id="t1-body1-d1-d46">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Testimonials.</hi>
+          </hi>
+        </head>
+        <div type="letter" xml:id="t1-body1-d1-d46-d1">
+          <opener><address><addrLine><name key="name-101726" type="place">Taumarunui</name>,</addrLine></address><dateline><date when="1911-11-08">Nov. 8th, 1911.</date></dateline><name key="name-101725" type="person">T. J. Edmonds</name>, Esq.,<lb/><address><addrLine><name type="place" key="name-007584">Christchurch</name>.</addrLine></address></opener>
+          <p>Dear Sir,—At the Levin and Horowhenua Autumn Shows I was awarded 10 Firsts, 3 Seconds, and 2 Highly Commended Prizes for Cakes, etc., made with your Baking Powder. I always recommend your Powder, as it is the best I have used.</p>
+          <closer>
+            <salute rend="right">Yours faithfully,
+</salute>
+            <signed rend="right">
+              <name type="person">
+                <hi rend="c">Mrs. H. Bromley.</hi>
+              </name>
+            </signed>
+          </closer>
+        </div>
+        <div type="letter" xml:id="t1-body1-d1-d46-d3">
+          <opener>
+            <address>
+              <addrLine>17 Oxford Street,</addrLine>
+              <lb/>
+              <addrLine>South Dunedin.</addrLine>
+            </address>
+            <salute>To <name key="name-101725" type="person">T. J. Edmonds</name>,</salute>
+          </opener>
+          <p>I have used your Baking Powder for 14 years, and would not think of using any other. When I first asked my grocer for it, he did not know anything about it, so he sent to Christchurch for it, and now has good sales. I have introduced it to many of my friends, and all are more than satisfied. My daughter-in-law received Second Prize in the Winter Show the first year she competed; she used your Powder.</p>
+          <closer>
+            <salute rend="right">Yours etc.,</salute>
+            <signed rend="right">
+              <hi rend="c">
+                <name type="person">Mrs. Seymour.</name>
+              </hi>
+            </signed>
+          </closer>
+        </div>
+        <div type="letter" xml:id="t1-body1-d1-d46-d5">
+          <opener>
+            <address>
+              <addrLine>Kia Ora Tea Rooms,</addrLine>
+              <lb/>
+              <addrLine>Tahunanui,</addrLine>
+              <lb/>
+              <addrLine>Nelson.</addrLine>
+            </address>
+            <salute>Mr. <name key="name-101725" type="person">T. J. Edmonds</name>.</salute>
+          </opener>
+          <p>Dear Sir,—After using “ Edmonds' Prize Baking Powder ” for a period extending over ten years, I have come to the conclusion that it is the best on the market, and highly recommend all who have not tried if to do so without delay.</p>
+          <closer>
+            <signed rend="right"><hi rend="c"><name type="person">Mrs. T. J. Wilson</name></hi>.</signed>
+            <dateline>
+              <date when="1911-03-23">March 23rd, 1911.</date>
+            </dateline>
+          </closer>
+        </div>
+        <div type="letter" xml:id="t1-body1-d1-d46-d7">
+          <opener>
+            <address>
+              <addrLine>Kaponga,</addrLine>
+              <lb/>
+              <addrLine>Taranaki.</addrLine>
+            </address>
+            <salute>
+              <name key="name-101725" type="person">Mr. Edmonds.</name>
+            </salute>
+          </opener>
+          <p>Dear Sir,—I have been a big user of your Baking Powder for the last seven years. I have won prizes at various Shows for my cooking, and I have always used your Baking Powder. I use 1½ tins a month, and always refuse any other offered to me.</p>
+          <closer>
+            <signed rend="right">
+              <hi rend="c">
+                <name type="person">Mrs. A. T. Phillips.</name>
+              </hi>
+            </signed>
+          </closer>
+        </div>
+      </div>
+      <pb corresp="#EdmCook022" xml:id="n22" n="21"/>
+      <div xml:id="t1-body1-d1-d47">
+        <head>
+          <hi rend="c">
+            <hi rend="b">English Queen Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>4 eggs</item>
+          <item>Their weight in butter, sugar and ﬂour</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+          <item>4 ozs. currants</item>
+          <item>ﬂavouring to taste</item>
+        </list>
+        <p>Beat butter and sugar to a cream, then beat in eggs. Mix currants with ﬂour and baking powder, and add to mixture. Bake in hot oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d48">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Raspberry Delights.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 tablespoonfuls sugar</item>
+          <item>1 egg</item>
+          <item>2 tablespoonfuls butter</item>
+          <item>½ teaspoonful Edmonds' Baking Powder</item>
+          <item>1 teaspoonful ﬂour</item>
+          <item>1 tablespoonful Edmonds' Custard Powder</item>
+        </list>
+        <p><hi rend="sc">Mode</hi>.—Cream, butter and sugar together, add the egg; mix ﬂour, baking, and custard powder together, and add by degrees to mixture. Place in greased patty-tins on cold oven shelf, and bake ten minutes. When nearly baked, place a teaspoonful of raspberry jam on each, and then bake a little longer.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d49">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Chelsea Buns.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 breakfastcups ﬂour</item>
+          <item>2 heaped teaspoons Edmonds' Prize Baking Powder</item>
+          <item>2 tablespoonfuls sugar</item>
+          <item>2 tablespoonfuls butter</item>
+          <item>1 egg</item>
+          <item>Spice, and milk to mix</item>
+        </list>
+        <p>Rub all dry ingredients together, mix with milk to desired paste, roll out, cover with spice, and sugar, and bake as usual.</p>
+      </div>
+      <pb corresp="#EdmCook023" xml:id="n23" n="22"/>
+      <div xml:id="t1-body1-d1-d50">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Almond Fingers.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup of ﬂour</item>
+          <item>¼ lb. butter</item>
+          <item>2 ozs. sugar</item>
+          <item>1 egg</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+        </list>
+        <p>Beat butter and sugar to a cream, add yolk of egg, and beat well. Mix ﬂour and baking powder together, and add to mixture with the hand. Paste must be very stiff. Roll out thin. Make the icing with the white of the egg, spread on top of paste. Place chopped almonds on. Cut into fingers; bake moderate oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d51">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Rich Plum Cake.</hi>
+          </hi>
+        </head>
+        <p>Take ½ lb. butter, and ½ lb. sugar, beat these well together with the hand to a cream, add 4 eggs, one at a time, beat well into the butter and sugar, lightly mix in 2 breakfastcups of ﬂour previously mixed with one heaped teaspoon of Edmonds' Baking Powder, then lightly mix in ½ lb. sultanas. Bake at once thoroughly in fairly quick oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d52">
+        <head>
+          <hi rend="c">
+            <hi rend="b">Buffalo Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1¼ breakfastcups ﬂour</item>
+          <item>¼ lb. butter</item>
+          <item>2 eggs</item>
+          <item>¾ breakfastcup sugar</item>
+          <item>2  teaspoonfuls Edmonds' Baking Powder</item>
+        </list>
+        <p>Cream, butter and sugar, add eggs beaten, mix ﬂour and baking powder, and add to mixture, then enough milk to make thin. Cook in sponge sandwich tins. Put together with lemon honey or raspberry jam. Icing on top.</p>
+      </div>
+      <pb corresp="#EdmCook024" xml:id="n24" n="23"/>
+      <div xml:id="t1-body1-d1-d53">
+        <head>
+          <hi rend="b"><hi rend="c">Small Cakes</hi> (Without Eggs).</hi>
+        </head>
+        <list>
+          <item>3 ozs. butter (or dripping)</item>
+          <item>3 ozs. sugar</item>
+          <item>½ lb. ﬂour (or 1 breakfastcup)</item>
+          <item>1 teaspoonful ground ginger</item>
+          <item>1 heaped teaspoonful Edmonds' Egg Powder</item>
+          <item>Milk to mix about ¼ pint.</item>
+        </list>
+        <p>Soften butter or dripping if very hard, add sugar and beat to a cream. Slightly warm the milk, and beat it in by degrees. Stir in lightly the ﬂour previously sifted with the Egg powder, ground ginger, and half a saltspoon of salt, drop in spoonfuls on a cold baking tray, sprinkle a little sugar over, and bake in hot oven for about ten minutes. The mixture for these and all eggless cakes must be fairly firm, and the spoonfuls piled high on the baking tray.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d54">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Elsie's Fingers.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>¼ lb. butter</item>
+          <item>3 ozs. sugar</item>
+          <item>2 small cups ﬂour</item>
+          <item>1½ teaspoonfuls Baking Powder (Edmonds')</item>
+          <item>1 egg</item>
+        </list>
+        <p>Beat butter and sugar, add egg and ﬂour mixed with baking powder, roll small pieces between the hands, dip in sugar, and put on cold tray; bake in moderate oven till slightly brown.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d55">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Pikelets.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup ﬂour</item>
+          <item>1 dessertspoonful sugar</item>
+          <item>1 egg (well beaten)</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+          <item>¾ breakfastcup milk</item>
+          <item>1 oz. butter</item>
+        </list>
+        <p>Mix ﬂour, sugar, and Edmonds' Baking Powder together, then mix egg and milk, make a well in centre of dry ingredients, and mix to a smooth paste with milk. Cook in small lots on hot greased girdle.</p>
+      </div>
+      <pb corresp="#EdmCookP001a" xml:id="n25" n="25"/>
+      <div xml:id="t1-body1-d1-d56" type="advert">
+        <p>
+          <figure xml:id="t1-body1-d1-d56-x1-fig1">
+            <graphic url="EdmCookP001a.jpg" mimeType="image/jpeg" xml:id="t1-body1-d1-d56-x1-fig1-g"/>
+            <figDesc>Advertisement for Edmonds products featuring a photo of the Edmonds factory</figDesc>
+          </figure>
+        </p>
+      </div>
+      <pb corresp="#EdmCook027" xml:id="n26" n="26"/>
+      <div xml:id="t1-body1-d1-d57">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Rene's Kisses.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ lb. cornﬂour</item>
+          <item>½ lb. butter</item>
+          <item>½ lb. sugar</item>
+          <item>½lb. ﬂour</item>
+          <item>4 eggs</item>
+          <item>2 teaspoonfuls Edmonds' Baking Powder</item>
+        </list>
+        <p>Cream butter and sugar, add eggs beaten and ﬂavouring, mix baking powder, ﬂour, and cornﬂour, and add to mixture; mix until quite light, drop in teaspoon lots on cold oven shelf, bake in quick oven; when cold, fasten together with jam.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d58">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Sponge Sandwich.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>3 eggs</item>
+          <item>1 cup sugar (small)</item>
+          <item>1 cup ﬂour (small)</item>
+          <item>½ teaspoon Edmonds' Baking Powder</item>
+        </list>
+        <p>Beat eggs and sugar well, then add ﬂour and baking powder mixed; bake in hot oven in sandwich tins.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d59">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Sponge Roll.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 cup ﬂour</item>
+          <item>1 tea cup sugar</item>
+          <item>3 eggs</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+          <item>2 tablespoons cold water</item>
+        </list>
+        <p><hi rend="sc">Method</hi>.—Beat eggs and sugar till stiff and frothy, sift ﬂour and baking powder, add water to eggs and sugar, then stir in the sifted ﬂour and baking powder lightly and quickly, pour into greased tin, and bake in hot oven from 8 to 10 minutes. This recipe will also serve for a Jam Sandwich.</p>
+      </div>
+      <pb corresp="#EdmCook028" xml:id="n27" n="27"/>
+      <div xml:id="t1-body1-d1-d60">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Christmas Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 lb. butter</item>
+          <item>1 lb. currants</item>
+          <item>1 lb. raisins</item>
+          <item>1 lb. sultanas</item>
+          <item>¼ lb. mixed peel</item>
+          <item>¼ lb. almonds</item>
+          <item>4 breakfastcups ﬂour</item>
+          <item>2  breakfastcups sugar</item>
+          <item>10 eggs</item>
+          <item>1 heaped teaspoon Edmonds' Baking Powder</item>
+          <item>Wine glass brandy</item>
+        </list>
+        <p>Beat butter to a cream, add sugar, then eggs one by one (unbeaten); mix baking powder with ﬂour, and put in, then fruit dredged with ﬂour. Brandy. Cook 4½ hours, moderate oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d61">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Express Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup ﬂour</item>
+          <item>1 teacup sugar</item>
+          <item>2 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>3 eggs</item>
+          <item>¼ cup milk</item>
+          <item>(Essence vanilla or lemon)</item>
+        </list>
+        <p>Mix ﬂour, sugar, and Edmonds' baking powder together, beat in the eggs and milk, put into small greased tins. Bake in moderate oven about 20 minutes.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d62">
+        <head>
+          <hi rend="b">
+            <hi rend="c">New Zealand Buns.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup ﬂour</item>
+          <item>1 tablespoonful sugar</item>
+          <item>1 heaped teaspoon Edmonds' Baking Powder</item>
+          <item>1 egg</item>
+          <item>3 ozs. butter</item>
+        </list>
+        <p>Rub the butter into ﬂour, sugar, and baking powder, then add the egg well beaten, and enough milk to make a stiff dough. Place in heaps on cold greased oven shelf. Bake quick oven 10 to 15 minutes.</p>
+      </div>
+      <pb corresp="#EdmCook029" xml:id="n28" n="28"/>
+      <div xml:id="t1-body1-d1-d63">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Sponge Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 level breakfastcups ﬂour</item>
+          <item>1 level breakfastcup sugar</item>
+          <item>4 tablespoons milk</item>
+          <item>2 teaspoons Edmonds' Prize Baking Powder</item>
+          <item>4 eggs</item>
+          <item>Pinch salt</item>
+        </list>
+        <p>Beat the eggs, then beat in the sugar, add salt and milk. Mix ﬂour and powder together in dry state, then sift it in; beat all together, and bake in quick oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d64">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Rock Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup ﬂour</item>
+          <item>2 heaped dessertspoonfuls sugar</item>
+          <item>2 ozs. currants</item>
+          <item>2 ozs. butter (or lard)</item>
+          <item>1 oz. or 1 round candied peel</item>
+          <item>1 dessertspoonful Edmonds' Baking Powder</item>
+          <item>Milk to mix</item>
+        </list>
+        <p>Rub the butter (or lard) into ﬂour, then add other dry ingredients, the egg beaten, and sufficient milk to make stiff dough. Place in rocky shapes on cold greased oven shelf, and bake in hot oven 10 or 12 minutes.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d65">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Children's Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 breakfastcups ﬂour</item>
+          <item>3 ozs. dripping</item>
+          <item>1 teaspoonful Edmonds' Baking Powder</item>
+          <item>¼ lb. sugar</item>
+          <item>¼ lb. sultanas</item>
+          <item>1 oz. peel</item>
+          <item>½ teaspoonful salt</item>
+          <item>1 egg</item>
+        </list>
+        <p><hi rend="sc">Mode</hi>.—Rub dripping well into the ﬂour, add all dry ingredients. Beat the egg well, mix with a breakfastcup nearly full of milk. Mix all together, and bake in greased patty-tins about 15 minutes.</p>
+      </div>
+      <pb corresp="#EdmCook030" xml:id="n29" n="29"/>
+      <div xml:id="t1-body1-d1-d66">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Shortbread.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ lb. ﬂour (or one breakfastcup)</item>
+          <item>¼ lb. butter</item>
+          <item>2 ozs. sugar (or 2 tablespoonfuls)</item>
+        </list>
+        <p>Cream, butter and sugar, then work in the ﬂour, continue to work until it becomes a firm dough. Place into an ungreased tin, press well down with the knuckles, then smooth over with a knife, and prick with fork. Bake in a slow oven 1 hour. Cut into shapes whilst hot in the tin.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d67">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Fruit Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 breakfastcups ﬂour</item>
+          <item>½ lb. butter</item>
+          <item>½ lb. sugar</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+          <item>8 eggs</item>
+          <item>1 teaspoon ground nutmeg</item>
+          <item>1 lb. currants</item>
+          <item>4 ozs. almonds</item>
+          <item>½ lb. mixed peel</item>
+        </list>
+        <p><hi rend="sc">Mode</hi>.—Beat butter to a cream, add sugar gradually, then white of eggs (beaten 10 minutes), then yolks (beaten 10 minutes), then ﬂour and other ingredients. Bake 2½ hours moderate oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d68">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Rice Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 cup ﬂour</item>
+          <item>½ cup ground rice</item>
+          <item>¼ lb. sugar</item>
+          <item>3  ozs. butter</item>
+          <item>1 egg</item>
+          <item>½ cup milk</item>
+          <item>1 teaspoonful Edmonds' Baking Powder</item>
+          <item>A pinch of salt</item>
+        </list>
+        <p>Cream butter and sugar, sift dry ingredients together, whisk the egg well, and mix all thoroughly. Add ﬂavouring, and a few currants if liked. Bake in patty pans in moderate oven about 10 minutes.</p>
+      </div>
+      <pb corresp="#EdmCook031" xml:id="n30" n="30"/>
+      <div xml:id="t1-body1-d1-d69">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Sunbeam Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ lb. sugar</item>
+          <item>½ lb. butter</item>
+          <item>½ lb. sultanas</item>
+          <item>¼ lb. peel</item>
+          <item>¾ lb. ﬂour</item>
+          <item>6 eggs</item>
+          <item>1 small teaspoonful Edmonds' Baking Powder</item>
+          <item>A few almonds and ﬂavouring</item>
+        </list>
+        <p><hi rend="sc">Mode</hi>.—Whip butter and sugar to a cream, beat in eggs one by one, then add ﬂour and baking powder, fruit, peel, almonds, and ﬂavouring. Bake in moderate oven 2 hours.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d70">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Pancakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 breakfastcups ﬂour</item>
+          <item>2 teaspoonfuls Edmonds' Prize Baking Powder</item>
+          <item>Pinch of salt</item>
+        </list>
+        <p>Mix well in dry state, add two eggs, well beaten, and enough milk to make thin batter. Fry with lard or butter.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d71">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Grated Nut Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1½ breakfastcups ﬂour</item>
+          <item>¼ lb. desiccated cocoanut (or almonds)</item>
+          <item>6 tablespoonfuls sugar</item>
+          <item>4 ozs. butter</item>
+          <item>½ teacup milk</item>
+          <item>1 dessertspoonful Edmonds' Egg Powder</item>
+        </list>
+        <p>Mix cocoanut with the ﬂour, sugar, and Egg Powder. Soften the butter a little, then rub it lightly into the other ingredients, moisten the whole with the milk slightly warmed, and bake in moderate quick oven in buttered patty pans.</p>
+      </div>
+      <pb corresp="#EdmCook032" xml:id="n31" n="31"/>
+      <div xml:id="t1-body1-d1-d72">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Afternoon Tea Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfast cup ﬂour</item>
+          <item>2  heaped dessertspoonfuls sugar</item>
+          <item>3  ozs. butter (or 3 tablespoonfuls)</item>
+          <item>1  egg (well beaten) and some milk</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+          <item>Jam (raspberry preferred)</item>
+        </list>
+        <p>Rub butter into ﬂour, then add sugar and Edmonds' Baking Powder, mix well, add egg and sufficient milk to make a light dough. Roll and cut into rounds; place a little raspberry jam on each, wet the edges, and press them together. Put on cold, greased oven shelf, and bake about 10 minutes.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d73">
+        <head>
+          <hi rend="b"><hi rend="c">Rice Cakes</hi> (Without Eggs).</hi>
+        </head>
+        <list>
+          <item>1 cup ﬂour</item>
+          <item>½ cup ground rice</item>
+          <item>¼ lb. sugar</item>
+          <item>4 ozs. butter</item>
+          <item>½ cup milk (good measure)</item>
+          <item>1 heaped teaspoonful Edmonds' Egg Powder</item>
+        </list>
+        <p>Pinch salt Cream butter and sugar, sift and mix dry ingredients into same, mix all thoroughly with the milk, add ﬂavouring, and bake in patty pans in moderate oven from 10 to 12 minutes.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d74">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Walnut Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 large cup ﬂour</item>
+          <item>1 small cup sugar</item>
+          <item>1 small cup butter</item>
+          <item>1 tablespoon cocoa</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+          <item>1 cup walnuts</item>
+          <item>3 eggs</item>
+        </list>
+        <p>Beat butter and sugar to a cream, add eggs well beaten, mix cocoa with a little milk, then add the other ingredients, and bake in shallow cake tin in moderate oven. When cold, ice with water icing, and place some walnuts halved on top.</p>
+      </div>
+      <pb corresp="#EdmCook033" xml:id="n32" n="32"/>
+      <div xml:id="t1-body1-d1-d75" type="note">
+        <p>Currants should be rubbed in a colander with a little ﬂour before using.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d76">
+        <head>
+          <hi rend="b">
+            <hi rend="c">A Good Plain Cake.</hi>
+          </hi>
+        </head>
+        <p>Mix well together two breakfastcups of ﬂour, two teaspoonfuls Edmonds' Baking Powder, a little salt and spice, and ¼lb. sugar. Rub in ½lb. butter, then mix in 6 ozs. sultanas, 2 ozs. currants, a few pieces sliced peel. Beat 3 eggs and half-cupful milk together, and moisten the lot. Bake in quick oven thoroughly.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d77">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Chocolate Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>¼ lb. ﬂour</item>
+          <item>¼ lb. sugar</item>
+          <item>2 eggs</item>
+          <item>2 tablespoonfuls butter</item>
+          <item>1 teaspoon chocolate (or l½ teaspoons cocoa)</item>
+          <item>½ teaspoonful vanilla essence</item>
+          <item>½ teaspoonful Edmonds' Prize Baking Powder</item>
+        </list>
+        <p>Beat butter and sugar together, then add ﬂour, baking powder, cocoa and essence. Bake in moderate oven 15 to 20 minutes in sandwich tins. Ice with chocolate icing.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d78">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Lemon Biscuits.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ lb. butter</item>
+          <item>½ lb. sugar</item>
+          <item>1 lb. (or 2 breakfast cups) ﬂour</item>
+          <item>2 eggs</item>
+          <item>1 teasponful Edmonds' Baking Powder</item>
+          <item>Flavour with essence of lemon</item>
+        </list>
+        <p>Cream butter and sugar together, add eggs, then ﬂour and powder mixed well, roll out thin, cut into shapes and bake.</p>
+      </div>
+      <pb corresp="#EdmCook034" xml:id="n33" n="33"/>
+      <div xml:id="t1-body1-d1-d79">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Madeira Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>3 eggs, their weight in butter and sugar</item>
+          <item>The weight of 4 eggs in ﬂour</item>
+          <item>1 teaspoonful Edmonds' Baking Powder</item>
+          <item>Juice of one small lemon</item>
+        </list>
+        <p>Cream butter and sugar, add eggs one by one, beat well, add lemon juice, ﬂour, and baking powder. Bake in buttered cake tin in moderate oven for about one hour. Ice the top if desired.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d80">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Date Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ lb. butter</item>
+          <item>½ lb. sugar</item>
+          <item>6 eggs</item>
+          <item>½ lb. dates</item>
+          <item>1½ breakfastcups ﬂour</item>
+          <item>1 teaspoonful Edmonds' Baking Powder</item>
+        </list>
+        <p>Beat butter and sugar to a cream, add eggs 2 at a time; beat well, add ﬂour, powder, and fruit. Bake about 1½ hours.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d81">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Pyramids.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup ﬂour</item>
+          <item>2 teaspoonfuls Edmonds' Baking Powder</item>
+          <item>1 teaspoonful cornﬂour (or potato ﬂour)</item>
+          <item>¼ lb. sugar</item>
+          <item>¼ lb. butter</item>
+          <item>4 eggs</item>
+          <item>ﬂavouring</item>
+        </list>
+        <p>Beat butter and sugar to a cream, well whisk the eggs, sift dry ingredients together, make a hole in centre of ﬂour, in which put butter and eggs, mix thoroughly but lightly; add ﬂavouring liked, and bake in small patty pans in hot oven for about 10 minutes.</p>
+      </div>
+      <pb corresp="#EdmCook035" xml:id="n34" n="34"/>
+      <div xml:id="t1-body1-d1-d82">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Picnic Dainties.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1½ breakfastcups ﬂour</item>
+          <item>3 tablespoonfuls butter</item>
+          <item>2 tablespoonfuls sugar</item>
+          <item>1 dessertspoonful Edmonds' Egg Powder</item>
+          <item>Milk to mix</item>
+        </list>
+        <p>Rub butter into ﬂour, then stir in sugar, egg powder and sufficient milk to make firm dough. Roll and cut into rounds, place one teaspoonful of raspberry jam in the centre; wet the edges and press them together. Place on cold greased oven shelf. Bake 12 minutes.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d83">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Seed Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ lb. butter</item>
+          <item>½ lb. sugar</item>
+          <item>6 eggs</item>
+          <item>2 cups ﬂour</item>
+          <item>1 teaspoonful Edmonds' Baking Powder</item>
+          <item>Caraway seed, lemon peel</item>
+        </list>
+        <p>Beat butter and sugar to a cream, then add the eggs, beating in one by one with the hand; lastly, add ﬂour and baking powder, mixed together, with seeds and lemon peel as desired.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d84">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Ginger Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 breakfastcups ﬂour</item>
+          <item>1 teacup sugar</item>
+          <item>1 teaspoon baking soda</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+          <item>1 teacup golden syrup</item>
+          <item>1 teacup butter</item>
+          <item>1 teacup milk</item>
+          <item>2  eggs</item>
+          <item>2 dessertspoons ground ginger</item>
+          <item>1 teaspoonful cinnamon</item>
+          <item>½ teaspoonful spice</item>
+        </list>
+        <p>Mix dry ingredients, add eggs well beaten, and butter (melted) last of all; bake three-quarters of an hour.</p>
+      </div>
+      <pb corresp="#EdmCook036" xml:id="n35" n="35"/>
+      <div xml:id="t1-body1-d1-d85">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Victoria Sandwich.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 level breakfastcups ﬂour</item>
+          <item>1 level breakfastcup sugar</item>
+          <item>4 ozs. butter</item>
+          <item>3 eggs</item>
+          <item>2 teaspoons Edmonds' Baking Powder</item>
+          <item>1 small cup water</item>
+          <item>Essence ﬂavouring to taste</item>
+        </list>
+        <p>Warm the butter, and beat in the sugar, drop in the eggs one at a time, then the ﬂour with the baking powder mixed, must be lightly beaten in; add ﬂavouring and water gradually. The baking powder may be added last of all to give better results. Bake in quick oven 15 minutes.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d86">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Sultana Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 lb. ﬂour</item>
+          <item>½ lb. butter</item>
+          <item>½ lb. sultanas</item>
+          <item>½ lb. sugar</item>
+          <item>4 eggs</item>
+          <item>3 ozs. peel</item>
+          <item>1 heaped teaspoonful Edmonds' Baking Powder</item>
+          <item>A little milk</item>
+        </list>
+        <p>Cream the butter and sugar together, add eggs well beaten, then the other ingredients; bake in moderate oven two hours.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d87">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Girdle Cakes.</hi>
+          </hi>
+        </head>
+        <p>Rub into two breakfastcups ﬂour 6 ozs. of butter, add 3 teaspoonfuls Edmonds' Baking Powder, and mix thoroughly. Mix into this ¼lb. currants, pinch salt, a little nutmeg, and make into light dough with milk. Roll out, cut into rounds, bake 15 minutes on a girdle or in the oven. If required sweet, add tablespoonful sugar.</p>
+      </div>
+      <pb corresp="#EdmCook037" xml:id="n36" n="36"/>
+      <div xml:id="t1-body1-d1-d88">
+        <p>
+          <figure xml:id="t1-body1-d1-d88-x1-fig1">
+            <graphic url="EdmCook037.jpg" mimeType="image/jpeg" xml:id="t1-body1-d1-d88-x1-fig1-g"/>
+            <head>Growth in Sales</head>
+            <figDesc>Advertisement</figDesc>
+          </figure>
+        </p>
+      </div>
+      <pb corresp="#EdmCook038" xml:id="n37" n="37"/>
+      <div xml:id="t1-body1-d1-d89">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Lemon Tea Cakes.</hi>
+          </hi>
+        </head>
+        <p>Rub into 1½ breakfastcups of ﬂour 3 tablespoonfuls each of lard and butter; add 6 ozs. moist sugar, the grated rind of one lemon, a little of the juice, and a heaped teaspoonful of Edmonds' Prize Baking Powder. Mix into moderate paste, with 2 well beaten eggs. Divide into cakes; place on greased oven shelf, and bake in brisk oven 20 minutes.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d90">
+        <head>
+          <hi rend="b"><hi rend="c">Tea Cakes</hi> (Without Eggs).</hi>
+        </head>
+        <list>
+          <item>1 lb. ﬂour</item>
+          <item>4 ozs. sugar</item>
+          <item>4 ozs. butter</item>
+          <item>2 teaspoonfuls Edmonds' Egg Powder</item>
+          <item>½ lb. dates (or sultanas) chopped</item>
+          <item>Milk to mix, salt a pinch</item>
+        </list>
+        <p>Rub butter into ﬂour, add all dry ingredients, mix all together to a paste with milk, turn out on board, form into a roll, and cut in equal parts, put on cold greased and ﬂoured tray, and bake in quick oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d91">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Tennis Buns.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup ﬂour</item>
+          <item>3 heaped dessertspoonfuls sugar</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+          <item>1 egg</item>
+          <item>3 ozs. butter</item>
+          <item>Candied peel and milk</item>
+          <item>Essence of lemon to taste</item>
+        </list>
+        <p>Rub butter into ﬂour, add other dry ingredients, mix well, then add the egg well beaten, and enough milk to make a stiff dough. Place in small lots on a cold greased oven shelf. Put a piece of candied peel on top of each. Bake in quick oven about 10 minutes.</p>
+      </div>
+      <pb corresp="#EdmCook039" xml:id="n38" n="38"/>
+      <div xml:id="t1-body1-d1-d92">
+        <head>
+          <hi rend="b">
+            <hi rend="c">“ Egg Powder ” Rock Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup ﬂour</item>
+          <item>2 dessertspoonfuls sugar</item>
+          <item>2 ozs. currants</item>
+          <item>4 ozs. butter (or lard)</item>
+          <item>½ oz. or 1 round candied peel</item>
+          <item>1 dessertspoonful Edmonds' Egg Powder</item>
+          <item>Milk to mix</item>
+        </list>
+        <p>Rub the butter (or lard) into ﬂour, add the other dry ingredients, and sufficient milk to make a stiff dough, place on cold greased oven shelf in rocky shapes. Bake in hot oven.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d93">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Small Cocoanut Cakes.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 breakfastcup ﬂour</item>
+          <item>4 ozs. desiccated cocoanut</item>
+          <item>2 dessertspoonfuls sugar</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+          <item>2 ozs. butter (or 2 tablespoonfuls)</item>
+          <item>Milk</item>
+        </list>
+        <p>Rub butter into ﬂour, mix in cocoanut, Edmonds' baking powder, and sugar, making into stiff dough with milk. Place in small lots on cold greased oven shelf, and bake in hot oven about 20 minutes.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d94">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Excellent for Suppers.</hi>
+          </hi>
+        </head>
+        <p>Edmonds' Custards, served hot (grate little nutmeg on top to taste), are delicious also for children's parties.</p>
+        <p>A tablespoonful of ﬂour equals 1 ounce, and so on. One large breakfast cup of ﬂour equals half pound.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d95">
+        <head>
+          <hi rend="b">
+            <hi rend="c">To Young People.</hi>
+          </hi>
+        </head>
+        <p>To make sure that cakes are baked enough, stick a clean bright skewer, or straw through it; if it comes out clean and free from the cake mixture it is done, if otherwise, it requires longer cooking. Careful practice will bring you success.</p>
+      </div>
+      <pb corresp="#EdmCook040" xml:id="n39" n="39"/>
+      <div xml:id="t1-body1-d1-d96">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Coffee Cake.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>¼ lb. butter (or dripping)</item>
+          <item>¼ lb. sugar</item>
+          <item>½ cup Golden Syrup</item>
+          <item>1 large cup of strong coffee</item>
+          <item>1 lb. ﬂour (or 2 breakfastcups)</item>
+          <item>2 heaped teaspoonfuls Edmonds' Baking Powder</item>
+          <item>1 teaspoonful ground ginger</item>
+          <item>A few raisins and peel</item>
+          <item>A little spice or nutmeg</item>
+        </list>
+        <p>Cream butter and sugar, add syrup warmed and mixed with the coffee, together with sifted ﬂour, add spices to creamed butter, add raisins and peel, then beat in baking powder; bake in moderate oven about 2 hours.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d97">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Bath Buns.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ cupful butter</item>
+          <item>1 cupful sugar</item>
+          <item>3  eggs</item>
+          <item>½ cupful lemon peel (cut up)</item>
+          <item>3 breakfastcups ﬂour</item>
+          <item>3 teaspoons Edmonds' Baking Powder</item>
+        </list>
+        <p>Beat butter and sugar to a cream, add the eggs, and beat few minutes longer, add other ingredients, and mix into moderate paste with milk. Place on cold oven shelf (greased), and bake about 12 or 15 minutes in hot oven.</p>
+        <p><hi rend="sc">Special</hi>.—If Edmonds' Baking Powder should appear lumpy in tin, it will easily powder up again (with back of spoon) before using in cooking.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d98">
+        <head>
+          <hi rend="b">
+            <hi rend="c">About Cake Mixing.</hi>
+          </hi>
+        </head>
+        <p>Always cream together the butter and sugar in a basin, before commencing to add the eggs already beaten; this will add success to your cakes.</p>
+      </div>
+      <pb corresp="#EdmCook041" xml:id="n40" n="40"/>
+      <div xml:id="t1-body1-d1-d99">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Cocoanut Delicacies.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ breakfastcup ﬂour (or ¼ lb.)</item>
+          <item>½ breakfastcup cocoanut (or ¼ lb.) desiccated</item>
+          <item>3 ozs. butter (or 3 tablespoonfuls)</item>
+          <item>2 heaped dessertspoonfuls sugar</item>
+          <item>1 egg</item>
+          <item>1 teaspoon Edmonds' Baking Powder</item>
+        </list>
+        <p>Rub butter into ﬂour, add other dry ingredients, and mix, then add egg beaten, this should make stiff dough (if not add very little milk, as dough must be stiff). Place on cold greased oven shelf in small lots. Bake in hot oven from 10 to 12 minutes.</p>
+        <p>
+          <figure xml:id="t1-body1-d1-d99-x4-fig1">
+            <graphic url="EdmCook041a.jpg" mimeType="image/jpeg" xml:id="t1-body1-d1-d99-x4-fig1-g"/>
+            <figDesc>A Riddle</figDesc>
+          </figure>
+        </p>
+        <p>Send us your name and address when you require a new Cookery Book. Posted Free.</p>
+        <lg type="free">
+          <l>
+            <hi rend="b">
+              <hi rend="c">Edmonds' Baking Powder Works,</hi>
+            </hi>
+          </l>
+          <l>
+            <hi rend="b">Christchurch.</hi>
+          </l>
+        </lg>
+        <p>To soften scones always turn out on clean towel, and cover them with the ends.</p>
+      </div>
+      <pb corresp="#EdmCook042" xml:id="n41" n="41"/>
+      <div xml:id="t1-body1-d1-d100">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Delicious Triﬂe.</hi>
+          </hi>
+        </head>
+        <p>Cut up stale sponge cakes in dish, spread over with jam (raspberry preferred), then make a pint custard, (as per direction for <ref target="#t1-body1-d1-d102">Custard</ref>), and pour when cooked over the cakes. Let stand till cold, then spread whipped cream on top. This dish is improved by adding a little sherry or wine to the cut sponges.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d101">
+        <head>
+          <hi rend="b"><hi rend="c">Egg Drink</hi> (Without Eggs).</hi>
+        </head>
+        <p>Two large cups of milk; take sufficient to mix smooth 1 heaped teaspoon of Edmonds' Custard Powder. Place remainder in saucepan with 2 teaspoonfuls sugar; when it boils add mixture, stir and place immediately into glasses (grate nutmeg on top to taste).</p>
+      </div>
+      <div xml:id="t1-body1-d1-d102">
+        <head>
+          <hi rend="b">
+            <hi rend="c">To Make a Custard.</hi>
+          </hi>
+        </head>
+        <p>From a pint of new milk take enough to mix smooth one large dessertspoonful of Edmonds' Custard Powder, sweeten the remainder of the milk to taste (say, a heaped dessertspoonful sugar), and when the milk is boiling, pour the mixed custard into it, stir and pour immediately into jug. When cold, place in glasses (grate nutmeg on if desired).</p>
+      </div>
+      <div xml:id="t1-body1-d1-d103">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Pear Ginger,</hi>
+          </hi>
+        </head>
+        <list>
+          <item>6 lb. pears (nearly ripe)</item>
+          <item>1 lb. preserved ginger (full lb.)</item>
+          <item>4 lbs. sugar</item>
+        </list>
+        <p>Cut up pears, and let stand over night with sugar on, boil with ginger following day until soft.</p>
+      </div>
+      <pb corresp="#EdmCook043" xml:id="n42" n="42"/>
+      <div xml:id="t1-body1-d1-d104">
+        <head>
+          <hi rend="b"><hi rend="c">Lemon Honey</hi> (For Sponges or Tarts).</hi>
+        </head>
+        <list>
+          <item>1 lb. sugar</item>
+          <item>Rind and juice of 4 lemons</item>
+          <item>4 ozs. butter</item>
+          <item>4  eggs</item>
+        </list>
+        <p>Grate only the yellow part of the lemon rinds (avoid white part, as it is bitter), strain the juice, beat eggs a little, put all ingredients into enamelled pot; cook slowly until thick and smooth. Do not let it boil. Put in jar, and cover when cold.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d105">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Lemon Sponge.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ packet isinglass or gelatine</item>
+          <item>5 ozs. loaf sugar</item>
+          <item>¾ pint cold water</item>
+          <item>2 lemons</item>
+          <item>Whites of 2 eggs</item>
+        </list>
+        <p>Soak the isinglass or gelatine in ¾ pint cold water, then dissolve over the fire with the rind of two lemons thinly pared, add the sugar and the juice of 2 lemons. Boil all together 2 or 3 minutes; strain and let it remain until nearly cold, and beginning to set, then add the white of 2 eggs, well beaten, and whisk 10 minutes, when it will become the consistence of sponge; put it lightly into a glass dish immediately, leaving it in appearance as rocky as possible.</p>
+        <p>All fruit sponges are made in the same way. If syrups are used for ﬂavouring, use ¾ oz. gelatine.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d106">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Edmonds' Custard, with Stewed Prunes and Figs.</hi>
+          </hi>
+        </head>
+        <p>Barely cover fruit with water, and sugar to taste. Simmer till tender (with no addition of water), then serve either hot or cold, with custard.</p>
+        <p>(To make <ref target="#t1-body1-d1-d102">custard</ref>, see page <ref target="#n41">41</ref>).</p>
+      </div>
+      <pb corresp="#EdmCook044" xml:id="n43" n="43"/>
+      <div xml:id="t1-body1-d1-d107">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Pineapple Jelly.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>1 tin pineapple chunks</item>
+          <item>2 packets White's jelly crystals</item>
+        </list>
+        <p>Cut up pineapple into small dice, dividing fruit and juice into two jelly moulds; make jellies separately, using little less water than directed, then pour into moulds.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d108">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Fig and Banana Salad.</hi>
+          </hi>
+        </head>
+        <p>Slice in equal quantities some nice bananas and freshly preserved figs, sprinkle castor sugar over each layer, add lemon juice if desired, place in glass dish, and cover with whipped cream ﬂavoured with vanilla, put in a cool place for 2 hours.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d109">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Baked Pears.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>Pears</item>
+          <item>Golden syrup</item>
+          <item>Water</item>
+        </list>
+        <p>Wipe some large sound pears, arrange them in an enamel baking dish with stalk ends upwards, pour a little water over them, and enough golden syrup to sweeten (say one tablespoonful to every three pears). Bake in a slow oven 2 hours or more. If baked slowly they will be juicy, tender and sweet, baste them frequently with the syrup and water, if oven is too hot cover with oven shelf. Serve with cream or custard.</p>
+      </div>
+      <pb corresp="#EdmCook045" xml:id="n44" n="44"/>
+      <div xml:id="t1-body1-d1-d110">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Tomato and Macaroni.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>¼ lb. macaroni</item>
+          <item>Tomatoes, onion, butter</item>
+          <item>Pepper and salt</item>
+        </list>
+        <p>Break up macaroni and boil in plenty of water slightly salted, boil one onion in the same water, strain and put a layer in a buttered pie dish, put next a layer of sliced tomato and the boiled onion, another layer of macaroni, and so on with pepper and salt on each layer till dish is full; have tomato on top layer, sprinkle bread crumbs over, and some little pieces of butter. Bake till tomatoes are cooked about one hour.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d111">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Tomato Soup.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 lbs. tomatoes</item>
+          <item>1 oz. butter</item>
+          <item>2 ozs. sago</item>
+          <item>1 large onion</item>
+          <item>1 quart stock</item>
+          <item>Pepper and salt</item>
+        </list>
+        <p>Slice the tomatoes and onion, and boil in stock until tender, strain through a colander, and return to the saucepan, then add butter, sago, and seasoning; boil till sago is cooked.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d112">
+        <head>
+          <hi rend="b">
+            <hi rend="c">White Sauce.</hi>
+          </hi>
+        </head>
+        <p>Boil 1 pint of rich milk. Stir into it 1 tablespoonful of ﬂour, previously made smooth in a little milk. To this add salt (and, if preferred, 1 teaspoonful of olive oil). Serve hot. For parsley sauce, just add before serving half teaspoonful of finely-chopped parsley.</p>
+      </div>
+      <pb corresp="#EdmCook046" xml:id="n45" n="45"/>
+      <div xml:id="t1-body1-d1-d113">
+        <head>
+          <hi rend="b"><hi rend="c">Tomato Sauce</hi> (No. 1).</hi>
+        </head>
+        <list>
+          <item>12 lbs. tomatoes</item>
+          <item>2 lbs. onions</item>
+          <item>2 ozs. garlic (chopped fine)</item>
+          <item>1 oz. ground ginger</item>
+          <item>½ oz. cloves</item>
+          <item>4 ozs. salt</item>
+          <item>½ oz. cayenne pepper</item>
+        </list>
+        <p>Place spices in a bag, and boil with rest of ingredients 2 hours (occasionally squeeze the spice bag), then beat through a sieve or colander till nothing but skinand seed remains. When cool, add a quart of best malt vinegar, half a lb. brown sugar, boil again until it is as thick as cream. Bottle and cork when cold. Always put sauce in small bottles if convenient, it keeps better, and seal top of same.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d114">
+        <head>
+          <hi rend="b"><hi rend="c">Tomato Sauce</hi> (No. 2).</hi>
+        </head>
+        <list>
+          <item>12 lbs. tomatoes</item>
+          <item>2 lb. cooking apples</item>
+          <item>1 lb. onions</item>
+          <item>¾ lb. sugar</item>
+          <item>¼ lb. salt</item>
+          <item>2 ozs. each of allspice and garlic</item>
+          <item>¼ oz. each of chillies, mace and cloves</item>
+          <item>1 quart best English malt vinegar</item>
+        </list>
+        <p>Wipe and break the tomatoes, cut up garlic, apples, and onions. Boil all together with rest of ingredients 3 to 4 hours. Strain and bottle.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d115">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Apple Sauce.</hi>
+          </hi>
+        </head>
+        <p>Pare and core six large apples, cut up, and stew half hour with small cup of water, then add small cup sugar, mash together with a wooden stirer.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d116">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Easy Breakfast or Tea Dish.</hi>
+          </hi>
+        </head>
+        <p>Stew gently some tomatoes with a little butter, pepper and salt, when soft mash with a fork, and add to them a well-beaten egg until they thicken. Serve on hot buttered toast.</p>
+      </div>
+      <pb corresp="#EdmCook047" xml:id="n46" n="46"/>
+      <div xml:id="t1-body1-d1-d117">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Salad Dressing.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>½ teaspoonful mustard</item>
+          <item>Pinch of salt</item>
+          <item>Little pepper</item>
+          <item>2 heaped dessertspoonfuls sugar</item>
+          <item>Yolks of 2 hard-boiled eggs</item>
+        </list>
+        <p>Mix all together, add sufficient milk (breakfastcup), then vinegar, stirring it until it thickens.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d118">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Apple Chutney.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>4 lbs. green apples</item>
+          <item>2 lbs. onions</item>
+          <item>2 lbs. brown sugar</item>
+          <item>½ lb. raisins</item>
+          <item>2 teaspoonfuls salt</item>
+          <item>1 teaspoonful cayenne pepper</item>
+          <item>1 teaspoonful ground cloves</item>
+          <item>1 oz. garlic</item>
+        </list>
+        <p>Chop ingredients up fine (or put all through a mincer, except apples, salt, pepper, and cloves). Cut apples as for stewing, put all into pot, cover with vinegar, boil slowly 4 or 5 hours.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d119">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Tomato Sausage.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>2 lbs. mutton, fat and lean (or any cold meat)</item>
+          <item>1 lb. tomatoes</item>
+          <item>¾ oz. black pepper</item>
+          <item>1 oz. salt, and little grated nutmeg</item>
+        </list>
+        <p>Put meat through fine mincer, mash the tomatoes, and rub through a sieve, removing skins. Mix meat and tomatoes together, add beaten egg to bind mixture, form into cakes, roll in ﬂour, egg, and bread crumbs, and fry in boiling fat.</p>
+      </div>
+      <pb corresp="#EdmCook048" xml:id="n47" n="47"/>
+      <div xml:id="t1-body1-d1-d120">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Vegetarian Roast.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>Bread</item>
+          <item>Peanuts</item>
+          <item>Milk, seasoning</item>
+          <item>1 onion</item>
+        </list>
+        <p>Brown some crusts of bread in the oven, shell pea nuts and put them through the mincer, putting the bread through the mincer afterwards.</p>
+        <p>Take a cup of the bread crumbs, pour on them a little milk, just enough to moisten, but not to make them too soft.</p>
+        <p>Mix with them half a cup of the ground peanuts, salt, and a little powdered herb, either sage or thyme, and one minced onion, put all into a buttered pie dish, and bake slowly till nicely browned. If it appears to be getting too dry, a very little water may be put on top as it is cooking, or a few pieces of butter on top makes a fine improvement.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d121">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Savoury Omelet.</hi>
+          </hi>
+        </head>
+        <list>
+          <item>4 eggs</item>
+          <item>1 tablespoon ﬂour</item>
+          <item>Large breakfastcup milk</item>
+          <item>Parsley, onion, salt and pepper to taste</item>
+        </list>
+        <p>Beat eggs, mix ﬂour smooth with a little of the milk, then add remainder; stir into the eggs, add parsley, onion, pepper and salt; put a small piece of butter or dripping in frying-pan, pour in the mixture, and cook gradually. When brown underneath, cut in pieces, and turn.</p>
+      </div>
+      <div xml:id="t1-body1-d1-d122">
+        <head>
+          <hi rend="b">
+            <hi rend="c">Ham or Tongue Omelet.</hi>
+          </hi>
+        </head>
+        <p>Is made by adding about 2 tablespoonfuls of grated ham or tongue to the egg mixture, before it is cooked, omitting parsley.</p>
+      </div>
+    </body>
+    <pb corresp="#EdmCook049" xml:id="n48" n="48"/>
+    <back xml:id="t1-back">
+      <div xml:id="t1-back-d1">
+        <head>
+          <hi rend="c">Cooking Hints</hi>
+        </head>
+        <list>
+          <item>Cakes should be baked as soon as they are mixed.</item>
+          <item>Raisins should always be stoned.</item>
+          <item>Candied peel should always be thinly sliced.</item>
+          <item>For nice pastry, always sift the ﬂour.</item>
+          <item>For scones and rolls, always use a very quick oven.</item>
+          <item>For buns and small cakes, a moderate quick oven.</item>
+          <item>For large cakes, not quite so quick.</item>
+          <item>For sponge cakes, a moderate oven.</item>
+          <item>Test the oven before baking—don't guess.</item>
+          <item>Before baking, have everything ready, and suitable fire.</item>
+          <item>Never slam the oven door when cooking, it spoils cakes, pastry, and puddings.</item>
+          <item>Two breakfastcups of ﬂour piled up equal 1lb.</item>
+          <item>Wooden spoons are better than metal for all cooking.</item>
+          <item>Always rub butter or lard into the ﬂour with the fingers, not the palms of the hand.</item>
+          <item>Currants, sultanas, raisins, or sugar equal ½lb. in barely level breakfastcup.</item>
+          <item>Edmonds' Baking Powder should always be mixed in dry ingredients, unless otherwise mentioned.</item>
+          <item>One breakfastcup of milk equals ½-pint; 1 teacupful of milk equals 1 gill.</item>
+          <item>A cake should rise before browning to its full height, especially sponge cakes.</item>
+          <item>You can always guess amount of butter to use in cooking by dividing the 1lb. squares.</item>
+        </list>
+        <p>This book is published and edited by the manufacturers, with the hope that it may prove of service to all who are in any way interested with that very necessary and important branch of domesticity, cooking. If this <hi rend="b"><hi rend="c">Cookery Book</hi></hi> serves the end already mentioned, it will in some degree act as a return of thanks for the generous and whole hearted support given to <hi rend="b"><hi rend="c">Edmonds' “Sure to Rise” Baking Powder</hi></hi> by the general public.</p>
+      </div>
+      <pb corresp="#EdmCook050" xml:id="n49"/>
+      <div xml:id="t1-back-d2" type="advert">
+        <p>
+          <figure xml:id="t1-body1-d3-x1-fig1">
+            <graphic url="EdmCook050.jpg" mimeType="image/jpeg" xml:id="t1-body1-d3-x1-fig1-g"/>
+            <figDesc>Advertisement for Edmonds Egg Powder</figDesc>
+          </figure>
+        </p>
+      </div>
+    </back>
+  </text>
+</TEI>

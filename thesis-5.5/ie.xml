@@ -1,0 +1,2524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/">
+  <mets:dmdSec ID="FL156296-dmd">
+    <mets:mdWrap MDTYPE="DC">
+      <mets:xmlData>
+        <dc:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:locmets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <dc:description type="filename">form.pdf</dc:description>
+          <dc:description>Permission Form (Admin)</dc:description>
+          <dc:identifier type="dcterms:URI">http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/1/form.pdf</dc:identifier>
+          <dc:format type="dcterms:mimeType">application/pdf</dc:format>
+          <dcterms:hasFormat type="dcterms:mimeType">application/pdf</dcterms:hasFormat>
+        </dc:record>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="FL156284-dmd">
+    <mets:mdWrap MDTYPE="DC">
+      <mets:xmlData>
+        <dc:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:locmets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <dc:description type="filename">thesis.pdf</dc:description>
+          <dc:description>Thesis</dc:description>
+          <dc:identifier type="dcterms:URI">http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/4/thesis.pdf</dc:identifier>
+          <dc:format type="dcterms:mimeType">application/pdf</dc:format>
+          <dcterms:hasFormat type="dcterms:mimeType">application/pdf</dcterms:hasFormat>
+        </dc:record>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:dmdSec ID="ie-dmd">
+    <mets:mdWrap MDTYPE="DC">
+      <mets:xmlData>
+        <dc:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:locmets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <dc:contributor>Huff, Sid</dc:contributor>
+          <dc:contributor>Gorman, Gary</dc:contributor>
+          <dc:creator>Chawner, Brenda</dc:creator>
+          <dcterms:dateAccepted>2011-07-28T21:18:40Z</dcterms:dateAccepted>
+          <dcterms:available>2011-07-28T21:18:40Z</dcterms:available>
+          <dcterms:dateCopyrighted>2011</dcterms:dateCopyrighted>
+          <dcterms:dateCopyrighted>2011</dcterms:dateCopyrighted>
+          <dcterms:issued>2011</dcterms:issued>
+          <dc:identifier xsi:type="dcterms:URI">http://hdl.handle.net/10063/1710</dc:identifier>
+          <dc:identifier xsi:type="dcterms:URI">http://researcharchive.vuw.ac.nz/handle/10063/1710</dc:identifier>
+          <dc:identifier xsi:type="dcterms:URI">http://dx.doi.org/10063/1710</dc:identifier>
+          <dcterms:abstract xml:lang="en-NZ">The purpose of this research was to identify factors that affect participants’ satisfaction with their experience of a free/libre open source software (FLOSS) project. The research built on existing models of user satisfaction from the information systems literature, and also incorporated two characteristics of FLOSS projects first identified by Ye, Nakakoji, Yamamoto, and Kishida (2005), product openness and process openness. The central research question it answered was, What factors influence participant satisfaction with a free/libre and open source application software project?
+Richard Stallman’s reasons for setting up the GNU project and the Free Software Foundation arose from his frustration at being forced to be a passive user of software used for a Xerox printer. These suggest that being able to be an active participant in a FLOSS project is one factor that should be examined, and therefore the first sub-question this project answers is, What types of contributions do participants make to free/libre and open source software projects?
+Several studies have shown that the extent of participation in a FLOSS project varies from individual to individual, and this variation leads to the second sub-question, Do the factors that influence satisfaction vary for different types of participation? If so, in what way?
+A preliminary conceptual model of factors affecting participant satisfaction was developed, reflecting the key concepts identified in the literature. The main theoretical goal of this research was to test the model using empirical data.
+The research used a sequential, mixed methods approach. The first, qualitative stage involved reviewing documents from selected projects and interviewing a purposive sample of FLOSS project participants. The second, quantitative stage involved an online survey of FLOSS project participants, and the data gathered were used to test the conceptual model.
+The results of the first stage showed that participation in FLOSS projects was a more complex construct than previously reported in the literature. Seven distinct categories of activities were identified:
+• use;
+• interaction with code;
+• supporting the community;
+• outreach;
+• sponsorship;
+• management; and
+• governance.
+Four attributes that modified these categories were also identified: organisational focus, role formality, remuneration, and time commitment.
+Data from 154 responses to the online survey were used to test the model using stepwise multiple regression, which determined the effect of each of the variables on overall participant satisfaction. Moderated regression analysis was used to test the effects of three potential moderating variables. The results showed that that perceived system complexity had the largest effect, decreasing satisfaction if respondents perceived that the software was complex, while project openness and perceived developer communication quality accounted for the most variance in satisfaction.
+The main theoretical contribution of this research lies in its extension of satisfaction studies to FLOSS communities, showing that  communication and openness are more important than in conventional software projects. Its practical contribution will help people involved in the management and governance of FLOSS projects to identify ways of increasing their participants’ satisfaction, which may in turn encourage them to contribute more.</dcterms:abstract>
+          <dc:language>en-NZ</dc:language>
+          <dc:language xsi:type="dcterms:ISO639-2">en-NZ</dc:language>
+          <dc:publisher xml:lang="en-NZ">Victoria University of Wellington</dc:publisher>
+          <dcterms:isPartOf xsi:type="dcterms:URI">hdl:10063/32</dcterms:isPartOf>
+          <dcterms:isPartOf>ResearchArchive/School of Information Management</dcterms:isPartOf>
+          <dcterms:isPartOf>ResearchArchive/Victoria Library Papers and Theses/Awarded Doctoral Thesis</dcterms:isPartOf>
+          <dcterms:isReferencedBy>hdl:10063/235</dcterms:isReferencedBy>
+          <dcterms:license xml:lang="en-NZ">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 New Zealand License.  http://creativecommons.org/licenses/by-sa/3.0/nz/</dcterms:license>
+          <dc:subject xml:lang="en-NZ">Satisfaction</dc:subject>
+          <dc:subject xml:lang="en-NZ">Participation</dc:subject>
+          <dc:subject xml:lang="en-NZ">FLOSS (Free/libre open source software)</dc:subject>
+          <dc:type xml:lang="en-NZ">Text</dc:type>
+          <dc:title>Factors Influencing Participant Satisfaction with Free/Libre and Open Source Software Projects</dc:title>
+          <dc:title xml:lang="en-NZ">Factors Influencing Participant Satisfaction with Free/Libre and Open Source Software Projects</dc:title>
+          <vuwschema:contributor-unit xml:lang="en-NZ">School of Information Management</vuwschema:contributor-unit>
+          <vuwschema:type-vuw xml:lang="en-NZ">Awarded Doctoral Thesis</vuwschema:type-vuw>
+          <dc:subject xsi:type="dcterms:MARSDEN" xml:lang="en-NZ">280199 Information Systems not Elsewhere Classified</dc:subject>
+          <thesis:degree-grantor xml:lang="en-NZ">Victoria University of Wellington</thesis:degree-grantor>
+          <thesis:degree-discipline xml:lang="en-NZ">Information Systems</thesis:degree-discipline>
+          <thesis:degree-level xml:lang="en-NZ">Doctoral</thesis:degree-level>
+          <thesis:degree-name xml:lang="en-NZ">Doctor of Philosophy</thesis:degree-name>
+        </dc:record>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="REP156305-amd">
+    <mets:techMD ID="REP156305-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="generalRepCharacteristics">
+              <record>
+                <key id="preservationType">DERIVATIVE_COPY</key>
+                <key id="representationEntityType">PDF</key>
+                <key id="usageType">VIEW</key>
+              </record>
+            </section>
+            <section id="internalIdentifier">
+              <record>
+                <key id="internalIdentifierType">SIPID</key>
+                <key id="internalIdentifierValue">20681</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">PID</key>
+                <key id="internalIdentifierValue">REP156305</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">DepositSetID</key>
+                <key id="internalIdentifierValue">20862</key>
+              </record>
+            </section>
+            <section id="objectCharacteristics">
+              <record>
+                <key id="objectType">REPRESENTATION</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="modifiedBy">automatedworker</key>
+                <key id="owner">CRS00.VUW00.LIBR</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="REP156305-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="accessRightsPolicy">
+              <record>
+                <key id="policyId">AR_EVERYONE</key>
+                <key id="policyDescription">No restrictions</key>
+              </record>
+            </section>
+            <section id="grantedRightsStatement">
+              <record>
+                <key id="grantedRightsStatementIdentifier">AR_EVERYONE</key>
+                <key id="grantedRightsStatementValue"><![CDATA[<ar:access_right_md xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ar="http://com/exlibris/digitool/repository/api/xmlbeans" targetNamespace="http://com/exlibris/digitool/repository/api/xmlbeans">
+        <ar_description>No restrictions</ar_description>
+        <ar_conditions>
+                <ar_condition>
+                        <ar_expressions>
+                                <ar_expression>
+                                        <key>everyone</key>
+                                </ar_expression>
+                        </ar_expressions>
+                </ar_condition>
+        </ar_conditions>
+</ar:access_right_md>]]></key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:sourceMD ID="REP156305-amd-source">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="metaData">
+              <record>
+                <key id="MID">DNX_REP156305</key>
+                <key id="UUID">7166296</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="metadataType">21</key>
+              </record>
+              <record>
+                <key id="MID">REP156305-1</key>
+                <key id="UUID">7166303</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:52</key>
+                <key id="metadataType">32</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:digiprovMD ID="REP156305-amd-digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"/>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:amdSec ID="FL156306-amd">
+    <mets:techMD ID="FL156306-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="objectCharacteristics">
+              <record>
+                <key id="objectType">FILE</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="modifiedBy">automatedworker</key>
+                <key id="owner">CRS00.VUW00.LIBR</key>
+              </record>
+            </section>
+            <section id="internalIdentifier">
+              <record>
+                <key id="internalIdentifierType">SIPID</key>
+                <key id="internalIdentifierValue">20681</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">PID</key>
+                <key id="internalIdentifierValue">FL156306</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">DepositSetID</key>
+                <key id="internalIdentifierValue">20862</key>
+              </record>
+            </section>
+            <section id="fileFixity">
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">MD5</key>
+                <key id="fixityValue">f713307137017c14f4d2aa5b27a3334c</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">SHA1</key>
+                <key id="fixityValue">a4abdab2fada4cabd159df0a33815593d9c573f5</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">CRC32</key>
+                <key id="fixityValue">3bd75b07</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">SHA256</key>
+                <key id="fixityValue">a7ce6d9ad822ba0fc08f0c43176c0563cdf43b7fdfbfde954f50cb5243e6916a</key>
+              </record>
+            </section>
+            <section id="vsOutcome">
+              <record>
+                <key id="checkDate">2017-05-19 10:48:53</key>
+                <key id="type">CHECKSUM</key>
+                <key id="vsAgent">REG_SA_JAVA5_FIXITY</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:53</key>
+                <key id="type">VIRUSCHECK</key>
+                <key id="vsAgent">REG_SA_DPS</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:53</key>
+                <key id="type">FILE_FORMAT</key>
+                <key id="vsAgent">REG_SA_DROID , Version 6.1.5 , Signature version Binary SF v.85/ Container SF v.16</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:54</key>
+                <key id="type">TECHMD</key>
+                <key id="vsAgent">JHOVE , PDF-hul 1.7 , Plugin Version 3.0</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:54</key>
+                <key id="type">RISK_ANALYSIS</key>
+                <key id="vsAgent">REG_SA_DPS</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+            </section>
+            <section id="fileVirusCheck">
+              <record>
+                <key id="status">PASSED</key>
+                <key id="agent">REG_SA_DPS</key>
+                <key id="content">/operational_storage/derivative_copies/2017/05/19/file_11/V1-FL156306.pdf is Virus Free</key>
+              </record>
+            </section>
+            <section id="fileFormat">
+              <record>
+                <key id="agent">REG_SA_DROID</key>
+                <key id="formatRegistry">PRONOM</key>
+                <key id="formatRegistryId">fmt/18</key>
+                <key id="formatName">fmt/18</key>
+                <key id="formatVersion">1.4</key>
+                <key id="formatDescription">Portable Document Format</key>
+                <key id="exactFormatIdentification">true</key>
+                <key id="mimeType">application/pdf</key>
+                <key id="agentVersion">6.1.5</key>
+                <key id="agentSignatureVersion">Binary SF v.85/ Container SF v.16</key>
+                <key id="formatLibraryVersion">5.01085</key>
+              </record>
+            </section>
+            <section id="generalFileCharacteristics">
+              <record>
+                <key id="fileLocationType">FILE</key>
+                <key id="fileOriginalName">bitstream_9583.pdf</key>
+                <key id="fileOriginalID">/deposit_storage/20001-21000/dep_20862/deposit/content/streams/bitstream_9583.pdf</key>
+                <key id="fileExtension">pdf</key>
+                <key id="fileMIMEType">application/pdf</key>
+                <key id="fileSizeBytes">4512560</key>
+                <key id="formatLibraryId">fmt/18</key>
+              </record>
+            </section>
+            <section id="significantProperties">
+              <record>
+                <key id="significantPropertiesType">pdf.filterPipeline</key>
+                <key id="significantPropertiesValue">FlateDecode</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.freeObjects</key>
+                <key id="significantPropertiesValue">1</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.ID</key>
+                <key id="significantPropertiesValue">[0x5682486d2323074f76f7b3477ea81c09, 0x5682486d2323074f76f7b3477ea81c09]</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.incrementalUpdates</key>
+                <key id="significantPropertiesValue">0</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">object.author</key>
+                <key id="significantPropertiesValue">ÿþBrenda Lynne Chawner</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.creationDate</key>
+                <key id="significantPropertiesValue">Thu Jul 21 18:09:56 NZST 2011</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.originalFormatCreatingApplication</key>
+                <key id="significantPropertiesValue">pdfLaTeX</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.modifiedDate</key>
+                <key id="significantPropertiesValue">Thu Jul 21 18:09:56 NZST 2011</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">object.creatingApplication</key>
+                <key id="significantPropertiesValue">LaTeX with hyperref and classicthesis</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">object.title</key>
+                <key id="significantPropertiesValue">ÿþFactors Influencing Participant Satisfaction With Free/Libre and Open Source Projects</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.objectsCount</key>
+                <key id="significantPropertiesValue">5907</key>
+              </record>
+            </section>
+            <section id="fileValidation">
+              <record>
+                <key id="agent">JHOVE , PDF-hul 1.7 , Plugin Version 3.0</key>
+                <key id="pluginName">PDF-hul-1.10</key>
+                <key id="format">PDF</key>
+                <key id="version">1.4</key>
+                <key id="mimeType">application/pdf</key>
+                <key id="isValid">true</key>
+                <key id="isWellFormed">true</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="FL156306-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"/>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:sourceMD ID="FL156306-amd-source">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="metaData">
+              <record>
+                <key id="MID">DNX_FL156306</key>
+                <key id="UUID">7166298</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="metadataType">21</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:digiprovMD ID="FL156306-amd-digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="event">
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:53</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=MD5;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156306;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9583.pdf;DATE=19 05 2017 10:48:53;STATUS=SUCCESS;REP_PID=REP156305;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:53</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=SHA1;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156306;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9583.pdf;DATE=19 05 2017 10:48:53;STATUS=SUCCESS;REP_PID=REP156305;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:53</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=CRC32;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156306;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9583.pdf;DATE=19 05 2017 10:48:53;STATUS=SUCCESS;REP_PID=REP156305;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:53</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=SHA256;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156306;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9583.pdf;DATE=19 05 2017 10:48:53;STATUS=SUCCESS;REP_PID=REP156305;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:53</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">24</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Virus check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_DPS</key>
+                <key id="eventOutcomeDetail1">DEPOSIT_ACTIVITY_ID=20862;PID=FL156306;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=7;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:53</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">25</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Format Identification performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_DROID , Version 6.1.5 , Signature version Binary SF v.85/ Container SF v.16</key>
+                <key id="eventOutcomeDetail1">FORMAT_ID=fmt/18;IDENTIFICATION_METHOD=SIGNATURE;FILE_EXTENSION=pdf;DEPOSIT_ACTIVITY_ID=20862;PID=FL156306;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=48;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:54</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">165</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Technical Metadata extraction performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">JHOVE , PDF-hul 1.7 , Plugin Version 3.0</key>
+                <key id="eventOutcomeDetail1">DEPOSIT_ACTIVITY_ID=20862;PID=FL156306;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=49;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:amdSec ID="REP156295-amd">
+    <mets:techMD ID="REP156295-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="generalRepCharacteristics">
+              <record>
+                <key id="preservationType">ENTITY_DOCUMENTATION</key>
+                <key id="representationEntityType">PDF</key>
+                <key id="usageType">VIEW</key>
+              </record>
+            </section>
+            <section id="internalIdentifier">
+              <record>
+                <key id="internalIdentifierType">SIPID</key>
+                <key id="internalIdentifierValue">20681</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">PID</key>
+                <key id="internalIdentifierValue">REP156295</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">DepositSetID</key>
+                <key id="internalIdentifierValue">20862</key>
+              </record>
+            </section>
+            <section id="objectCharacteristics">
+              <record>
+                <key id="objectType">REPRESENTATION</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="modifiedBy">automatedworker</key>
+                <key id="owner">CRS00.VUW00.LIBR</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="REP156295-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="accessRightsPolicy">
+              <record>
+                <key id="policyId">1062</key>
+                <key id="policyDescription">Admin access only (Forms)</key>
+              </record>
+            </section>
+            <section id="grantedRightsStatement">
+              <record>
+                <key id="grantedRightsStatementIdentifier">1062</key>
+                <key id="grantedRightsStatementValue"><![CDATA[<access_right_md xsi:nil="true" xmlns="http://com/exlibris/digitool/repository/api/xmlbeans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ar_description xmlns="">Admin access only (Forms)</ar_description>
+  <ar_copyrights required="true" xmlns="">
+    <text_file>com.exlibris.dps.backoffice.copyrights1</text_file>
+  </ar_copyrights>
+  <ar_conditions xmlns="">
+    <ar_condition>
+      <ar_expressions>
+        <ar_expression ar_operation="eq">
+          <key>group</key>
+          <val1>Library Staff</val1>
+          <val2/>
+          <val3/>
+        </ar_expression>
+      </ar_expressions>
+    </ar_condition>
+    <ar_condition>
+      <ar_expressions>
+        <ar_expression ar_operation="eq">
+          <key>group</key>
+          <val1>STAFF</val1>
+          <val2/>
+          <val3/>
+        </ar_expression>
+      </ar_expressions>
+    </ar_condition>
+  </ar_conditions>
+  <ar_mid xmlns="">1062</ar_mid>
+</access_right_md>]]></key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:sourceMD ID="REP156295-amd-source">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="metaData">
+              <record>
+                <key id="MID">DNX_REP156295</key>
+                <key id="UUID">7166299</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="metadataType">21</key>
+              </record>
+              <record>
+                <key id="MID">REP156295-1</key>
+                <key id="UUID">7166294</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:52</key>
+                <key id="metadataType">32</key>
+              </record>
+              <record>
+                <key id="MID">DNX_REP156295</key>
+                <key id="UUID">20977868</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">SYSTEM</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="modifiedBy">SYSTEM</key>
+                <key id="metadataType">21</key>
+              </record>
+              <record>
+                <key id="MID">REP156295-1</key>
+                <key id="UUID">20978096</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:52</key>
+                <key id="metadataType">32</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:digiprovMD ID="REP156295-amd-digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"/>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:amdSec ID="FL156296-amd">
+    <mets:techMD ID="FL156296-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="objectCharacteristics">
+              <record>
+                <key id="objectType">FILE</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="modifiedBy">automatedworker</key>
+                <key id="owner">CRS00.VUW00.LIBR</key>
+              </record>
+            </section>
+            <section id="internalIdentifier">
+              <record>
+                <key id="internalIdentifierType">SIPID</key>
+                <key id="internalIdentifierValue">20681</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">PID</key>
+                <key id="internalIdentifierValue">FL156296</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">DepositSetID</key>
+                <key id="internalIdentifierValue">20862</key>
+              </record>
+            </section>
+            <section id="fileFixity">
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">MD5</key>
+                <key id="fixityValue">b139fcc262845937b92cbeb0f6abd62a</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">SHA1</key>
+                <key id="fixityValue">a01fb5b03ac0ac4fd8fda33dc233ad0a6fa4acc3</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">CRC32</key>
+                <key id="fixityValue">7406a9b5</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">SHA256</key>
+                <key id="fixityValue">565c16a7cbfe25166a786df2f6cd2a79c0a2f7c55281a90c50a3e58f0eda3ec0</key>
+              </record>
+            </section>
+            <section id="vsOutcome">
+              <record>
+                <key id="checkDate">2017-05-19 10:48:55</key>
+                <key id="type">CHECKSUM</key>
+                <key id="vsAgent">REG_SA_JAVA5_FIXITY</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:56</key>
+                <key id="type">VIRUSCHECK</key>
+                <key id="vsAgent">REG_SA_DPS</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:56</key>
+                <key id="type">FILE_FORMAT</key>
+                <key id="vsAgent">REG_SA_DROID , Version 6.1.5 , Signature version Binary SF v.85/ Container SF v.16</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:56</key>
+                <key id="type">TECHMD</key>
+                <key id="vsAgent">JHOVE , PDF-hul 1.7 , Plugin Version 3.0</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:56</key>
+                <key id="type">RISK_ANALYSIS</key>
+                <key id="vsAgent">REG_SA_DPS</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+            </section>
+            <section id="fileVirusCheck">
+              <record>
+                <key id="status">PASSED</key>
+                <key id="agent">REG_SA_DPS</key>
+                <key id="content">/operational_storage/storage1/2017/05/19/file_45/V1-FL156296.pdf is Virus Free</key>
+              </record>
+            </section>
+            <section id="fileFormat">
+              <record>
+                <key id="agent">REG_SA_DROID</key>
+                <key id="formatRegistry">PRONOM</key>
+                <key id="formatRegistryId">fmt/17</key>
+                <key id="formatName">fmt/17</key>
+                <key id="formatVersion">1.3</key>
+                <key id="formatDescription">Portable Document Format</key>
+                <key id="exactFormatIdentification">true</key>
+                <key id="mimeType">application/pdf</key>
+                <key id="agentVersion">6.1.5</key>
+                <key id="agentSignatureVersion">Binary SF v.85/ Container SF v.16</key>
+                <key id="formatLibraryVersion">5.01085</key>
+              </record>
+            </section>
+            <section id="generalFileCharacteristics">
+              <record>
+                <key id="fileLocationType">FILE</key>
+                <key id="fileOriginalName">bitstream_9558.pdf</key>
+                <key id="fileOriginalID">/deposit_storage/20001-21000/dep_20862/deposit/content/streams/bitstream_9558.pdf</key>
+                <key id="fileExtension">pdf</key>
+                <key id="fileMIMEType">application/pdf</key>
+                <key id="fileSizeBytes">37589</key>
+                <key id="formatLibraryId">fmt/17</key>
+              </record>
+            </section>
+            <section id="significantProperties">
+              <record>
+                <key id="significantPropertiesType">pdf.filterPipeline</key>
+                <key id="significantPropertiesValue">CCITTFaxDecode</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.freeObjects</key>
+                <key id="significantPropertiesValue">20</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.incrementalUpdates</key>
+                <key id="significantPropertiesValue">0</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.originalFormatCreatingApplication</key>
+                <key id="significantPropertiesValue">ApeosPort-III C2201</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">object.creatingApplication</key>
+                <key id="significantPropertiesValue">ApeosPort-III C2201</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.objectsCount</key>
+                <key id="significantPropertiesValue">27</key>
+              </record>
+            </section>
+            <section id="fileValidation">
+              <record>
+                <key id="agent">JHOVE , PDF-hul 1.7 , Plugin Version 3.0</key>
+                <key id="pluginName">PDF-hul-1.10</key>
+                <key id="format">PDF</key>
+                <key id="version">1.3</key>
+                <key id="mimeType">application/pdf</key>
+                <key id="isValid">true</key>
+                <key id="isWellFormed">true</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="FL156296-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"/>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:sourceMD ID="FL156296-amd-source">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="metaData">
+              <record>
+                <key id="MID">DNX_FL156296</key>
+                <key id="UUID">7166306</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="metadataType">21</key>
+              </record>
+              <record>
+                <key id="MID">DNX_FL156296</key>
+                <key id="UUID">20977901</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">SYSTEM</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="modifiedBy">SYSTEM</key>
+                <key id="metadataType">21</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:digiprovMD ID="FL156296-amd-digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="event">
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=MD5;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156296;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9558.pdf;DATE=19 05 2017 10:48:55;STATUS=SUCCESS;REP_PID=REP156295;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=SHA1;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156296;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9558.pdf;DATE=19 05 2017 10:48:55;STATUS=SUCCESS;REP_PID=REP156295;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=CRC32;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156296;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9558.pdf;DATE=19 05 2017 10:48:55;STATUS=SUCCESS;REP_PID=REP156295;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=SHA256;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156296;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9558.pdf;DATE=19 05 2017 10:48:55;STATUS=SUCCESS;REP_PID=REP156295;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:56</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">24</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Virus check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_DPS</key>
+                <key id="eventOutcomeDetail1">DEPOSIT_ACTIVITY_ID=20862;PID=FL156296;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=7;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:56</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">25</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Format Identification performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_DROID , Version 6.1.5 , Signature version Binary SF v.85/ Container SF v.16</key>
+                <key id="eventOutcomeDetail1">FORMAT_ID=fmt/17;IDENTIFICATION_METHOD=SIGNATURE;FILE_EXTENSION=pdf;DEPOSIT_ACTIVITY_ID=20862;PID=FL156296;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=48;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:56</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">165</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Technical Metadata extraction performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">JHOVE , PDF-hul 1.7 , Plugin Version 3.0</key>
+                <key id="eventOutcomeDetail1">DEPOSIT_ACTIVITY_ID=20862;PID=FL156296;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=49;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:amdSec ID="REP156297-amd">
+    <mets:techMD ID="REP156297-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="generalRepCharacteristics">
+              <record>
+                <key id="preservationType">PDF_EXTRACTED_TEXT</key>
+                <key id="usageType">VIEW</key>
+              </record>
+            </section>
+            <section id="internalIdentifier">
+              <record>
+                <key id="internalIdentifierType">SIPID</key>
+                <key id="internalIdentifierValue">20681</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">PID</key>
+                <key id="internalIdentifierValue">REP156297</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">DepositSetID</key>
+                <key id="internalIdentifierValue">20862</key>
+              </record>
+            </section>
+            <section id="objectCharacteristics">
+              <record>
+                <key id="objectType">REPRESENTATION</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="modifiedBy">automatedworker</key>
+                <key id="owner">CRS00.VUW00.LIBR</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="REP156297-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="accessRightsPolicy">
+              <record>
+                <key id="policyId">1063</key>
+                <key id="policyDescription">Admin access only (content)</key>
+              </record>
+            </section>
+            <section id="grantedRightsStatement">
+              <record>
+                <key id="grantedRightsStatementIdentifier">1063</key>
+                <key id="grantedRightsStatementValue"><![CDATA[<access_right_md xsi:nil="true" xmlns="http://com/exlibris/digitool/repository/api/xmlbeans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ar_description xmlns="">Admin access only (content)</ar_description>
+  <ar_copyrights required="true" xmlns="">
+    <text_file>com.exlibris.dps.backoffice.copyrights1</text_file>
+  </ar_copyrights>
+  <ar_conditions xmlns="">
+    <ar_condition>
+      <ar_expressions>
+        <ar_expression ar_operation="">
+          <key>not_guest</key>
+          <val1/>
+          <val2/>
+          <val3/>
+        </ar_expression>
+      </ar_expressions>
+    </ar_condition>
+  </ar_conditions>
+  <ar_mid xmlns="">1063</ar_mid>
+</access_right_md>]]></key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:sourceMD ID="REP156297-amd-source">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="metaData">
+              <record>
+                <key id="MID">DNX_REP156297</key>
+                <key id="UUID">7166300</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="metadataType">21</key>
+              </record>
+              <record>
+                <key id="MID">REP156297-1</key>
+                <key id="UUID">7166295</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:52</key>
+                <key id="metadataType">32</key>
+              </record>
+              <record>
+                <key id="MID">DNX_REP156297</key>
+                <key id="UUID">20977919</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">SYSTEM</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="modifiedBy">SYSTEM</key>
+                <key id="metadataType">21</key>
+              </record>
+              <record>
+                <key id="MID">REP156297-1</key>
+                <key id="UUID">20978108</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:52</key>
+                <key id="metadataType">32</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:digiprovMD ID="REP156297-amd-digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"/>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:amdSec ID="FL156298-amd">
+    <mets:techMD ID="FL156298-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="objectCharacteristics">
+              <record>
+                <key id="objectType">FILE</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="modifiedBy">automatedworker</key>
+                <key id="owner">CRS00.VUW00.LIBR</key>
+              </record>
+            </section>
+            <section id="internalIdentifier">
+              <record>
+                <key id="internalIdentifierType">SIPID</key>
+                <key id="internalIdentifierValue">20681</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">PID</key>
+                <key id="internalIdentifierValue">FL156298</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">DepositSetID</key>
+                <key id="internalIdentifierValue">20862</key>
+              </record>
+            </section>
+            <section id="fileFixity">
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">MD5</key>
+                <key id="fixityValue">68b329da9893e34099c7d8ad5cb9c940</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">SHA1</key>
+                <key id="fixityValue">adc83b19e793491b1c6ea0fd8b46cd9f32e592fc</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">CRC32</key>
+                <key id="fixityValue">32d70693</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">SHA256</key>
+                <key id="fixityValue">01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b</key>
+              </record>
+            </section>
+            <section id="vsOutcome">
+              <record>
+                <key id="checkDate">2017-05-19 10:48:54</key>
+                <key id="type">CHECKSUM</key>
+                <key id="vsAgent">REG_SA_JAVA5_FIXITY</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:55</key>
+                <key id="type">VIRUSCHECK</key>
+                <key id="vsAgent">REG_SA_DPS</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:55</key>
+                <key id="type">FILE_FORMAT</key>
+                <key id="vsAgent">REG_SA_DROID , Version 6.1.5 , Signature version Binary SF v.85/ Container SF v.16</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:55</key>
+                <key id="type">RISK_ANALYSIS</key>
+                <key id="vsAgent">REG_SA_DPS</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+            </section>
+            <section id="fileVirusCheck">
+              <record>
+                <key id="status">PASSED</key>
+                <key id="agent">REG_SA_DPS</key>
+                <key id="content">/operational_storage/storage1/2017/05/19/file_45/V1-FL156298.txt is Virus Free</key>
+              </record>
+            </section>
+            <section id="fileFormat">
+              <record>
+                <key id="agent">Rosetta, Rule ID: 140747</key>
+                <key id="formatRegistry">PRONOM</key>
+                <key id="formatRegistryId">x-fmt/111</key>
+                <key id="formatName">x-fmt/111</key>
+                <key id="formatDescription">Plain Text File</key>
+                <key id="exactFormatIdentification">false</key>
+                <key id="mimeType">text/plain</key>
+                <key id="formatLibraryVersion">5.01085</key>
+              </record>
+            </section>
+            <section id="generalFileCharacteristics">
+              <record>
+                <key id="fileLocationType">FILE</key>
+                <key id="fileOriginalName">bitstream_9732.txt</key>
+                <key id="fileOriginalID">/deposit_storage/20001-21000/dep_20862/deposit/content/streams/bitstream_9732.txt</key>
+                <key id="fileExtension">txt</key>
+                <key id="fileMIMEType">text/plain</key>
+                <key id="fileSizeBytes">1</key>
+                <key id="formatLibraryId">x-fmt/111</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="FL156298-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"/>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:sourceMD ID="FL156298-amd-source">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="metaData">
+              <record>
+                <key id="MID">DNX_FL156298</key>
+                <key id="UUID">7166302</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="metadataType">21</key>
+              </record>
+              <record>
+                <key id="MID">DNX_FL156298</key>
+                <key id="UUID">20977944</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">SYSTEM</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="modifiedBy">SYSTEM</key>
+                <key id="metadataType">21</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:digiprovMD ID="FL156298-amd-digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="event">
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:54</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=MD5;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156298;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9732.txt;DATE=19 05 2017 10:48:54;STATUS=SUCCESS;REP_PID=REP156297;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:54</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=SHA1;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156298;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9732.txt;DATE=19 05 2017 10:48:54;STATUS=SUCCESS;REP_PID=REP156297;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:54</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=CRC32;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156298;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9732.txt;DATE=19 05 2017 10:48:54;STATUS=SUCCESS;REP_PID=REP156297;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:54</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=SHA256;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156298;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9732.txt;DATE=19 05 2017 10:48:54;STATUS=SUCCESS;REP_PID=REP156297;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">24</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Virus check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_DPS</key>
+                <key id="eventOutcomeDetail1">DEPOSIT_ACTIVITY_ID=20862;PID=FL156298;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=7;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">198</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Automatically Set Format Library ID on File</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">input.producerId eq any;input.formatIdList eq any;input.fileExtension eq txt;input.mimeType eq any;input.fileSize eq any;input.createDate eq any;input.agent eq any;input.method eq any;output.formatId eq x-fmt/111</key>
+                <key id="eventOutcomeDetail1">FORMAT_ID=x-fmt/111;FILE_EXTENSION=txt;DEPOSIT_ACTIVITY_ID=20862;PID=FL156298;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=48;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">25</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Format Identification performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_DROID , Version 6.1.5 , Signature version Binary SF v.85/ Container SF v.16</key>
+                <key id="eventOutcomeDetail1">FORMAT_ID=x-fmt/111;FILE_EXTENSION=txt;DEPOSIT_ACTIVITY_ID=20862;PID=FL156298;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=48;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:amdSec ID="FL156300-amd">
+    <mets:techMD ID="FL156300-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="objectCharacteristics">
+              <record>
+                <key id="objectType">FILE</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="modifiedBy">automatedworker</key>
+                <key id="owner">CRS00.VUW00.LIBR</key>
+              </record>
+            </section>
+            <section id="internalIdentifier">
+              <record>
+                <key id="internalIdentifierType">SIPID</key>
+                <key id="internalIdentifierValue">20681</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">PID</key>
+                <key id="internalIdentifierValue">FL156300</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">DepositSetID</key>
+                <key id="internalIdentifierValue">20862</key>
+              </record>
+            </section>
+            <section id="fileFixity">
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">MD5</key>
+                <key id="fixityValue">56656ecfd8dea1cd0e66591cfe3469e8</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">SHA1</key>
+                <key id="fixityValue">e77a58c0fadbb6f549178c6c8bf9ba5a8e996bc3</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">CRC32</key>
+                <key id="fixityValue">e6c2303d</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">SHA256</key>
+                <key id="fixityValue">0f54e393a6f3014943038c693e48951bbaebcc6d12e71bd0a5289b029bae3698</key>
+              </record>
+            </section>
+            <section id="vsOutcome">
+              <record>
+                <key id="checkDate">2017-05-19 10:48:55</key>
+                <key id="type">CHECKSUM</key>
+                <key id="vsAgent">REG_SA_JAVA5_FIXITY</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:55</key>
+                <key id="type">VIRUSCHECK</key>
+                <key id="vsAgent">REG_SA_DPS</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:55</key>
+                <key id="type">FILE_FORMAT</key>
+                <key id="vsAgent">REG_SA_DROID , Version 6.1.5 , Signature version Binary SF v.85/ Container SF v.16</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:55</key>
+                <key id="type">RISK_ANALYSIS</key>
+                <key id="vsAgent">REG_SA_DPS</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+            </section>
+            <section id="fileVirusCheck">
+              <record>
+                <key id="status">PASSED</key>
+                <key id="agent">REG_SA_DPS</key>
+                <key id="content">/operational_storage/storage1/2017/05/19/file_45/V1-FL156300.txt is Virus Free</key>
+              </record>
+            </section>
+            <section id="fileFormat">
+              <record>
+                <key id="agent">Rosetta, Rule ID: 140747</key>
+                <key id="formatRegistry">PRONOM</key>
+                <key id="formatRegistryId">x-fmt/111</key>
+                <key id="formatName">x-fmt/111</key>
+                <key id="formatDescription">Plain Text File</key>
+                <key id="exactFormatIdentification">false</key>
+                <key id="mimeType">text/plain</key>
+                <key id="formatLibraryVersion">5.01085</key>
+              </record>
+            </section>
+            <section id="generalFileCharacteristics">
+              <record>
+                <key id="fileLocationType">FILE</key>
+                <key id="fileOriginalName">bitstream_13079.txt</key>
+                <key id="fileOriginalID">/deposit_storage/20001-21000/dep_20862/deposit/content/streams/bitstream_13079.txt</key>
+                <key id="fileExtension">txt</key>
+                <key id="fileMIMEType">text/plain</key>
+                <key id="fileSizeBytes">674245</key>
+                <key id="formatLibraryId">x-fmt/111</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="FL156300-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"/>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:sourceMD ID="FL156300-amd-source">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="metaData">
+              <record>
+                <key id="MID">DNX_FL156300</key>
+                <key id="UUID">7166301</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="metadataType">21</key>
+              </record>
+              <record>
+                <key id="MID">DNX_FL156300</key>
+                <key id="UUID">20977968</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">SYSTEM</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="modifiedBy">SYSTEM</key>
+                <key id="metadataType">21</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:digiprovMD ID="FL156300-amd-digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="event">
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=MD5;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156300;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_13079.txt;DATE=19 05 2017 10:48:55;STATUS=SUCCESS;REP_PID=REP156297;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=SHA1;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156300;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_13079.txt;DATE=19 05 2017 10:48:55;STATUS=SUCCESS;REP_PID=REP156297;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=CRC32;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156300;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_13079.txt;DATE=19 05 2017 10:48:55;STATUS=SUCCESS;REP_PID=REP156297;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=SHA256;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156300;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_13079.txt;DATE=19 05 2017 10:48:55;STATUS=SUCCESS;REP_PID=REP156297;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">24</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Virus check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_DPS</key>
+                <key id="eventOutcomeDetail1">DEPOSIT_ACTIVITY_ID=20862;PID=FL156300;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=7;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">198</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Automatically Set Format Library ID on File</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">input.producerId eq any;input.formatIdList eq any;input.fileExtension eq txt;input.mimeType eq any;input.fileSize eq any;input.createDate eq any;input.agent eq any;input.method eq any;output.formatId eq x-fmt/111</key>
+                <key id="eventOutcomeDetail1">FORMAT_ID=x-fmt/111;FILE_EXTENSION=txt;DEPOSIT_ACTIVITY_ID=20862;PID=FL156300;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=48;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:55</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">25</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Format Identification performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_DROID , Version 6.1.5 , Signature version Binary SF v.85/ Container SF v.16</key>
+                <key id="eventOutcomeDetail1">FORMAT_ID=x-fmt/111;FILE_EXTENSION=txt;DEPOSIT_ACTIVITY_ID=20862;PID=FL156300;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=48;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:amdSec ID="REP156283-amd">
+    <mets:techMD ID="REP156283-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="generalRepCharacteristics">
+              <record>
+                <key id="preservationType">PRESERVATION_MASTER</key>
+                <key id="representationEntityType">PDF</key>
+                <key id="usageType">VIEW</key>
+                <key id="RevisionNumber">1</key>
+              </record>
+            </section>
+            <section id="internalIdentifier">
+              <record>
+                <key id="internalIdentifierType">SIPID</key>
+                <key id="internalIdentifierValue">20681</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">PID</key>
+                <key id="internalIdentifierValue">REP156283</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">DepositSetID</key>
+                <key id="internalIdentifierValue">20862</key>
+              </record>
+            </section>
+            <section id="objectCharacteristics">
+              <record>
+                <key id="objectType">REPRESENTATION</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="modifiedBy">automatedworker</key>
+                <key id="owner">CRS00.VUW00.LIBR</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="REP156283-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="accessRightsPolicy">
+              <record>
+                <key id="policyId">1063</key>
+                <key id="policyDescription">Admin access only (content)</key>
+              </record>
+            </section>
+            <section id="grantedRightsStatement">
+              <record>
+                <key id="grantedRightsStatementIdentifier">1063</key>
+                <key id="grantedRightsStatementValue"><![CDATA[<access_right_md xsi:nil="true" xmlns="http://com/exlibris/digitool/repository/api/xmlbeans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ar_description xmlns="">Admin access only (content)</ar_description>
+  <ar_copyrights required="true" xmlns="">
+    <text_file>com.exlibris.dps.backoffice.copyrights1</text_file>
+  </ar_copyrights>
+  <ar_conditions xmlns="">
+    <ar_condition>
+      <ar_expressions>
+        <ar_expression ar_operation="">
+          <key>not_guest</key>
+          <val1/>
+          <val2/>
+          <val3/>
+        </ar_expression>
+      </ar_expressions>
+    </ar_condition>
+  </ar_conditions>
+  <ar_mid xmlns="">1063</ar_mid>
+</access_right_md>]]></key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:sourceMD ID="REP156283-amd-source">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="metaData">
+              <record>
+                <key id="MID">DNX_REP156283</key>
+                <key id="UUID">7166304</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="metadataType">21</key>
+              </record>
+              <record>
+                <key id="MID">REP156283-1</key>
+                <key id="UUID">7166297</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:52</key>
+                <key id="metadataType">32</key>
+              </record>
+              <record>
+                <key id="MID">DNX_REP156283</key>
+                <key id="UUID">20977990</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">SYSTEM</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="modifiedBy">SYSTEM</key>
+                <key id="metadataType">21</key>
+              </record>
+              <record>
+                <key id="MID">REP156283-1</key>
+                <key id="UUID">20978124</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:52</key>
+                <key id="metadataType">32</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:digiprovMD ID="REP156283-amd-digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"/>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:amdSec ID="FL156284-amd">
+    <mets:techMD ID="FL156284-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="objectCharacteristics">
+              <record>
+                <key id="objectType">FILE</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="modifiedBy">automatedworker</key>
+                <key id="owner">CRS00.VUW00.LIBR</key>
+              </record>
+            </section>
+            <section id="internalIdentifier">
+              <record>
+                <key id="internalIdentifierType">SIPID</key>
+                <key id="internalIdentifierValue">20681</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">PID</key>
+                <key id="internalIdentifierValue">FL156284</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">DepositSetID</key>
+                <key id="internalIdentifierValue">20862</key>
+              </record>
+            </section>
+            <section id="fileFixity">
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">MD5</key>
+                <key id="fixityValue">f713307137017c14f4d2aa5b27a3334c</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">SHA1</key>
+                <key id="fixityValue">a4abdab2fada4cabd159df0a33815593d9c573f5</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">CRC32</key>
+                <key id="fixityValue">3bd75b07</key>
+              </record>
+              <record>
+                <key id="agent">REG_SA_JAVA5_FIXITY</key>
+                <key id="fixityType">SHA256</key>
+                <key id="fixityValue">a7ce6d9ad822ba0fc08f0c43176c0563cdf43b7fdfbfde954f50cb5243e6916a</key>
+              </record>
+            </section>
+            <section id="vsOutcome">
+              <record>
+                <key id="checkDate">2017-05-19 10:48:57</key>
+                <key id="type">CHECKSUM</key>
+                <key id="vsAgent">REG_SA_JAVA5_FIXITY</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:58</key>
+                <key id="type">VIRUSCHECK</key>
+                <key id="vsAgent">REG_SA_DPS</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:58</key>
+                <key id="type">FILE_FORMAT</key>
+                <key id="vsAgent">REG_SA_DROID , Version 6.1.5 , Signature version Binary SF v.85/ Container SF v.16</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:58</key>
+                <key id="type">TECHMD</key>
+                <key id="vsAgent">JHOVE , PDF-hul 1.7 , Plugin Version 3.0</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+              <record>
+                <key id="checkDate">2017-05-19 10:48:59</key>
+                <key id="type">RISK_ANALYSIS</key>
+                <key id="vsAgent">REG_SA_DPS</key>
+                <key id="result">PASSED</key>
+                <key id="vsEvaluation">PASSED</key>
+              </record>
+            </section>
+            <section id="fileVirusCheck">
+              <record>
+                <key id="status">PASSED</key>
+                <key id="agent">REG_SA_DPS</key>
+                <key id="content">/operational_storage/storage1/2017/05/19/file_45/V1-FL156284.pdf is Virus Free</key>
+              </record>
+            </section>
+            <section id="fileFormat">
+              <record>
+                <key id="agent">REG_SA_DROID</key>
+                <key id="formatRegistry">PRONOM</key>
+                <key id="formatRegistryId">fmt/18</key>
+                <key id="formatName">fmt/18</key>
+                <key id="formatVersion">1.4</key>
+                <key id="formatDescription">Portable Document Format</key>
+                <key id="exactFormatIdentification">true</key>
+                <key id="mimeType">application/pdf</key>
+                <key id="agentVersion">6.1.5</key>
+                <key id="agentSignatureVersion">Binary SF v.85/ Container SF v.16</key>
+                <key id="formatLibraryVersion">5.01085</key>
+              </record>
+            </section>
+            <section id="generalFileCharacteristics">
+              <record>
+                <key id="fileLocationType">FILE</key>
+                <key id="fileOriginalName">bitstream_9583.pdf</key>
+                <key id="fileOriginalID">/deposit_storage/20001-21000/dep_20862/deposit/content/streams/bitstream_9583.pdf</key>
+                <key id="fileExtension">pdf</key>
+                <key id="fileMIMEType">application/pdf</key>
+                <key id="fileSizeBytes">4512560</key>
+                <key id="formatLibraryId">fmt/18</key>
+              </record>
+            </section>
+            <section id="significantProperties">
+              <record>
+                <key id="significantPropertiesType">pdf.filterPipeline</key>
+                <key id="significantPropertiesValue">FlateDecode</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.freeObjects</key>
+                <key id="significantPropertiesValue">1</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.ID</key>
+                <key id="significantPropertiesValue">[0x5682486d2323074f76f7b3477ea81c09, 0x5682486d2323074f76f7b3477ea81c09]</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.incrementalUpdates</key>
+                <key id="significantPropertiesValue">0</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">object.author</key>
+                <key id="significantPropertiesValue">ÿþBrenda Lynne Chawner</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.creationDate</key>
+                <key id="significantPropertiesValue">Thu Jul 21 18:09:56 NZST 2011</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.originalFormatCreatingApplication</key>
+                <key id="significantPropertiesValue">pdfLaTeX</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.modifiedDate</key>
+                <key id="significantPropertiesValue">Thu Jul 21 18:09:56 NZST 2011</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">object.creatingApplication</key>
+                <key id="significantPropertiesValue">LaTeX with hyperref and classicthesis</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">object.title</key>
+                <key id="significantPropertiesValue">ÿþFactors Influencing Participant Satisfaction With Free/Libre and Open Source Projects</key>
+              </record>
+              <record>
+                <key id="significantPropertiesType">pdf.objectsCount</key>
+                <key id="significantPropertiesValue">5907</key>
+              </record>
+            </section>
+            <section id="fileValidation">
+              <record>
+                <key id="agent">JHOVE , PDF-hul 1.7 , Plugin Version 3.0</key>
+                <key id="pluginName">PDF-hul-1.10</key>
+                <key id="format">PDF</key>
+                <key id="version">1.4</key>
+                <key id="mimeType">application/pdf</key>
+                <key id="isValid">true</key>
+                <key id="isWellFormed">true</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="FL156284-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx"/>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:sourceMD ID="FL156284-amd-source">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="metaData">
+              <record>
+                <key id="MID">DNX_FL156284</key>
+                <key id="UUID">7166308</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="metadataType">21</key>
+              </record>
+              <record>
+                <key id="MID">DNX_FL156284</key>
+                <key id="UUID">20978008</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">SYSTEM</key>
+                <key id="modificationDate">2017-05-19 10:48:51</key>
+                <key id="modifiedBy">SYSTEM</key>
+                <key id="metadataType">21</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:digiprovMD ID="FL156284-amd-digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="event">
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:56</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=MD5;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156284;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9583.pdf;DATE=19 05 2017 10:48:56;STATUS=SUCCESS;REP_PID=REP156283;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:56</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=SHA1;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156284;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9583.pdf;DATE=19 05 2017 10:48:56;STATUS=SUCCESS;REP_PID=REP156283;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:57</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=CRC32;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156284;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9583.pdf;DATE=19 05 2017 10:48:57;STATUS=SUCCESS;REP_PID=REP156283;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:57</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">27</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Fixity check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_JAVA5_FIXITY</key>
+                <key id="eventOutcomeDetail1">IE_PID=IE156282;COPY_ID=null;ALGORITHM_NAME=SHA256;DEPOSIT_ACTIVITY_ID=20862;FILE_PID=FL156284;SIP_ID=20681;PRODUCER_ID=126422;FILE_NAME=bitstream_9583.pdf;DATE=19 05 2017 10:48:57;STATUS=SUCCESS;REP_PID=REP156283;TASK_ID=1;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:58</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">24</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Virus check performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_DPS</key>
+                <key id="eventOutcomeDetail1">DEPOSIT_ACTIVITY_ID=20862;PID=FL156284;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=7;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:58</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">25</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Format Identification performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">REG_SA_DROID , Version 6.1.5 , Signature version Binary SF v.85/ Container SF v.16</key>
+                <key id="eventOutcomeDetail1">FORMAT_ID=fmt/18;IDENTIFICATION_METHOD=SIGNATURE;FILE_EXTENSION=pdf;DEPOSIT_ACTIVITY_ID=20862;PID=FL156284;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=48;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-19 10:48:58</key>
+                <key id="eventType">VALIDATION</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">165</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">Technical Metadata extraction performed on file</key>
+                <key id="linkingAgentIdentifierType1">SOFTWARE</key>
+                <key id="linkingAgentIdentifierValue1">JHOVE , PDF-hul 1.7 , Plugin Version 3.0</key>
+                <key id="eventOutcomeDetail1">DEPOSIT_ACTIVITY_ID=20862;PID=FL156284;SIP_ID=20681;PRODUCER_ID=126422;TASK_ID=49;PROCESS_ID=;MF_ID=126843;</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:amdSec ID="ie-amd">
+    <mets:techMD ID="ie-amd-tech">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="generalIECharacteristics">
+              <record>
+                <key id="IEEntityType">DoctoralThesis</key>
+                <key id="status">ACTIVE</key>
+              </record>
+            </section>
+            <section id="internalIdentifier">
+              <record>
+                <key id="internalIdentifierType">SIPID</key>
+                <key id="internalIdentifierValue">20681</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">PID</key>
+                <key id="internalIdentifierValue">IE156282</key>
+              </record>
+              <record>
+                <key id="internalIdentifierType">DepositSetID</key>
+                <key id="internalIdentifierValue">20862</key>
+              </record>
+            </section>
+            <section id="objectCharacteristics">
+              <record>
+                <key id="objectType">INTELLECTUAL_ENTITY</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-19 10:48:50</key>
+                <key id="modifiedBy">automatedworker</key>
+                <key id="owner">CRS00.VUW00.LIBR</key>
+              </record>
+            </section>
+            <section id="Collection">
+              <record>
+                <key id="collectionId">18552488</key>
+              </record>
+              <record>
+                <key id="collectionId">18552522</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:techMD>
+    <mets:rightsMD ID="ie-amd-rights">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="accessRightsPolicy">
+              <record>
+                <key id="policyId">AR_EVERYONE</key>
+                <key id="policyDescription">No restrictions</key>
+              </record>
+            </section>
+            <section id="grantedRightsStatement">
+              <record>
+                <key id="grantedRightsStatementIdentifier">AR_EVERYONE</key>
+                <key id="grantedRightsStatementValue"><![CDATA[<ar:access_right_md xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ar="http://com/exlibris/digitool/repository/api/xmlbeans" targetNamespace="http://com/exlibris/digitool/repository/api/xmlbeans">
+        <ar_description>No restrictions</ar_description>
+        <ar_conditions>
+                <ar_condition>
+                        <ar_expressions>
+                                <ar_expression>
+                                        <key>everyone</key>
+                                </ar_expression>
+                        </ar_expressions>
+                </ar_condition>
+        </ar_conditions>
+</ar:access_right_md>]]></key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+    <mets:sourceMD ID="ie-amd-source">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="metaData">
+              <record>
+                <key id="MID">DNX_IE156282</key>
+                <key id="UUID">7166289</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">automatedworker</key>
+                <key id="modificationDate">2017-05-30 13:58:00</key>
+                <key id="modifiedBy">SYSTEM</key>
+                <key id="metadataType">21</key>
+                <key id="application">ResearchArchive</key>
+              </record>
+              <record>
+                <key id="MID">DNX_IE156282</key>
+                <key id="UUID">20977671</key>
+                <key id="creationDate">2017-05-19 10:48:50</key>
+                <key id="createdBy">SYSTEM</key>
+                <key id="modificationDate">2017-05-30 13:58:00</key>
+                <key id="modifiedBy">SYSTEM</key>
+                <key id="metadataType">21</key>
+                <key id="application">ResearchArchive</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:sourceMD ID="ie-amd-source-MARC-1">
+      <mets:mdWrap MDTYPE="MARC">
+        <mets:xmlData>
+          <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:locmets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <marc:record>
+              <marc:leader>01295cam a2200277 a 4500</marc:leader>
+              <marc:controlfield tag="001">9917718864002386</marc:controlfield>
+              <marc:controlfield tag="005">20150116122846.0</marc:controlfield>
+              <marc:controlfield tag="006">m     o  d |</marc:controlfield>
+              <marc:controlfield tag="007">cr |n|||||||||</marc:controlfield>
+              <marc:controlfield tag="008">110728s2011    nz a     bm   000 0 eng d</marc:controlfield>
+              <marc:datafield tag="035" ind1=" " ind2=" ">
+                <marc:subfield code="a">(NZ-WeVUL)1771886-Victoriadb</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="040" ind1=" " ind2=" ">
+                <marc:subfield code="a">WU</marc:subfield>
+                <marc:subfield code="c">WU</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="100" ind1="1" ind2=" ">
+                <marc:subfield code="a">Chawner, Brenda.</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="245" ind1="1" ind2="0">
+                <marc:subfield code="a">Factors influencing participant satisfaction with free/libre and open source software projects :</marc:subfield>
+                <marc:subfield code="b">a thesis submitted to the Victoria University of Wellington in fulfilment of the requirements for the degree of Doctor of Philosophy in Information Systems /</marc:subfield>
+                <marc:subfield code="c">by Brenda Chawner.</marc:subfield>
+                <marc:subfield code="h">[electronic resource]</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="260" ind1=" " ind2=" ">
+                <marc:subfield code="c">2011.</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="300" ind1=" " ind2=" ">
+                <marc:subfield code="a">xvi, 303 p. :</marc:subfield>
+                <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+                <marc:subfield code="c">30 cm.</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="502" ind1=" " ind2=" ">
+                <marc:subfield code="a">Thesis (Ph.D.)--Victoria University of Wellington, 2011.</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="504" ind1=" " ind2=" ">
+                <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="588" ind1=" " ind2=" ">
+                <marc:subfield code="a">Description based on print version record.</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="650" ind1=" " ind2="0">
+                <marc:subfield code="a">Human-computer interaction</marc:subfield>
+                <marc:subfield code="x">Evaluation.</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="650" ind1=" " ind2="0">
+                <marc:subfield code="a">Open source software</marc:subfield>
+                <marc:subfield code="x">Public opinion.</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="650" ind1=" " ind2="0">
+                <marc:subfield code="a">Open source software.</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="650" ind1=" " ind2="0">
+                <marc:subfield code="a">Satisfaction</marc:subfield>
+                <marc:subfield code="x">Testing.</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="776" ind1="0" ind2="8">
+                <marc:subfield code="i">Print version:</marc:subfield>
+                <marc:subfield code="w">9913434974002386</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="830" ind1=" " ind2="0">
+                <marc:subfield code="a">Theses.</marc:subfield>
+                <marc:subfield code="p">Information Systems.</marc:subfield>
+                <marc:subfield code="p">Ph.D. (Victoria University of Wellington) ;</marc:subfield>
+                <marc:subfield code="v">24.</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="856" ind1="4" ind2=" ">
+                <marc:subfield code="u">http://researcharchive.vuw.ac.nz/handle/10063/1710</marc:subfield>
+                <marc:subfield code="z">ResearchArchive@ Victoria e-thesis</marc:subfield>
+              </marc:datafield>
+              <marc:datafield tag="957" ind1=" " ind2=" ">
+                <marc:subfield code="m">vuwegrab</marc:subfield>
+                <marc:subfield code="d">2015-01-16</marc:subfield>
+              </marc:datafield>
+            </marc:record>
+          </marc:collection>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:sourceMD ID="ie-amd-source-MODS-1">
+      <mets:mdWrap MDTYPE="MODS">
+        <mets:xmlData>
+          <mods:mods xmlns:locmets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <mods:name>
+              <mods:role>
+                <mods:roleTerm type="text">advisor</mods:roleTerm>
+              </mods:role>
+              <mods:namePart>Huff, Sid</mods:namePart>
+            </mods:name>
+            <mods:name>
+              <mods:role>
+                <mods:roleTerm type="text">advisor</mods:roleTerm>
+              </mods:role>
+              <mods:namePart>Gorman, Gary</mods:namePart>
+            </mods:name>
+            <mods:name>
+              <mods:role>
+                <mods:roleTerm type="text">author</mods:roleTerm>
+              </mods:role>
+              <mods:namePart>Chawner, Brenda</mods:namePart>
+            </mods:name>
+            <mods:extension>
+              <mods:dateAccessioned encoding="iso8601">2011-07-28T21:18:40Z</mods:dateAccessioned>
+            </mods:extension>
+            <mods:extension>
+              <mods:dateAvailable encoding="iso8601">2011-07-28T21:18:40Z</mods:dateAvailable>
+            </mods:extension>
+            <mods:originInfo>
+              <mods:copyrightDate encoding="iso8601">2011</mods:copyrightDate>
+            </mods:originInfo>
+            <mods:originInfo>
+              <mods:copyrightDate encoding="iso8601">2011</mods:copyrightDate>
+            </mods:originInfo>
+            <mods:originInfo>
+              <mods:dateIssued encoding="iso8601">2011</mods:dateIssued>
+            </mods:originInfo>
+            <mods:identifier type="uri">http://hdl.handle.net/10063/1710</mods:identifier>
+            <mods:abstract>The purpose of this research was to identify factors that affect participants’ satisfaction with their experience of a free/libre open source software (FLOSS) project. The research built on existing models of user satisfaction from the information systems literature, and also incorporated two characteristics of FLOSS projects first identified by Ye, Nakakoji, Yamamoto, and Kishida (2005), product openness and process openness. The central research question it answered was, What factors influence participant satisfaction with a free/libre and open source application software project?
+Richard Stallman’s reasons for setting up the GNU project and the Free Software Foundation arose from his frustration at being forced to be a passive user of software used for a Xerox printer. These suggest that being able to be an active participant in a FLOSS project is one factor that should be examined, and therefore the first sub-question this project answers is, What types of contributions do participants make to free/libre and open source software projects?
+Several studies have shown that the extent of participation in a FLOSS project varies from individual to individual, and this variation leads to the second sub-question, Do the factors that influence satisfaction vary for different types of participation? If so, in what way?
+A preliminary conceptual model of factors affecting participant satisfaction was developed, reflecting the key concepts identified in the literature. The main theoretical goal of this research was to test the model using empirical data.
+The research used a sequential, mixed methods approach. The first, qualitative stage involved reviewing documents from selected projects and interviewing a purposive sample of FLOSS project participants. The second, quantitative stage involved an online survey of FLOSS project participants, and the data gathered were used to test the conceptual model.
+The results of the first stage showed that participation in FLOSS projects was a more complex construct than previously reported in the literature. Seven distinct categories of activities were identified:
+• use;
+• interaction with code;
+• supporting the community;
+• outreach;
+• sponsorship;
+• management; and
+• governance.
+Four attributes that modified these categories were also identified: organisational focus, role formality, remuneration, and time commitment.
+Data from 154 responses to the online survey were used to test the model using stepwise multiple regression, which determined the effect of each of the variables on overall participant satisfaction. Moderated regression analysis was used to test the effects of three potential moderating variables. The results showed that that perceived system complexity had the largest effect, decreasing satisfaction if respondents perceived that the software was complex, while project openness and perceived developer communication quality accounted for the most variance in satisfaction.
+The main theoretical contribution of this research lies in its extension of satisfaction studies to FLOSS communities, showing that  communication and openness are more important than in conventional software projects. Its practical contribution will help people involved in the management and governance of FLOSS projects to identify ways of increasing their participants’ satisfaction, which may in turn encourage them to contribute more.</mods:abstract>
+            <mods:language>
+              <mods:languageTerm authority="rfc3066">en_NZ</mods:languageTerm>
+            </mods:language>
+            <mods:originInfo>
+              <mods:publisher>Victoria University of Wellington</mods:publisher>
+            </mods:originInfo>
+            <mods:subject>
+              <mods:topic>Satisfaction</mods:topic>
+            </mods:subject>
+            <mods:subject>
+              <mods:topic>Participation</mods:topic>
+            </mods:subject>
+            <mods:subject>
+              <mods:topic>FLOSS (Free/libre open source software)</mods:topic>
+            </mods:subject>
+            <mods:titleInfo>
+              <mods:title>Factors Influencing Participant Satisfaction with Free/Libre and Open Source Software Projects</mods:title>
+            </mods:titleInfo>
+            <mods:genre>Text</mods:genre>
+          </mods:mods>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:sourceMD ID="302517">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="premis">
+        <mets:xmlData>
+          <premis:premis xmlns:locmets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <premis:object>
+              <premis:objectIdentifier>
+                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/5/form.pdf.txt</premis:objectIdentifierValue>
+              </premis:objectIdentifier>
+              <premis:objectCategory>File</premis:objectCategory>
+              <premis:objectCharacteristics>
+                <premis:fixity>
+                  <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                  <premis:messageDigest>68b329da9893e34099c7d8ad5cb9c940</premis:messageDigest>
+                </premis:fixity>
+                <premis:size>1</premis:size>
+                <premis:format>
+                  <premis:formatDesignation>
+                    <premis:formatName>text/plain</premis:formatName>
+                  </premis:formatDesignation>
+                </premis:format>
+              </premis:objectCharacteristics>
+              <premis:originalName>form.pdf.txt</premis:originalName>
+            </premis:object>
+            <premis:object>
+              <premis:objectIdentifier>
+                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/6/thesis.pdf.txt</premis:objectIdentifierValue>
+              </premis:objectIdentifier>
+              <premis:objectCategory>File</premis:objectCategory>
+              <premis:objectCharacteristics>
+                <premis:fixity>
+                  <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                  <premis:messageDigest>56656ecfd8dea1cd0e66591cfe3469e8</premis:messageDigest>
+                </premis:fixity>
+                <premis:size>674245</premis:size>
+                <premis:format>
+                  <premis:formatDesignation>
+                    <premis:formatName>text/plain</premis:formatName>
+                  </premis:formatDesignation>
+                </premis:format>
+              </premis:objectCharacteristics>
+              <premis:originalName>thesis.pdf.txt</premis:originalName>
+            </premis:object>
+            <premis:object>
+              <premis:objectIdentifier>
+                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/1/form.pdf</premis:objectIdentifierValue>
+              </premis:objectIdentifier>
+              <premis:objectCategory>File</premis:objectCategory>
+              <premis:objectCharacteristics>
+                <premis:fixity>
+                  <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                  <premis:messageDigest>b139fcc262845937b92cbeb0f6abd62a</premis:messageDigest>
+                </premis:fixity>
+                <premis:size>37589</premis:size>
+                <premis:format>
+                  <premis:formatDesignation>
+                    <premis:formatName>application/pdf</premis:formatName>
+                  </premis:formatDesignation>
+                </premis:format>
+              </premis:objectCharacteristics>
+              <premis:originalName>form.pdf</premis:originalName>
+            </premis:object>
+            <premis:object>
+              <premis:objectIdentifier>
+                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/4/thesis.pdf</premis:objectIdentifierValue>
+              </premis:objectIdentifier>
+              <premis:objectCategory>File</premis:objectCategory>
+              <premis:objectCharacteristics>
+                <premis:fixity>
+                  <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                  <premis:messageDigest>f713307137017c14f4d2aa5b27a3334c</premis:messageDigest>
+                </premis:fixity>
+                <premis:size>4512560</premis:size>
+                <premis:format>
+                  <premis:formatDesignation>
+                    <premis:formatName>application/pdf</premis:formatName>
+                  </premis:formatDesignation>
+                </premis:format>
+              </premis:objectCharacteristics>
+              <premis:originalName>thesis.pdf</premis:originalName>
+            </premis:object>
+            <premis:object>
+              <premis:objectIdentifier>
+                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                <premis:objectIdentifierValue>http://researcharchive.vuw.ac.nz/bitstream/10063%2F1710/3/license.txt</premis:objectIdentifierValue>
+              </premis:objectIdentifier>
+              <premis:objectCategory>File</premis:objectCategory>
+              <premis:objectCharacteristics>
+                <premis:fixity>
+                  <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                  <premis:messageDigest>52a10f51205b72f1ef90f1cdfd93bc6f</premis:messageDigest>
+                </premis:fixity>
+                <premis:size>2162</premis:size>
+                <premis:format>
+                  <premis:formatDesignation>
+                    <premis:formatName>text/plain</premis:formatName>
+                  </premis:formatDesignation>
+                </premis:format>
+              </premis:objectCharacteristics>
+              <premis:originalName>license.txt</premis:originalName>
+            </premis:object>
+          </premis:premis>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:sourceMD ID="302518">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dim">
+        <mets:xmlData>
+          <dim:dim xmlns:locmets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <dim:field mdschema="dc" element="contributor" qualifier="advisor" lang="">Huff, Sid</dim:field>
+            <dim:field mdschema="dc" element="contributor" qualifier="advisor" lang="">Gorman, Gary</dim:field>
+            <dim:field mdschema="dc" element="contributor" qualifier="author" lang="">Chawner, Brenda</dim:field>
+            <dim:field mdschema="dc" element="date" qualifier="accessioned" lang="">2011-07-28T21:18:40Z</dim:field>
+            <dim:field mdschema="dc" element="date" qualifier="available" lang="">2011-07-28T21:18:40Z</dim:field>
+            <dim:field mdschema="dc" element="date" qualifier="copyright" lang="">2011</dim:field>
+            <dim:field mdschema="dc" element="date" qualifier="copyright" lang="">2011</dim:field>
+            <dim:field mdschema="dc" element="date" qualifier="issued" lang="">2011</dim:field>
+            <dim:field mdschema="dc" element="identifier" qualifier="uri" lang="">http://hdl.handle.net/10063/1710</dim:field>
+            <dim:field mdschema="dc" element="description" qualifier="abstract" lang="en_NZ">The purpose of this research was to identify factors that affect participants’ satisfaction with their experience of a free/libre open source software (FLOSS) project. The research built on existing models of user satisfaction from the information systems literature, and also incorporated two characteristics of FLOSS projects first identified by Ye, Nakakoji, Yamamoto, and Kishida (2005), product openness and process openness. The central research question it answered was, What factors influence participant satisfaction with a free/libre and open source application software project?
+Richard Stallman’s reasons for setting up the GNU project and the Free Software Foundation arose from his frustration at being forced to be a passive user of software used for a Xerox printer. These suggest that being able to be an active participant in a FLOSS project is one factor that should be examined, and therefore the first sub-question this project answers is, What types of contributions do participants make to free/libre and open source software projects?
+Several studies have shown that the extent of participation in a FLOSS project varies from individual to individual, and this variation leads to the second sub-question, Do the factors that influence satisfaction vary for different types of participation? If so, in what way?
+A preliminary conceptual model of factors affecting participant satisfaction was developed, reflecting the key concepts identified in the literature. The main theoretical goal of this research was to test the model using empirical data.
+The research used a sequential, mixed methods approach. The first, qualitative stage involved reviewing documents from selected projects and interviewing a purposive sample of FLOSS project participants. The second, quantitative stage involved an online survey of FLOSS project participants, and the data gathered were used to test the conceptual model.
+The results of the first stage showed that participation in FLOSS projects was a more complex construct than previously reported in the literature. Seven distinct categories of activities were identified:
+• use;
+• interaction with code;
+• supporting the community;
+• outreach;
+• sponsorship;
+• management; and
+• governance.
+Four attributes that modified these categories were also identified: organisational focus, role formality, remuneration, and time commitment.
+Data from 154 responses to the online survey were used to test the model using stepwise multiple regression, which determined the effect of each of the variables on overall participant satisfaction. Moderated regression analysis was used to test the effects of three potential moderating variables. The results showed that that perceived system complexity had the largest effect, decreasing satisfaction if respondents perceived that the software was complex, while project openness and perceived developer communication quality accounted for the most variance in satisfaction.
+The main theoretical contribution of this research lies in its extension of satisfaction studies to FLOSS communities, showing that  communication and openness are more important than in conventional software projects. Its practical contribution will help people involved in the management and governance of FLOSS projects to identify ways of increasing their participants’ satisfaction, which may in turn encourage them to contribute more.</dim:field>
+            <dim:field mdschema="dc" element="description" qualifier="provenance" lang="en_NZ">Submitted by Christine Farley (christine.farley@vuw.ac.nz) on 2011-07-28T21:18:11Z
+No. of bitstreams: 2
+form.pdf: 37589 bytes, checksum: b139fcc262845937b92cbeb0f6abd62a (MD5)
+thesis.pdf: 4557791 bytes, checksum: 3eb91108d1942aa0b7f0c4ba216d693f (MD5)</dim:field>
+            <dim:field mdschema="dc" element="description" qualifier="provenance" lang="en_NZ">Approved for entry into archive by Christine Farley(christine.farley@vuw.ac.nz) on 2011-07-28T21:18:40Z (GMT) No. of bitstreams: 2
+form.pdf: 37589 bytes, checksum: b139fcc262845937b92cbeb0f6abd62a (MD5)
+thesis.pdf: 4557791 bytes, checksum: 3eb91108d1942aa0b7f0c4ba216d693f (MD5)</dim:field>
+            <dim:field mdschema="dc" element="description" qualifier="provenance" lang="en_NZ">Made available in DSpace on 2011-07-28T21:18:40Z (GMT). No. of bitstreams: 2
+form.pdf: 37589 bytes, checksum: b139fcc262845937b92cbeb0f6abd62a (MD5)
+thesis.pdf: 4557791 bytes, checksum: 3eb91108d1942aa0b7f0c4ba216d693f (MD5)</dim:field>
+            <dim:field mdschema="dc" element="language" qualifier="iso" lang="">en_NZ</dim:field>
+            <dim:field mdschema="dc" element="publisher" lang="en_NZ">Victoria University of Wellington</dim:field>
+            <dim:field mdschema="dc" element="subject" lang="en_NZ">Satisfaction</dim:field>
+            <dim:field mdschema="dc" element="subject" lang="en_NZ">Participation</dim:field>
+            <dim:field mdschema="dc" element="subject" lang="en_NZ">FLOSS (Free/libre open source software)</dim:field>
+            <dim:field mdschema="dc" element="title" lang="en_NZ">Factors Influencing Participant Satisfaction with Free/Libre and Open Source Software Projects</dim:field>
+            <dim:field mdschema="dc" element="type" lang="en_NZ">Text</dim:field>
+            <dim:field mdschema="vuwschema" element="contributor" qualifier="unit" lang="en_NZ">School of Information Management</dim:field>
+            <dim:field mdschema="vuwschema" element="subject" qualifier="marsden" lang="en_NZ">280199 Information Systems not Elsewhere Classified</dim:field>
+            <dim:field mdschema="vuwschema" element="type" qualifier="vuw" lang="en_NZ">Awarded Doctoral Thesis</dim:field>
+            <dim:field mdschema="thesis" element="degree" qualifier="discipline" lang="en_NZ">Information Systems</dim:field>
+            <dim:field mdschema="thesis" element="degree" qualifier="grantor" lang="en_NZ">Victoria University of Wellington</dim:field>
+            <dim:field mdschema="thesis" element="degree" qualifier="level" lang="en_NZ">Doctoral</dim:field>
+            <dim:field mdschema="thesis" element="degree" qualifier="name" lang="en_NZ">Doctor of Philosophy</dim:field>
+            <dim:field mdschema="dc" element="rights" qualifier="license" lang="en_NZ">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 New Zealand License.  http://creativecommons.org/licenses/by-sa/3.0/nz/</dim:field>
+            <dim:field mdschema="dc" element="creator">christine.farley@vuw.ac.nz</dim:field>
+            <dim:field mdschema="dc" element="identifier" qualifier="uri">hdl:10063/1710</dim:field>
+            <dim:field mdschema="dc" element="relation" qualifier="isPartOf">hdl:10063/32</dim:field>
+            <dim:field mdschema="dc" element="relation" qualifier="isReferencedBy">hdl:10063/235</dim:field>
+            <dim:field mdschema="dc" element="title">form.pdf.txt</dim:field>
+            <dim:field mdschema="dc" element="title" qualifier="alternative">Written by FormatFilter org.dspace.app.mediafilter.PDFFilter on 2011-08-18T14:36:46Z (GMT).</dim:field>
+            <dim:field mdschema="dc" element="description">Extracted text</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="medium">Text</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="mimetype">text/plain</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+            <dim:field mdschema="dc" element="title">thesis.pdf.txt</dim:field>
+            <dim:field mdschema="dc" element="title" qualifier="alternative">Written by FormatFilter org.dspace.app.mediafilter.PDFFilter on 2012-09-07T15:34:51Z (GMT).</dim:field>
+            <dim:field mdschema="dc" element="description">Extracted text</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="medium">Text</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="mimetype">text/plain</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+            <dim:field mdschema="dc" element="title">form.pdf</dim:field>
+            <dim:field mdschema="dc" element="title" qualifier="alternative">form.pdf</dim:field>
+            <dim:field mdschema="dc" element="description">Permission Form (Admin)</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="medium">Adobe PDF</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="mimetype">application/pdf</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+            <dim:field mdschema="dc" element="title">thesis.pdf</dim:field>
+            <dim:field mdschema="dc" element="title" qualifier="alternative">thesis.pdf</dim:field>
+            <dim:field mdschema="dc" element="description">Thesis</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="medium">Adobe PDF</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="mimetype">application/pdf</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="internal">false</dim:field>
+            <dim:field mdschema="dc" element="title">license.txt</dim:field>
+            <dim:field mdschema="dc" element="title" qualifier="alternative">Written by org.dspace.content.LicenseUtils</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="medium">License</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="mimetype">text/plain</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="supportlevel">KNOWN</dim:field>
+            <dim:field mdschema="dc" element="format" qualifier="internal">true</dim:field>
+          </dim:dim>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:sourceMD>
+    <mets:digiprovMD ID="ie-amd-digiprov">
+      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="dnx">
+        <mets:xmlData>
+          <dnx xmlns="http://www.exlibrisgroup.com/dps/dnx">
+            <section id="producer">
+              <record>
+                <key id="address1">Library, Kelburn Pde</key>
+                <key id="address4">NewZealand</key>
+                <key id="defaultLanguage">en</key>
+                <key id="emailAddress">library-technologyservices@vuw.ac.nz</key>
+                <key id="firstName">VUW Library</key>
+                <key id="lastName">Library</key>
+                <key id="telephone1">6096</key>
+                <key id="authorativeName">Library</key>
+                <key id="producerId">126422</key>
+                <key id="userIdAppId">126421</key>
+              </record>
+            </section>
+            <section id="producerAgent">
+              <record>
+                <key id="firstName">Library</key>
+                <key id="lastName">Technology Services</key>
+              </record>
+            </section>
+            <section id="event">
+              <record>
+                <key id="eventDateTime">2017-05-30 13:58:00</key>
+                <key id="eventType">ENRICHMENT</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">401</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">IE has been added to collection</key>
+                <key id="linkingAgentIdentifierType1">USER</key>
+                <key id="linkingAgentIdentifierValue1">SYSTEM</key>
+                <key id="eventOutcomeDetail1">COLLECTION_NAME=School of Information Management;COLLECTION_ID=18552488;PID=IE156282;DCSource=dcterms:isPartOf;DCSourceDeleted=false;</key>
+              </record>
+              <record>
+                <key id="eventDateTime">2017-05-30 13:58:00</key>
+                <key id="eventType">ENRICHMENT</key>
+                <key id="eventIdentifierType">DPS</key>
+                <key id="eventIdentifierValue">401</key>
+                <key id="eventOutcome1">SUCCESS</key>
+                <key id="eventDescription">IE has been added to collection</key>
+                <key id="linkingAgentIdentifierType1">USER</key>
+                <key id="linkingAgentIdentifierValue1">SYSTEM</key>
+                <key id="eventOutcomeDetail1">COLLECTION_NAME=Awarded Doctoral Thesis;COLLECTION_ID=18552522;PID=IE156282;DCSource=dcterms:isPartOf;DCSourceDeleted=false;</key>
+              </record>
+            </section>
+          </dnx>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:digiprovMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp ID="REP156305" ADMID="REP156305-amd">
+      <mets:file ID="FL156306" ADMID="FL156306-amd">
+        <mets:FLocat LOCTYPE="URL" xlin:href="/operational_shared/staff_work_area/VUW00/300164421/export/ies/2/IE156282/REP156305/REP156305.tar/nullbitstream_9583.pdf" xmlns:xlin="http://www.w3.org/1999/xlink"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp ID="REP156295" ADMID="REP156295-amd">
+      <mets:file ID="FL156296" DMDID="FL156296-dmd" ADMID="FL156296-amd">
+        <mets:FLocat LOCTYPE="URL" xlin:href="/operational_shared/staff_work_area/VUW00/300164421/export/ies/2/IE156282/REP156295/REP156295.tar/nullbitstream_9558.pdf" xmlns:xlin="http://www.w3.org/1999/xlink"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp ID="REP156297" ADMID="REP156297-amd">
+      <mets:file ID="FL156298" ADMID="FL156298-amd">
+        <mets:FLocat LOCTYPE="URL" xlin:href="/operational_shared/staff_work_area/VUW00/300164421/export/ies/2/IE156282/REP156297/REP156297.tar/nullbitstream_9732.txt" xmlns:xlin="http://www.w3.org/1999/xlink"/>
+      </mets:file>
+      <mets:file ID="FL156300" ADMID="FL156300-amd">
+        <mets:FLocat LOCTYPE="URL" xlin:href="/operational_shared/staff_work_area/VUW00/300164421/export/ies/2/IE156282/REP156297/REP156297.tar/nullbitstream_13079.txt" xmlns:xlin="http://www.w3.org/1999/xlink"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp ID="REP156283" ADMID="REP156283-amd">
+      <mets:file ID="FL156284" DMDID="FL156284-dmd" ADMID="FL156284-amd">
+        <mets:FLocat LOCTYPE="URL" xlin:href="/operational_shared/staff_work_area/VUW00/300164421/export/ies/2/IE156282/REP156283/REP156283.tar/nullbitstream_9583.pdf" xmlns:xlin="http://www.w3.org/1999/xlink"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <locmets:structMap ID="REP156305-1" TYPE="logical" xmlns:locmets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:div LABEL="FULL TEXT">
+      <mets:div TYPE="FILE" LABEL="thesis.pdf">
+        <mets:fptr FILEID="FL156306"/>
+      </mets:div>
+    </mets:div>
+  </locmets:structMap>
+  <locmets:structMap ID="REP156295-1" TYPE="logical" xmlns:locmets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:div LABEL="PERMISSION FORM">
+      <mets:div TYPE="FILE" LABEL="form.pdf">
+        <mets:fptr FILEID="FL156296"/>
+      </mets:div>
+    </mets:div>
+  </locmets:structMap>
+  <locmets:structMap ID="REP156297-1" TYPE="logical" xmlns:locmets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:div LABEL="EXTRACTED TEXT">
+      <mets:div TYPE="FILE" LABEL="form.pdf.txt">
+        <mets:fptr FILEID="FL156298"/>
+      </mets:div>
+      <mets:div TYPE="FILE" LABEL="thesis.pdf.txt">
+        <mets:fptr FILEID="FL156300"/>
+      </mets:div>
+    </mets:div>
+  </locmets:structMap>
+  <locmets:structMap ID="REP156283-1" TYPE="logical" xmlns:locmets="http://www.loc.gov/METS/" xmlns:dnx="http://www.exlibrisgroup.com/dps/dnx" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:vuwschema="http://library.vuw.ac.nz" xmlns:thesis="http://www.ndltd.org/standards/metadata/current.html" xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:div LABEL="PRESERVATION MASTER">
+      <mets:div TYPE="FILE" LABEL="thesis.pdf">
+        <mets:fptr FILEID="FL156284"/>
+      </mets:div>
+    </mets:div>
+  </locmets:structMap>
+</mets:mets>
